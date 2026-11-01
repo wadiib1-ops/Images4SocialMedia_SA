@@ -43,7 +43,7 @@ H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
  - Facebook-Feed: Rendern mit make_feed_image.py einmal wiederholen. Bleibt es fehlerhaft, Regel G.
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
-Musste der Facebook-Eintrag ohne Logo auskommen, trägt das Video trotzdem das Logo (Abschnitt 8). Das Logo wird nie doppelt aufgesetzt.
+Das Logo im Feed-Bild und im Video steht je einmal, nie doppelt.
 
 5. FACEBOOK-FEED IM DESIGN "SAUDI KORA NEWS"
 Der Facebook-Feed-Post wird mit make_feed_image.py erzeugt (1080 x 1080, PNG): dunkelgrüner Grund #0B3D26, goldene Akzente #C9A227, Logo oben links, das Foto ganz sichtbar im Rahmen (nicht beschnitten), Kategorie in Gold, Schlagzeile, Seitenname und Handle unten, goldene Leiste am unteren Rand. Im Bild stehen keine Quellenangabe, keine URL und keine Hashtags.

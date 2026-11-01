@@ -11,7 +11,7 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
 ## Vier Einträge je Meldung, gleiche Zeit, gleiche quelle_url und titel
-1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = LOGO-URL aus PROMPT.md Abschnitt 5. Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
+1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
 3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
 4. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url` wie Facebook-Story, `caption` leer.
