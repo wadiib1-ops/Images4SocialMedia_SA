@@ -5,10 +5,9 @@ Aufruf:
   python3 make_story_video.py <Arbeitsordner> <Repo-Ordner> <TAG>
 Der Arbeitsordner braucht foto.jpg (RGB); die Textabschnitte werden dort als PNG abgelegt.
 Ausgabe: <Arbeitsordner>/musik-<TAG>-story-text.mp4 (Reel-Kopie: musik-<TAG>-reel-text.mp4 separat kopieren).
-Foto: gleitet in 0,9 s von links ins Bild und zoomt danach sanft rein und raus (8 s Zyklus, +-6 %).
+Foto: gleitet in 0,9 s von links ins Bild und zoomt danach sanft rein und raus (Zoom 1,00 bis 1,12, 8 s Zyklus; zoompan).
 Logo: wächst in 0,5 s auf 106 px oben links. Text: je Abschnitt 0,4 s ein, 3 s stehen, 0,4 s aus.
-"""
-import glob, os, random, subprocess, sys, shutil
+"""import glob, os, random, subprocess, sys, shutil
 W = sys.argv[1]; R = sys.argv[2]; TAG = sys.argv[3]
 SECTIONS = [
  "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
@@ -35,7 +34,7 @@ parts = []
 # Hintergrund: unscharfes Foto, leicht abgedunkelt
 parts.append("[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=25:3,eq=brightness=-0.2[bg]")
 # Foto: gleitet in 0,9 s von links ins Bild (Ease-out), danach sanftes Schweben
-parts.append("[0:v]scale=w='1000*(1+0.06*sin(2*PI*t/8))':h=-2:eval=frame,format=rgba[fg]")
+parts.append("[0:v]zoompan=z='1+0.06*(1+sin(2*PI*on/200))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1000x563:fps=25,format=rgba[fg]")
 parts.append("[bg][fg]overlay=x='(W-w)/2-1100*max(0,1-t/0.9)*max(0,1-t/0.9)':y='(H-h)/2-60':eval=frame[v1]")
 # Logo: wächst in 0,5 s von 0 auf 106 px (oben links), danach fest
 parts.append("[2:v]format=rgba,scale=w='max(2,106*min(1,t/0.5))':h=-2:eval=frame[lg]")
