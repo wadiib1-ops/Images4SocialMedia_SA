@@ -164,9 +164,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYV9TQS9tYWluL2ltYWdlcy9sb2dvLXNhdWRpLnBuZw/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.ajel.sa/articles/2026-10/featured-crop-6FgwdtKA.jpg",
     "caption": "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة\n\nانتهت مواجهة التعاون والاتفاق في الجولة 12 من دوري روشن السعودي بالتعادل 1-1 على ملعب التعاون في بريدة.\n\nسجل عبدالرزاق حمدالله هدف التعاون في الدقيقة 26، وعادل عبدالله الخطيب للاتفاق في الدقيقة 90.\n\nيرفع الاتفاق رصيده إلى 19 نقطة في جدول الترتيب.\n\nهل يمثل هذا التعادل نقطة تحول في مسيرة الاتفاق هذا الموسم؟\n\n#الاتفاق #دوري_روشن #التعاون",
-    "status": "now",
+    "status": "published",
     "titel": "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
-    "quelle_url": "https://english.ajel.sa/sports/n443czvdm"
+    "quelle_url": "https://english.ajel.sa/sports/n443czvdm",
+    "meta_id": "122095063065541897",
+    "published_at": "2026-11-01T11:31:24.071579+00:00"
   },
   {
     "id": "20261101-1229-1-ig-reel",
@@ -175,9 +177,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1229-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-1229-1.jpg",
     "caption": "⚽ هدف في الدقيقة 90 يمنح الاتفاق نقطة من بريدة!\n\nتعادل التعاون والاتفاق 1-1 في الجولة 12 من دوري روشن السعودي، بعدما تقدم أصحاب الأرض بهدف عبدالرزاق حمدالله في الدقيقة 26.\n\n🔁 عبدالله الخطيب أعاد اللقاء إلى التعادل في الدقيقة 90.\n\n🟡 الاتفاق يرفع رصيده إلى 19 نقطة.\n\n#دوري_روشن #الاتفاق #التعاون #الدوري_السعودي #كرة_سعودية",
-    "status": "now",
+    "status": "published",
     "titel": "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
-    "quelle_url": "https://english.ajel.sa/sports/n443czvdm"
+    "quelle_url": "https://english.ajel.sa/sports/n443czvdm",
+    "meta_id": "17959821027255485",
+    "published_at": "2026-11-01T11:31:24.071579+00:00"
   },
   {
     "id": "20261101-1229-1-fb-story",
@@ -185,9 +189,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1229-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
-    "quelle_url": "https://english.ajel.sa/sports/n443czvdm"
+    "quelle_url": "https://english.ajel.sa/sports/n443czvdm",
+    "meta_id": "1437729504470676",
+    "published_at": "2026-11-01T11:31:24.071579+00:00"
   },
   {
     "id": "20261101-1229-1-ig-story",
@@ -195,8 +201,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1229-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
-    "quelle_url": "https://english.ajel.sa/sports/n443czvdm"
+    "quelle_url": "https://english.ajel.sa/sports/n443czvdm",
+    "meta_id": "17954284287301639",
+    "published_at": "2026-11-01T11:31:24.071579+00:00"
   }
 ]
