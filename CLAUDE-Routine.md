@@ -69,8 +69,8 @@ Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nac
 - Die Stories bekommen am Ende einen Call to Action von 4,5 s, falls D es erlaubt; er wird jedes Mal neu formuliert.
 - Reel, Facebook-Story und Instagram-Story nutzen pro Meldung dieselbe Musik und denselben Textablauf.
 
-## Reel-Cover (verbindlich)
-Der Instagram-Reel-Eintrag bekommt das Feld `cover_url`: Standbild aus dem fertigen Reel bei Sekunde 4, 1080x1920: `ffmpeg -y -loglevel error -ss 4 -i reel-text.mp4 -frames:v 1 -q:v 2 /tmp/cover.jpg`. Als `images/cover-<JJJJMMTT-HHMM>-<n>.jpg` auf `main` pushen und per curl auf HTTP 200 prüfen. `publish.py` reicht es an die Meta-API weiter.
+## Reel-Cover (verbindlich, Design "Saudi Kora News")
+Das Cover des Instagram-Reels wird im Design erzeugt, 1080 x 1920 (Story-Layout): python3 make_feed_image.py --kind story --photo <foto.jpg> --title "<Schlagzeile>" --category "<Kategorie>" --out images/cover-<JJJJMMTT-HHMM>-<n>.png. Danach als JPG speichern (Pillow, Qualität 92) und die JPG-Datei als images/cover-<JJJJMMTT-HHMM>-<n>.jpg auf main pushen; per curl auf HTTP 200 prüfen. Der Eintrag bekommt cover_url mit dieser Adresse. publish.py reicht es an die Meta-API weiter.
 
 ## Formate je Plattform (verbindlich)
 - Facebook-Feed: Hochformat 4:5 (1080 x 1350, Empfehlung), quadratisch 1:1 (1080 x 1080) oder 1,91:1 (1200 x 630). Bilder JPG/PNG, Videos MP4/MOV, empfohlen 15 bis 30 s.

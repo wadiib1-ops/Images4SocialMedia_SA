@@ -49,7 +49,7 @@ Das Logo im Feed-Bild und im Video steht je einmal, nie doppelt.
 Der Facebook-Feed-Post wird mit make_feed_image.py erzeugt (1080 x 1080, PNG): dunkelgrüner Grund #0B3D26, goldene Akzente #C9A227, Logo oben links, das Foto ganz sichtbar im Rahmen (nicht beschnitten), Kategorie in Gold, Schlagzeile, Seitenname und Handle unten, goldene Leiste am unteren Rand. Im Bild stehen keine Quellenangabe, keine URL und keine Hashtags.
 Aufruf: python3 make_feed_image.py --photo <foto.jpg> --title "<Schlagzeile>" --category "<Kategorie, z. B. الدوري السعودي للمحترفين>" --out images/feed-<JJJJMMTT-HHMM>-<n>.png
 Die PNG-Datei zusammen mit dem Reel-Cover auf main pushen und per curl -sIL auf HTTP 200 und image/png prüfen. image_url = https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-<JJJJMMTT-HHMM>-<n>.png
-Die Cloudinary-Logo-Streifen entfallen. Reel und Stories bleiben Video (Abschnitt 8).
+Die Cloudinary-Logo-Streifen entfallen. Das Reel-Cover wird ebenfalls im Design erzeugt (--kind story, siehe CLAUDE-Routine.md). Reel und Stories bleiben Video (Abschnitt 8).
 
 6. TEXTE (NUR ARABISCH)
 Texte umformulieren (Pflicht, vor dem Anlegen der Einträge): Aus den Fakten der Quelle einen arabischen Rohentwurf mit Titel und Body in eigenen Worten schreiben, dann umformulieren. Modern Standard Arabic, leicht verständlich.
