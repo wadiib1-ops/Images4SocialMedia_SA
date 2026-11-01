@@ -654,9 +654,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261101-2355-1.png",
     "caption": "وصلت بعثة القادسية إلى قطر لمواجهة الغرافة في دوري أبطال آسيا للنخبة.\n\nتقام المباراة غدًا الاثنين ضمن الجولة الرابعة، الساعة التاسعة والربع مساءً على ملعب الغرافة.\n\nوكان الفريق قد أجرى تدريبه الأخير على ملعبه بإشراف المدرب برندان رودجرز، وشمل لياقة بالكرة وتمارين تكتيكية وفنية.\n\nهل ينجح القادسية في تحقيق نتيجة إيجابية أمام الغرافة؟\n\n#القادسية #دوري_أبطال_آسيا_للنخبة #الغرافة",
-    "status": "now",
+    "status": "published",
     "titel": "بعثة القادسية تصل قطر لمواجهة الغرافة في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://ajel.sa/sports/b9d46qa3p"
+    "quelle_url": "https://ajel.sa/sports/b9d46qa3p",
+    "meta_id": "122095424637541897",
+    "published_at": "2026-11-01T22:45:58.399772+00:00"
   },
   {
     "id": "20261101-2355-1-ig-reel",
@@ -665,9 +667,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2355-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-2355-1.jpg",
     "caption": "القادسية في قطر وعينه على نقاط الغرافة ✈️⚽\n\nوصلت بعثة الفريق مساء الأحد استعدادًا لمواجهة الغد في الجولة الرابعة من دوري أبطال آسيا للنخبة 🔥\n\nالموعد: الاثنين، التاسعة والربع مساءً على ملعب الغرافة.\n\nالمدرب برندان رودجرز أنهى التحضيرات بحصة لياقية وتكتيكية وفنية 💪\n\nمن يحسم اللقاء في الدوحة؟ شاركنا توقعك 👇\n\n#القادسية #الغرافة #دوري_أبطال_آسيا #نخبة_آسيا #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "بعثة القادسية تصل قطر لمواجهة الغرافة في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://ajel.sa/sports/b9d46qa3p"
+    "quelle_url": "https://ajel.sa/sports/b9d46qa3p",
+    "meta_id": "18141716926623586",
+    "published_at": "2026-11-01T22:45:58.399772+00:00"
   },
   {
     "id": "20261101-2355-1-fb-story",
@@ -675,9 +679,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2355-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بعثة القادسية تصل قطر لمواجهة الغرافة في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://ajel.sa/sports/b9d46qa3p"
+    "quelle_url": "https://ajel.sa/sports/b9d46qa3p",
+    "meta_id": "1100356502764391",
+    "published_at": "2026-11-01T22:45:58.399772+00:00"
   },
   {
     "id": "20261101-2355-1-ig-story",
@@ -685,8 +691,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2355-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بعثة القادسية تصل قطر لمواجهة الغرافة في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://ajel.sa/sports/b9d46qa3p"
+    "quelle_url": "https://ajel.sa/sports/b9d46qa3p",
+    "meta_id": "18024763022940387",
+    "published_at": "2026-11-01T22:45:58.399772+00:00"
   }
 ]
