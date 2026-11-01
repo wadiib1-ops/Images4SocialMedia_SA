@@ -500,5 +500,46 @@
     "status": "published",
     "meta_id": "18148263982597335",
     "published_at": "2026-11-01T18:55:51.617606+00:00"
+  },
+  {
+    "id": "20261101-2045-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261101-2045-1.png",
+    "caption": "روبن نيفيس يغيب عن الهلال أمام الاتفاق\n\nحصل لاعب وسط الهلال البرتغالي على بطاقة صفراء أمام الفتح، وهي البطاقة الرابعة له هذا الموسم.\n\nيعني ذلك إيقافه مباراة واحدة، ليغيب عن لقاء الاتفاق في الجولة 13 من دوري روشن السعودي.\n\nتقام المباراة يوم 7 نوفمبر.\n\nكيف يمكن للهلال تعويض غياب نيفيس في وسط الملعب؟\n\n#الهلال #دوري_روشن #نيفيس",
+    "titel": "روبن نيفيس يغيب عن الهلال أمام الاتفاق",
+    "quelle_url": "https://www.goal.com/ar-sa/القوائم/أخبار-الهلال-اليوم-الفتح-الاتفاق-الدوري-السعودي/bltb0084e24b3f5140d",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2045-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2045-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-2045-1.jpg",
+    "caption": "🚨 الهلال بلا نيفيس في الجولة المقبلة!\n\nالبرتغالي روبن نيفيس نال بطاقته الصفراء الرابعة هذا الموسم أمام الفتح ⚽\n\nوالنتيجة إيقاف مباراة واحدة يغيب خلالها عن مواجهة الاتفاق في الجولة 13 🔥\n\nالموعد يوم 7 نوفمبر، فمن يملأ مكانه في وسط الملعب؟ 👇\n\n#الهلال #نيفيس #دوري_روشن #الاتفاق #كرة_القدم",
+    "titel": "روبن نيفيس يغيب عن الهلال أمام الاتفاق",
+    "quelle_url": "https://www.goal.com/ar-sa/القوائم/أخبار-الهلال-اليوم-الفتح-الاتفاق-الدوري-السعودي/bltb0084e24b3f5140d",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2045-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2045-1-story-text.mp4",
+    "caption": "",
+    "titel": "روبن نيفيس يغيب عن الهلال أمام الاتفاق",
+    "quelle_url": "https://www.goal.com/ar-sa/القوائم/أخبار-الهلال-اليوم-الفتح-الاتفاق-الدوري-السعودي/bltb0084e24b3f5140d",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2045-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2045-1-story-text.mp4",
+    "caption": "",
+    "titel": "روبن نيفيس يغيب عن الهلال أمام الاتفاق",
+    "quelle_url": "https://www.goal.com/ar-sa/القوائم/أخبار-الهلال-اليوم-الفتح-الاتفاق-الدوري-السعودي/bltb0084e24b3f5140d",
+    "status": "now"
   }
 ]
