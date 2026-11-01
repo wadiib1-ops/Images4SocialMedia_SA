@@ -41,18 +41,15 @@ H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 4. EINTRÄGE JE MELDUNG
  - Die vier Einträge mit Typen und Texten stehen in CLAUDE-Routine.md. FACEBOOK-TEXT: Arabisch, höchstens 3 Hashtags. INSTAGRAM-TEXT: Arabisch, genau 5 Hashtags, unter 2200 Zeichen. Stories ohne Begleittext (Text im Video, Abschnitt 8). Keine Quellenzeile.
 Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
- - Facebook-Foto: erst LOGO-URL, bei Fehler die Original-Foto-Adresse ohne Logo, dann Kandidat 2 mit Logo und ohne Logo (höchstens 4 Versuche). Alles fehlgeschlagen: Regel F.
+ - Facebook-Feed: Rendern mit make_feed_image.py einmal wiederholen. Bleibt es fehlerhaft, Regel G.
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
 Musste der Facebook-Eintrag ohne Logo auskommen, trägt das Video trotzdem das Logo (Abschnitt 8). Das Logo wird nie doppelt aufgesetzt.
 
-5. BILD-URLS (CLOUDINARY, NUR FACEBOOK-FOTO)
-Jedes Foto aus einer externen Quelle bekommt oben einen Streifen in der Randfarbe des Fotos (Cloudinary b_auto:border), dessen Höhe 15,4 % der Bildbreite beträgt; darin sitzt das runde Seitenlogo links oben (90 % der Streifenhöhe). Das Logo verdeckt dadurch nie einen Teil des Fotos; das Foto wird nie beschnitten. Den Streifen und das Logo setzt Cloudinary (Cloud-Name gc0qxb3y). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
-Foto-URL kodieren (nur Sonderzeichen wie ? & = # und Leerzeichen; "https://", Host und Pfad bleiben lesbar):
- python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=':/%'))" "<Foto-URL>"
-LOGO-URL (Saudi-Logo aus diesem Repo, Datei images/logo-saudi.png):
- https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYV9TQS9tYWluL2ltYWdlcy9sb2dvLXNhdWRpLnBuZw/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
-Vor dem ersten Lauf diese Basis-URL per curl -sIL prüfen (HTTP 200, image/jpeg). Schlägt sie fehl, im Bericht melden und nichts veröffentlichen.
-Es ist immer dieselbe Foto-Adresse für alle URLs einer Meldung.
+5. FACEBOOK-FEED IM DESIGN "SAUDI KORA NEWS"
+Der Facebook-Feed-Post wird mit make_feed_image.py erzeugt (1080 x 1080, PNG): dunkelgrüner Grund #0B3D26, goldene Akzente #C9A227, Logo oben links, das Foto ganz sichtbar im Rahmen (nicht beschnitten), Kategorie in Gold, Schlagzeile, Seitenname und Handle unten, goldene Leiste am unteren Rand. Im Bild stehen keine Quellenangabe, keine URL und keine Hashtags.
+Aufruf: python3 make_feed_image.py --photo <foto.jpg> --title "<Schlagzeile>" --category "<Kategorie, z. B. الدوري السعودي للمحترفين>" --out images/feed-<JJJJMMTT-HHMM>-<n>.png
+Die PNG-Datei zusammen mit dem Reel-Cover auf main pushen und per curl -sIL auf HTTP 200 und image/png prüfen. image_url = https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-<JJJJMMTT-HHMM>-<n>.png
+Die Cloudinary-Logo-Streifen entfallen. Reel und Stories bleiben Video (Abschnitt 8).
 
 6. TEXTE (NUR ARABISCH)
 Texte umformulieren (Pflicht, vor dem Anlegen der Einträge): Aus den Fakten der Quelle einen arabischen Rohentwurf mit Titel und Body in eigenen Worten schreiben, dann umformulieren. Modern Standard Arabic, leicht verständlich.

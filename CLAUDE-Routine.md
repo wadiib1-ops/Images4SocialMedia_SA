@@ -55,8 +55,8 @@ Facebook höchstens 3, Instagram höchstens 5 Hashtags pro Beitrag, im Text und 
 ## Nur arabische Texte (verbindlich)
 FACEBOOK-TEXT und INSTAGRAM-TEXT nur auf Arabisch. Die Frage am Ende des Facebook-Texts ist sachlich, ohne Gefühlswörter, Ausrufe oder Emojis. Der Instagram-Text bleibt unter 2200 Zeichen.
 
-## Logo (verbindlich)
-Fotos tragen das Logo in einem Streifen in der Randfarbe des Fotos (Höhe 15,4 % der Bildbreite) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Videos tragen das Logo als eingeblendetes Bild oben links, 106 px breit.
+## Logo und Feed-Design (verbindlich)
+Facebook-Feed-Fotos werden im Design "Saudi Kora News" mit make_feed_image.py erzeugt (PROMPT.md Abschnitt 5). Das Logo steht dort oben links. Videos tragen das Logo als eingeblendetes Bild oben links, 106 px breit.
 
 ## Video-Effekt (verbindlich)
 Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5. Das Foto gleitet ein und zoomt danach sanft rein und raus, das Logo wächst oben links, goldener Fortschrittsbalken unten.
