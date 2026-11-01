@@ -5,9 +5,10 @@ Aufruf:
   python3 make_story_video.py <Arbeitsordner> <Repo-Ordner> <TAG>
 Der Arbeitsordner braucht foto.jpg (RGB); die Textabschnitte werden dort als PNG abgelegt.
 Ausgabe: <Arbeitsordner>/musik-<TAG>-story-text.mp4 (Reel-Kopie: musik-<TAG>-reel-text.mp4 separat kopieren).
-Foto: gleitet in 0,9 s von links ins Bild und zoomt danach sanft rein und raus (Zoom 1,00 bis 1,12, 8 s Zyklus; zoompan).
+Foto: gleitet in 0,9 s von links ins Bild und zoomt danach sanft rein und raus (zoompan, Zoom 1,00 bis 1,12, 8 s Zyklus).
 Logo: wächst in 0,5 s auf 106 px oben links. Text: je Abschnitt 0,4 s ein, 3 s stehen, 0,4 s aus.
-"""import glob, os, random, subprocess, sys, shutil
+"""
+import glob, os, random, subprocess, sys, shutil
 W = sys.argv[1]; R = sys.argv[2]; TAG = sys.argv[3]
 SECTIONS = [
  "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
