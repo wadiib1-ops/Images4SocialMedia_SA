@@ -103,9 +103,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYV9TQS9tYWluL2ltYWdlcy9sb2dvLXNhdWRpLnBuZw/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.ajel.sa/articles/2026-10/featured-crop-RkJVDaKI.jpg",
     "caption": "قلب الفيحاء تأخره أمام الفيصلي إلى فوز بنتيجة 4-1 ضمن الجولة الثانية عشرة من دوري روشن السعودي للمحترفين.\n\nتقدم الفيصلي أولاً قبل أن يعادل الفيحاء قبل نهاية الشوط الأول، وسجل الفيحاء ثلاثة أهداف في الشوط الثاني ليحسم اللقاء في ملعب مدينة المجمعة الرياضية.\n\nبرصيد 11 نقطة يرتقي الفيحاء إلى المركز الثالث عشر في جدول الترتيب.\n\nهل تتوقع أن يحافظ الفيحاء على هذا المستوى في الجولات المقبلة؟\n\n#دوري_روشن #الفيحاء #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
-    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy",
+    "meta_id": "122095056657541897",
+    "published_at": "2026-11-01T11:18:20.830277+00:00"
   },
   {
     "id": "20261101-1217-1-ig-reel",
@@ -114,9 +116,10 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-1217-1.jpg",
     "caption": "من التأخر إلى الفوز برباعية! ⚽\nالفيحاء يعود من الخلف ويهزم الفيصلي 4-1 في الجولة الثانية عشرة من دوري روشن، وينهي المباراة بثلاثة أهداف في الشوط الثاني. 🏟️ 👏\nالفوز يرفع رصيد الفيحاء إلى 11 نقطة ويصعد به إلى المركز الثالث عشر في الترتيب. 🏆\n\n#دوري_روشن #الفيحاء #الفيصلي #الكرة_السعودية #كرة_القدم",
-    "status": "now",
+    "status": "failed",
     "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
-    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207052)"
   },
   {
     "id": "20261101-1217-1-fb-story",
@@ -124,9 +127,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
-    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy",
+    "meta_id": "990847300742078",
+    "published_at": "2026-11-01T11:18:20.830277+00:00"
   },
   {
     "id": "20261101-1217-1-ig-story",
@@ -134,8 +139,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
-    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy",
+    "meta_id": "18469168195143887",
+    "published_at": "2026-11-01T11:18:20.830277+00:00"
   }
 ]
