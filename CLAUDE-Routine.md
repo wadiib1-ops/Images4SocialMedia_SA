@@ -6,7 +6,7 @@ Diese Datei gilt innerhalb der Routine anstelle von CLAUDE.md. Wo PROMPT.md und 
 Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflow `.github/workflows/publish.yml` (alle 15 Minuten) veröffentlicht fällige Einträge mit `publisher/publish.py` über die Meta Graph API. Es wird kein externes Planungswerkzeug benutzt. Inhalte, Quellenregeln und Technik stehen in PROMPT.md.
 
 ## Konten
-- Facebook-Seite "أخبار الكرة السعودية": 1098115996402021
+- Facebook-Seite "أخبار الكرة السعودية": 1330304383510660
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 

@@ -19,7 +19,7 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
 GRAPH = "https://graph.facebook.com/v21.0"
-PAGE_ID = "1098115996402021"
+PAGE_ID = "1330304383510660"
 IG_ID = "17841451577328406"
 BASE = os.path.dirname(os.path.abspath(__file__))
 QUEUE = os.path.join(BASE, "queue.json")
