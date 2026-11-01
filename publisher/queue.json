@@ -262,9 +262,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261101-1700-1.png",
     "caption": "الاتحاد يستعد لمواجهة العين في دوري أبطال آسيا للنخبة\n\nيستضيف الاتحاد نظيره العين الإماراتي في مدينة جدة ضمن الجولة الرابعة من مرحلة المجموعات في غرب آسيا.\n\nيملك الاتحاد 4 نقاط بعد فوزه الأول في البطولة على نسف، بينما يتصدر العين المجموعة برصيد 9 نقاط بعد ثلاثة انتصارات متتالية.\n\nهل ينجح الاتحاد في مواصلة تحسن نتائجه أمام متصدر المجموعة؟\n\n#الاتحاد #دوري_أبطال_آسيا_للنخبة #العين",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد يستعد لمواجهة العين في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd"
+    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd",
+    "meta_id": "122095222665541897",
+    "published_at": "2026-11-01T16:03:21.334589+00:00"
   },
   {
     "id": "20261101-1700-1-ig-reel",
@@ -273,9 +275,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1700-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-1700-1.jpg",
     "caption": "مواجهة قوية تنتظر العميد في جدة ⚽🔥\n\nالاتحاد يلاقي العين الإماراتي في الجولة الرابعة من دوري أبطال آسيا للنخبة 🏟️\n\nالعميد يملك 4 نقاط بعد أول فوز له في البطولة، والعين يتصدر المجموعة بـ 9 نقاط وثلاثة انتصارات متتالية 💛\n\nفهل يقلب الاتحاد الطاولة على المتصدر؟ 👀\n\n#الاتحاد #العين #دوري_أبطال_آسيا_للنخبة #كرة_القدم #الدوري_السعودي",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد يستعد لمواجهة العين في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd"
+    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd",
+    "meta_id": "17966405625217526",
+    "published_at": "2026-11-01T16:03:21.334589+00:00"
   },
   {
     "id": "20261101-1700-1-fb-story",
@@ -283,9 +287,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1700-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد يستعد لمواجهة العين في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd"
+    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd",
+    "meta_id": "2376588013175518",
+    "published_at": "2026-11-01T16:03:21.334589+00:00"
   },
   {
     "id": "20261101-1700-1-ig-story",
@@ -293,8 +299,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1700-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد يستعد لمواجهة العين في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd"
+    "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd",
+    "meta_id": "18113373379882162",
+    "published_at": "2026-11-01T16:03:21.334589+00:00"
   }
 ]
