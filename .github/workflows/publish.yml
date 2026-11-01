@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add publisher/log.jsonl
+          git add publisher/log.jsonl publisher/queue.json
           if ! git diff --cached --quiet; then
             git commit -m "Log: Veröffentlichungslauf"
             git pull --rebase origin main
