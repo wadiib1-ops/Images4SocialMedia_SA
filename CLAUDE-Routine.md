@@ -59,7 +59,7 @@ FACEBOOK-TEXT und INSTAGRAM-TEXT nur auf Arabisch. Die Frage am Ende des Faceboo
 Fotos tragen das Logo in einem Streifen in der Randfarbe des Fotos (Höhe 15,4 % der Bildbreite) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Videos tragen das Logo als eingeblendetes Bild oben links, 106 px breit.
 
 ## Video-Effekt (verbindlich)
-Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5. Start-Effekt nur in den ersten 2 Sekunden, danach ruhiges Bild, goldener Fortschrittsbalken unten.
+Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5. Das Foto gleitet ein und zoomt danach sanft rein und raus, das Logo wächst oben links, goldener Fortschrittsbalken unten.
 
 ## Text im Video (verbindlich)
 - Reel und Stories zeigen im Video den arabischen Teil des FACEBOOK-TEXTS, ohne Hashtags, wortgetreu.
