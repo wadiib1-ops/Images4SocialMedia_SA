@@ -304,5 +304,46 @@
     "quelle_url": "https://english.ajel.sa/saudi-arabia/yw1i4wtrd",
     "meta_id": "18113373379882162",
     "published_at": "2026-11-01T16:03:21.334589+00:00"
+  },
+  {
+    "id": "20261101-1740-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261101-1740-1.png",
+    "caption": "أعلن نادي الشباب إصابة مدافعه الكرواتي تين يدفاي بقطع كامل في الرباط الصليبي الأمامي للركبة.\n\nوأكدت الفحوصات الطبية الإصابة، ونشر النادي البيان عبر حسابه الرسمي في منصة إكس.\n\nيبدأ اللاعب برنامجاً تأهيلياً مكثفاً بإشراف الجهاز الطبي، ولم يحدد النادي حتى الآن مدة غيابه عن الملاعب.\n\nكيف سيعوض الشباب غياب مدافعه في المباريات المقبلة؟\n\n#الشباب #دوري_روشن #كرة_القدم_السعودية",
+    "titel": "الشباب يعلن إصابة مدافعه تين يدفاي بقطع في الرباط الصليبي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507830",
+    "status": "now"
+  },
+  {
+    "id": "20261101-1740-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1740-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-1740-1.jpg",
+    "caption": "🚨 ضربة موجعة لدفاع الشباب!\nأعلن النادي إصابة مدافعه الكرواتي تين يدفاي بقطع كامل في الرباط الصليبي الأمامي للركبة 🦵\nالفحوصات الطبية أكدت الإصابة، وبدأ اللاعب برنامجاً تأهيلياً مكثفاً مع الجهاز الطبي 🏥\nولا توجد مدة رسمية معلنة لغيابه حتى الآن ⏳\nشاركنا رأيك: من يسد الفراغ في دفاع الليوث؟ 💬\n\n#الشباب #دوري_روشن #يدفاي #كرة_القدم_السعودية #الليوث_البيضاء",
+    "titel": "الشباب يعلن إصابة مدافعه تين يدفاي بقطع في الرباط الصليبي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507830",
+    "status": "now"
+  },
+  {
+    "id": "20261101-1740-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1740-1-story-text.mp4",
+    "caption": "",
+    "titel": "الشباب يعلن إصابة مدافعه تين يدفاي بقطع في الرباط الصليبي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507830",
+    "status": "now"
+  },
+  {
+    "id": "20261101-1740-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1740-1-story-text.mp4",
+    "caption": "",
+    "titel": "الشباب يعلن إصابة مدافعه تين يدفاي بقطع في الرباط الصليبي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507830",
+    "status": "now"
   }
 ]
