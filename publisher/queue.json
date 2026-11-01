@@ -549,5 +549,46 @@
     "status": "published",
     "meta_id": "18132552773489747",
     "published_at": "2026-11-01T19:45:58.920916+00:00"
+  },
+  {
+    "id": "20261101-2145-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261101-2145-1.png",
+    "caption": "كاراسكو يقود تشكيلة الجولة 12 بثلاثية في مرمى الأهلي\n\nاختار موقع سوفاسكور لاعب الشباب يانيك كاراسكو في صدارة تشكيلة الجولة 12 من دوري روشن السعودي، بعد تسجيله ثلاثية في شباك الأهلي.\n\nوضمت التشكيلة أيضا مدافع الاتحاد سعد الموسى ومهاجم الفيحاء فاشون ساكالا.\n\nهل يستحق كاراسكو لقب أفضل لاعب في الجولة؟\n\n#دوري_روشن #الشباب #كاراسكو",
+    "titel": "كاراسكو يقود تشكيلة الجولة 12 بثلاثية في مرمى الأهلي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507842",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2145-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2145-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-2145-1.jpg",
+    "caption": "ثلاثية تصنع الفارق ⚽🔥\n\nاسم يانيك كاراسكو تصدر تشكيلة الجولة 12 في دوري روشن بحسب موقع سوفاسكور، بعدما هز شباك الأهلي ثلاث مرات 🌟\n\nوإلى جانبه حضر سعد الموسى من الاتحاد وفاشون ساكالا من الفيحاء 👏\n\nمن كان نجمك في هذه الجولة؟\n\n#دوري_روشن #الشباب #كاراسكو #الأهلي #تشكيلة_الجولة",
+    "titel": "كاراسكو يقود تشكيلة الجولة 12 بثلاثية في مرمى الأهلي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507842",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2145-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2145-1-story-text.mp4",
+    "caption": "",
+    "titel": "كاراسكو يقود تشكيلة الجولة 12 بثلاثية في مرمى الأهلي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507842",
+    "status": "now"
+  },
+  {
+    "id": "20261101-2145-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-2145-1-story-text.mp4",
+    "caption": "",
+    "titel": "كاراسكو يقود تشكيلة الجولة 12 بثلاثية في مرمى الأهلي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507842",
+    "status": "now"
   }
 ]
