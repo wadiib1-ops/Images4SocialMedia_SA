@@ -96,5 +96,46 @@
     "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%B5%D8%AF%D9%85%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9--%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%95%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B1%D9%8A%D9%88%D8%B3-%D9%88%D9%85%D8%AF%D8%A9-%D8%BA%D9%8A%D8%A7%D8%A8%D9%87/blt0d8abe2c02ef8574",
     "meta_id": "18099736448097333",
     "published_at": "2026-11-01T11:08:26.197577+00:00"
+  },
+  {
+    "id": "20261101-1217-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYV9TQS9tYWluL2ltYWdlcy9sb2dvLXNhdWRpLnBuZw/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.ajel.sa/articles/2026-10/featured-crop-RkJVDaKI.jpg",
+    "caption": "قلب الفيحاء تأخره أمام الفيصلي إلى فوز بنتيجة 4-1 ضمن الجولة الثانية عشرة من دوري روشن السعودي للمحترفين.\n\nتقدم الفيصلي أولاً قبل أن يعادل الفيحاء قبل نهاية الشوط الأول، وسجل الفيحاء ثلاثة أهداف في الشوط الثاني ليحسم اللقاء في ملعب مدينة المجمعة الرياضية.\n\nبرصيد 11 نقطة يرتقي الفيحاء إلى المركز الثالث عشر في جدول الترتيب.\n\nهل تتوقع أن يحافظ الفيحاء على هذا المستوى في الجولات المقبلة؟\n\n#دوري_روشن #الفيحاء #الكرة_السعودية",
+    "status": "now",
+    "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+  },
+  {
+    "id": "20261101-1217-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-1217-1.jpg",
+    "caption": "من التأخر إلى الفوز برباعية! ⚽\nالفيحاء يعود من الخلف ويهزم الفيصلي 4-1 في الجولة الثانية عشرة من دوري روشن، وينهي المباراة بثلاثة أهداف في الشوط الثاني. 🏟️ 👏\nالفوز يرفع رصيد الفيحاء إلى 11 نقطة ويصعد به إلى المركز الثالث عشر في الترتيب. 🏆\n\n#دوري_روشن #الفيحاء #الفيصلي #الكرة_السعودية #كرة_القدم",
+    "status": "now",
+    "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+  },
+  {
+    "id": "20261101-1217-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
+  },
+  {
+    "id": "20261101-1217-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-1217-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الفيحاء يقلب تأخره أمام الفيصلي ويفوز 4-1",
+    "quelle_url": "https://ajel.sa/sports/56xumw2dy"
   }
 ]
