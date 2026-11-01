@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "20261101-0211-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://cdn.ajel.sa/articles/2026-10/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%81%D8%AA%D8%AD-faghLshc.jpg",
+    "caption": "الهلال يهزم الفتح بهدفين دون رد\n\nفاز الهلال على الفتح بهدفين دون رد في الجولة 12 من دوري روشن السعودي، على ملعب كينغدوم أرينا في الرياض.\n\nسجل واتكينز الهدف الأول في الدقيقة 12، وأضاف روبين نيفيز الهدف الثاني في الدقيقة 90+1.\n\nبرصيد 30 نقطة يتصدر الهلال الجدول، والفتح يحتل المركز 16 برصيد 6 نقاط.\n\nهل يكفي هذا الرصيد للحفاظ على الصدارة حتى نهاية الموسم؟\n\n#الهلال #دوري_روشن #الفتح",
+    "status": "now",
+    "titel": "الهلال يهزم الفتح بهدفين دون رد",
+    "quelle_url": "https://english.ajel.sa/sports/umkb70g80"
+  },
+  {
+    "id": "20261101-0211-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-0211-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261101-0211-1.jpg",
+    "caption": "🔥 الهلال يعود بثلاث نقاط كاملة!\n\nفاز الهلال على الفتح بهدفين دون رد في الجولة 12 من دوري روشن، وحافظ على صدارته.\n\n⚽ واتكينز افتتح التسجيل في الدقيقة 12، ونيفيز ختم الفوز في الدقيقة 90+1.\n\n🏆 الهلال يتصدر الجدول برصيد 30 نقطة.\n\n#الهلال #دوري_روشن #الدوري_السعودي #كرة_سعودية #واتكينز",
+    "status": "now",
+    "titel": "الهلال يهزم الفتح بهدفين دون رد",
+    "quelle_url": "https://english.ajel.sa/sports/umkb70g80"
+  },
+  {
+    "id": "20261101-0211-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-0211-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الهلال يهزم الفتح بهدفين دون رد",
+    "quelle_url": "https://english.ajel.sa/sports/umkb70g80"
+  },
+  {
+    "id": "20261101-0211-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261101-0211-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الهلال يهزم الفتح بهدفين دون رد",
+    "quelle_url": "https://english.ajel.sa/sports/umkb70g80"
+  }
+]
