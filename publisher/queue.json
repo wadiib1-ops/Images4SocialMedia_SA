@@ -794,5 +794,50 @@
     "status": "published",
     "meta_id": "18110631410263700",
     "published_at": "2026-11-02T09:47:54.531763+00:00"
+  },
+  {
+    "id": "20261102-1059-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261102-1059-1.png",
+    "caption": "ملخص الجولة 12 من دوري روشن: تسعة لقاءات ولعبت كل الأندية.\n\nفاز الشباب على الأهلي بستة أهداف مقابل هدف، وفاز القادسية على الرياض بستة أهداف دون رد.\n\nوفاز النصر على الخلود 5-3، والخليج على الحزم 4-2، والفيحاء على الفيصلي 4-1، والهلال على الفتح 2-0.\n\nوتعادل أبها مع الاتحاد 1-1، والتعاون مع الاتفاق 1-1، وفاز نيوم على الدرعية 2-1.\n\nيتصدر الهلال الترتيب بـ30 نقطة، ويليه القادسية والنصر بـ28 نقطة لكل منهما.\n\nمن برأيك الأقرب إلى المنافسة على اللقب هذا الموسم؟\n\n#دوري_روشن #الجولة_12 #الهلال",
+    "titel": "نتائج الجولة 12 من دوري روشن وترتيب الفرق",
+    "quelle_url": "https://www.eurosport.de/fussball/saudi-arabien-premier-league/tabelle-gesamtwertung-ranking.shtml",
+    "status": "now",
+    "runde": "spl-2026-27-runde-12"
+  },
+  {
+    "id": "20261102-1059-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1059-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261102-1059-1.jpg",
+    "caption": "كل نتائج الجولة 12 في مكان واحد 🔥\n\nتسعة لقاءات ولعبت الأندية الثمانية عشر ⚽\n\nالشباب يكتسح الأهلي 6-1 والقادسية يهزم الرياض 6-0 😍\n\nوالنصر يفوز 5-3 على الخلود في مباراة بثمانية أهداف 💥\n\nالهلال يتصدر بـ30 نقطة والقادسية والنصر خلفه بـ28 📊\n\nشاهد الترتيب كاملاً في الفيديو ✨\n\n#دوري_روشن #الهلال #القادسية #النصر #الشباب",
+    "titel": "نتائج الجولة 12 من دوري روشن وترتيب الفرق",
+    "quelle_url": "https://www.eurosport.de/fussball/saudi-arabien-premier-league/tabelle-gesamtwertung-ranking.shtml",
+    "status": "now",
+    "runde": "spl-2026-27-runde-12"
+  },
+  {
+    "id": "20261102-1059-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1059-1-story-text.mp4",
+    "caption": "",
+    "titel": "نتائج الجولة 12 من دوري روشن وترتيب الفرق",
+    "quelle_url": "https://www.eurosport.de/fussball/saudi-arabien-premier-league/tabelle-gesamtwertung-ranking.shtml",
+    "status": "now",
+    "runde": "spl-2026-27-runde-12"
+  },
+  {
+    "id": "20261102-1059-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1059-1-story-text.mp4",
+    "caption": "",
+    "titel": "نتائج الجولة 12 من دوري روشن وترتيب الفرق",
+    "quelle_url": "https://www.eurosport.de/fussball/saudi-arabien-premier-league/tabelle-gesamtwertung-ranking.shtml",
+    "status": "now",
+    "runde": "spl-2026-27-runde-12"
   }
 ]
