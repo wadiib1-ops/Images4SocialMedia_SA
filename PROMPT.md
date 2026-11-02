@@ -6,7 +6,7 @@ Lies zuerst vollständig die Datei CLAUDE-Routine.md im selben Repo (Branch main
 1. AUFTRAG UND ABLAUF
 Veröffentliche bis zu 1 neue Meldung pro Lauf. Gesucht wird nur nach EINER Meldung, auf Arabisch, über AKTUELLE Nachrichten zu Fußball oder Futsal mit klarem Saudi-Bezug. Zulässig: Saudi Pro League, Saudi-Nationalteam (Green Falcons) und Nationalteams der Frauen und der Jugend, saudische Klubs und Trainer, saudische Spieler im In- und Ausland, saudische Klubs in der AFC Champions League und in anderen AFC-Wettbewerben, Futsal (Nationalteam und Klubs), Verband und Ligabetrieb (SAFF, SPL). Kein anderes Thema.
 
-Pro Meldung entstehen VIER Einträge in publisher/queue.json, immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
+Pro Meldung entstehen FÜNF Einträge (siehe CLAUDE-Routine.md: zusätzlich Instagram-NewsFeed als `photo` mit dem Feed-PNG und INSTAGRAM-TEXT) in publisher/queue.json, immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
  1. Facebook-Feed: Foto mit Seitenlogo und FACEBOOK-TEXT.
  2. Instagram-Reel: dasselbe Musik-Video mit INSTAGRAM-TEXT.
  3. Facebook-Story: Story-Video mit eingeblendetem Text, ohne Begleittext.
