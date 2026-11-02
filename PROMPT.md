@@ -22,7 +22,7 @@ Ablauf eines Laufs:
  6. Abschlussbericht auf Deutsch (Abschnitt 7).
 
 2. KONTEN UND TECHNIK
- - Facebook-Seite "أخبار الكرة السعودية", Seiten-ID 1098115996402021, Seiten-URL https://facebook.com/1098115996402021
+ - Facebook-Seite "أخبار الكرة السعودية", Seiten-ID 1330304383510660, Seiten-URL https://facebook.com/1330304383510660
  - Instagram-Konto "@saudifootballfutsal" (Professional), ID 17841451577328406
  - Veröffentlichung: Workflow publish.yml (alle 15 Minuten) mit publisher/publish.py über die Meta Graph API. Das Geheimnis META_USER_TOKEN liegt in den Repo-Einstellungen dieses SA-Repos; nie ausgeben oder speichern.
  - Uhrzeit: Shell: TZ=Europe/Berlin date -Iseconds
