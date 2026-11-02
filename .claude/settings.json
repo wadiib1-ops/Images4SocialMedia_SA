@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add publisher/queue.json*)",
+      "Bash(git add images/*)",
+      "Bash(git commit *)",
+      "Bash(git push origin HEAD:main)",
+      "Bash(git push origin video-out)",
+      "Bash(git pull --rebase origin main)"
+    ]
+  }
+}
