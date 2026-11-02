@@ -3,6 +3,10 @@ name: publish
 on:
   schedule:
     - cron: "*/15 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - publisher/queue.json
   workflow_dispatch:
 
 permissions:
