@@ -78,6 +78,18 @@ QUELLENLISTE (jeweils per WebFetch auf genau diese Adresse):
 12. https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick
 13. https://ajel.sa/rss.xml
 14. https://english.ajel.sa/rss.xml
+15. https://www.akhbaar24.com/tag/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA
+16. https://www.akhbaar24.com/%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-24/%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9
+17. https://www.saff.com.sa/en/nationalteams.php?id=8&type=1
+18. https://www.spl.com.sa/ar/news
+19. https://saffplus.sa/ar/entity/season/LuNejY3NNqRrl-Flu8p4G
+20. https://saff.com.sa/newscenter.php
+21. https://arriyadiyah.com/section/%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9
+22. https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9
+23. https://news50.sa/category/sports/
+24. https://sports.asharq.com/teams/697/
+25. https://www.sportksa.net/main/archives/category/spl
+26. https://www.alsaudiatoday.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9
 Hinweis: Startseiten und Feeds sind unterschiedlich ergiebig. Nicht erreichbare Seiten werden übersprungen und im Bericht genannt.
 
 Suchreihenfolge mit Abbruch: Es wird der Reihe nach gesucht und nur so lange, bis 1 brauchbare Meldung gefunden ist; dann sofort aufhören. Brauchbar ist eine Meldung, wenn sie Regel A erfüllt, keine Dublette ist und eine Bildquelle hat (Video oder Artikelfoto). Obergrenze: höchstens 10 erfolgreiche Recherche-Abrufe pro Lauf. Nicht erreichbare Seiten (DNS-Fehler, Timeout, 403, robots.txt-Sperre) zählen als Fehler; nicht umgehen (keine Archive), sofort die nächste Seite nehmen. Sind 10 Seiten nacheinander fehlgeschlagen, per PushNotification melden: "Quellenseiten nicht erreichbar (Netzwerkfreigabe prüfen)". Eine frische Meldung ohne Bildquelle zählt nicht als gefunden.
