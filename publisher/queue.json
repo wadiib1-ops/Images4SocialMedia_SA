@@ -908,5 +908,56 @@
     "status": "published",
     "meta_id": "18338661319260593",
     "published_at": "2026-11-02T12:09:37.634027+00:00"
+  },
+  {
+    "id": "20261102-1540-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261102-1540-1.png",
+    "caption": "إنزاجي أفضل مدرب في دوري روشن السعودي لشهر أكتوبر\n\nأعلن الحساب الرسمي للدوري اختيار مدرب الهلال أفضل مدرب للشهر.\n\nقاد الهلال إلى أربعة انتصارات متتالية: على الاتحاد 3-2 وعلى الحزم 1-0 وعلى القادسية 3-2 وعلى الفتح 2-0.\n\nويتصدر الهلال الترتيب برصيد 30 نقطة مع مباراة مؤجلة.\n\nهل يواصل الهلال بقيادة إنزاجي سلسلة الانتصارات في الجولات المقبلة؟\n\n#الهلال #دوري_روشن #إنزاجي",
+    "status": "now",
+    "titel": "إنزاجي أفضل مدرب في دوري روشن لشهر أكتوبر",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/bltca381e3a96ea8bd2"
+  },
+  {
+    "id": "20261102-1540-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1540-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261102-1540-1.jpg",
+    "caption": "مدرب الهلال يتوّج بجائزة الأفضل في أكتوبر 🏆\n\nاختار الدوري السعودي سيموني إنزاجي أفضل مدرب للشهر 🔵\n\nأربع مباريات وأربعة انتصارات أمام الاتحاد والحزم والقادسية والفتح ⚽\n\nوالهلال في الصدارة بـ30 نقطة مع مباراة مؤجلة 🔥\n\n#الهلال #إنزاجي #دوري_روشن #الكرة_السعودية #السعودية",
+    "status": "now",
+    "titel": "إنزاجي أفضل مدرب في دوري روشن لشهر أكتوبر",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/bltca381e3a96ea8bd2"
+  },
+  {
+    "id": "20261102-1540-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1540-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إنزاجي أفضل مدرب في دوري روشن لشهر أكتوبر",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/bltca381e3a96ea8bd2"
+  },
+  {
+    "id": "20261102-1540-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1540-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إنزاجي أفضل مدرب في دوري روشن لشهر أكتوبر",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/bltca381e3a96ea8bd2"
+  },
+  {
+    "id": "20261102-1540-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261102-1540-1.png",
+    "caption": "مدرب الهلال ينال بجائزة الأفضل في أكتوبر 🏆\n\nاختار الدوري السعودي سيموني إنزاجي أفضل مدرب للشهر 🔵\n\nأربع جولات وأربعة انتصارات أمام الاتحاد والحزم والقادسية والفتح ⚽\n\nوالهلال في الصدارة بـ30 نقطة مع مباراة مؤجلة 🔥\n\n#الهلال #إنزاجي #دوري_روشن #الكرة_السعودية #السعودية",
+    "status": "now",
+    "titel": "إنزاجي أفضل مدرب في دوري روشن لشهر أكتوبر",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%86%D8%B2%D8%A7%D8%AC%D9%8A-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/bltca381e3a96ea8bd2"
   }
 ]
