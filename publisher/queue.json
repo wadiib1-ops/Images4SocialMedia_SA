@@ -745,5 +745,46 @@
     "quelle_url": "https://english.ajel.sa/sports/x1j1rowx3",
     "meta_id": "17910231369333229",
     "published_at": "2026-11-02T08:43:29.813906+00:00"
+  },
+  {
+    "id": "20261102-1050-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261102-1050-1.png",
+    "caption": "الأهلي يواجه السد القطري اليوم في دوري أبطال آسيا للنخبة\n\nتقام المباراة على ملعب جاسم بن حمد في الدوحة ضمن الجولة الرابعة من مرحلة الدوري في المنطقة الغربية.\n\nيدخل الأهلي اللقاء بعد فوزين متتاليين في البطولة، ويحتل المركز الثالث برصيد 7 نقاط.\n\nويبحث السد عن فوزه الأول بعد تعادله 1-1 مع القادسية.\n\nويريد مدرب الأهلي بوسيتش الحفاظ على توازن الفريق وتحسين الانسجام.\n\nبرأيك، من يملك الأفضلية في مواجهة الأهلي والسد؟\n\n#الأهلي #دوري_أبطال_آسيا_للنخبة #السد",
+    "titel": "الأهلي يواجه السد القطري اليوم في دوري أبطال آسيا للنخبة",
+    "quelle_url": "https://english.ajel.sa/sports/qprllnu5i",
+    "status": "now"
+  },
+  {
+    "id": "20261102-1050-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1050-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261102-1050-1.jpg",
+    "caption": "الأهلي في الدوحة الليلة 🔥 موعد جديد مع آسيا ⚽\n\nيلتقي الأهلي السد القطري على ملعب جاسم بن حمد في الجولة الرابعة من دوري أبطال آسيا للنخبة 🏟️\n\nالأهلي في المركز الثالث برصيد 7 نقاط بعد فوزين متتاليين، والسد ما زال يطارد فوزه الأول بعد تعادله 1-1 مع القادسية 💚\n\nالمدرب بوسيتش يريد الحفاظ على توازن الفريق ورفع مستوى الانسجام ✨\n\n#الأهلي #السد #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية #آسيا",
+    "titel": "الأهلي يواجه السد القطري اليوم في دوري أبطال آسيا للنخبة",
+    "quelle_url": "https://english.ajel.sa/sports/qprllnu5i",
+    "status": "now"
+  },
+  {
+    "id": "20261102-1050-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1050-1-story-text.mp4",
+    "caption": "",
+    "titel": "الأهلي يواجه السد القطري اليوم في دوري أبطال آسيا للنخبة",
+    "quelle_url": "https://english.ajel.sa/sports/qprllnu5i",
+    "status": "now"
+  },
+  {
+    "id": "20261102-1050-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261102-1050-1-story-text.mp4",
+    "caption": "",
+    "titel": "الأهلي يواجه السد القطري اليوم في دوري أبطال آسيا للنخبة",
+    "quelle_url": "https://english.ajel.sa/sports/qprllnu5i",
+    "status": "now"
   }
 ]
