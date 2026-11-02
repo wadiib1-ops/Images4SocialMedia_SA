@@ -96,3 +96,6 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 
 ## Vorlagen (verbindlich, Nutzerwunsch vom 02.11.2026, dauerhaft für alle Läufe)
 Es gelten genau zwei Vorlagen: `images/vorlage-feed-1080x1080.png` (Feed, auch Instagram-NewsFeed) und `images/vorlage-story-1080x1920.png` (Reel-Cover). Layout: dunkelgrüner Grund, Seitenlogo `images/logo-saudi.png` oben rechts an der Stelle des Logo-Platzhalters, Foto im Bildfeld, Kategorie in Gold, Schlagzeile, in der Story-Vorlage ein Untertitel, `@saudifootballfutsal` unten links, goldene Leiste unten. Die Quellenzeile der Vorlagen entfällt (PROMPT.md Regel C). `make_feed_image.py` setzt das um (`--kind feed`, `--kind story` mit `--subtitle`). Ergebniszahlen wie 6-2 im Bild und im Video als Worte schreiben (Rechts-nach-links-Darstellung kehrt Ziffern um).
+
+## Größerer Foto-Bereich (verbindlich, Nutzerwunsch vom 02.11.2026, dauerhaft für alle Läufe)
+Der Foto-Bereich in `make_feed_image.py` ist vergrößert: Feed 968 x 580 px (vorher 460), Story/Reel-Cover 936 x 960 px (vorher 860); dafür ist das Logo kleiner (Feed 150 px, Story 240 px). Diese Werte nicht zurücksetzen.

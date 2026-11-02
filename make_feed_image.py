@@ -27,9 +27,9 @@ def build_html(photo, title, category, logo, kind="feed", subtitle=""):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 <style>body{{margin:0;background:transparent}}</style></head><body>
 <div style="width:1080px;height:1080px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif;display:flex;flex-direction:column;padding:56px;gap:28px;position:relative;overflow:hidden">
-  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:200px;height:200px" alt=""></div>
-  <div style="width:968px;height:460px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
-    <img src="file://{photo}" style="max-width:968px;max-height:460px;object-fit:contain"></div>
+  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:150px;height:150px" alt=""></div>
+  <div style="width:968px;height:580px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
+    <img src="file://{photo}" style="max-width:968px;max-height:580px;object-fit:contain"></div>
   <div style="font-size:28px;font-weight:800;color:#C9A227">{html.escape(category)}</div>
   <div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{html.escape(title)}</div>
   <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:rgba(255,255,255,0.8)">
@@ -44,9 +44,9 @@ def story_html(photo, title, category, logo, subtitle=""):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 <style>body{{margin:0;background:transparent}}</style></head><body>
 <div style="width:1080px;height:1920px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif;display:flex;flex-direction:column;padding:120px 72px 150px;gap:40px;position:relative;overflow:hidden">
-  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:300px;height:300px" alt=""></div>
-  <div style="width:936px;height:860px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
-    <img src="file://{photo}" style="max-width:936px;max-height:860px;object-fit:contain"></div>
+  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:240px;height:240px" alt=""></div>
+  <div style="width:936px;height:960px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
+    <img src="file://{photo}" style="max-width:936px;max-height:960px;object-fit:contain"></div>
   <div style="font-size:34px;font-weight:800;color:#C9A227">{html.escape(category)}</div>
   <div style="font-size:88px;font-weight:800;line-height:1.3;color:#FFFFFF">{html.escape(title)}</div>
   <div style="font-size:34px;line-height:1.5;color:rgba(255,255,255,0.8)">{html.escape(subtitle)}</div>
