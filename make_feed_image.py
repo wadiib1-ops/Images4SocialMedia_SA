@@ -27,9 +27,9 @@ def build_html(photo, title, category, logo, kind="feed", subtitle=""):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 <style>body{{margin:0;background:transparent}}</style></head><body>
 <div style="width:1080px;height:1080px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif;display:flex;flex-direction:column;padding:56px;gap:28px;position:relative;overflow:hidden">
-  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:200px;height:200px" alt=""></div>
-  <div style="width:968px;height:460px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
-    <img src="file://{photo}" style="width:968px;height:460px;object-fit:contain"></div>
+  <div style="margin:-56px -56px 0;width:1080px;height:700px;overflow:hidden;position:relative;background:#082F1E">
+    <img src="file://{photo}" style="width:1080px;height:700px;object-fit:cover">
+    <img src="file://{logo}" style="position:absolute;top:24px;right:24px;width:150px;height:150px" alt=""></div>
   <div style="font-size:28px;font-weight:800;color:#C9A227">{html.escape(category)}</div>
   <div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{html.escape(title)}</div>
   <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:rgba(255,255,255,0.8)">
@@ -44,9 +44,9 @@ def story_html(photo, title, category, logo, subtitle=""):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 <style>body{{margin:0;background:transparent}}</style></head><body>
 <div style="width:1080px;height:1920px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif;display:flex;flex-direction:column;padding:120px 72px 150px;gap:40px;position:relative;overflow:hidden">
-  <div style="display:flex;align-items:center"><img src="file://{logo}" style="width:300px;height:300px" alt=""></div>
-  <div style="width:936px;height:860px;box-sizing:border-box;background:#082F1E;display:flex;align-items:center;justify-content:center;overflow:hidden">
-    <img src="file://{photo}" style="width:936px;height:860px;object-fit:contain"></div>
+  <div style="margin:-120px -72px 0;width:1080px;height:1150px;overflow:hidden;position:relative;background:#082F1E">
+    <img src="file://{photo}" style="width:1080px;height:1150px;object-fit:cover">
+    <img src="file://{logo}" style="position:absolute;top:60px;right:48px;width:240px;height:240px" alt=""></div>
   <div style="font-size:34px;font-weight:800;color:#C9A227">{html.escape(category)}</div>
   <div style="font-size:88px;font-weight:800;line-height:1.3;color:#FFFFFF">{html.escape(title)}</div>
   <div style="font-size:34px;line-height:1.5;color:rgba(255,255,255,0.8)">{html.escape(subtitle)}</div>
