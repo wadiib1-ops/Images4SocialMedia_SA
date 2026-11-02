@@ -7,12 +7,12 @@ Bis zu 1 neues Endergebnis pro Lauf aus der Saudi Pro League (Roshn Saudi League
 
 Quellen (WebFetch): spl.com.sa/en/news, kooora.com, arriyadiyah.com, sportksa.net, goal.com/ar-sa, saff.com.sa. Ergebnis, Torschützen und Minuten müssen in mindestens einer verlässlichen Quelle stehen. Keine erfundenen Daten. Höchstens 10 Abrufe pro Lauf.
 
-## 2. Pro Meldung vier Einträge (gleiche Zeit, gleiche `quelle_url`, gleicher `titel`)
+## 2. Pro Meldung fünf Einträge (fünfter: Instagram-NewsFeed, siehe unten) (gleiche Zeit, gleiche `quelle_url`, gleicher `titel`)
 1. Facebook-Feed (`photo`): `--kind feed` (1080 x 1350 PNG), FACEBOOK-TEXT, höchstens 3 Hashtags.
 2. Instagram-Reel (`reel`): `--kind reel`, `cover_url` = `--kind cover`, INSTAGRAM-TEXT, höchstens 5 Hashtags.
 3. Facebook-Story (`story`): `--kind story`, `caption` leer.
 4. Instagram-Story (`story`): dieselbe Datei wie 3, `caption` leer.
-Kein Instagram-Feed, kein Facebook-Reel. Regel G aus PROMPT.md gilt (Feed scheitert = die übrigen Einträge entfallen).
+5. Instagram-NewsFeed (`photo`, dauerhaft ab 02.11.2026): dieselbe Feed-PNG wie Eintrag 1, `caption` = INSTAGRAM-TEXT (genau 5 Hashtags). Kein Facebook-Reel. Regel G aus PROMPT.md gilt (Feed scheitert = die übrigen Einträge entfallen).
 
 ## 3. Eingabedatei `match.json` (im Arbeitsordner, nicht committen)
 ```json

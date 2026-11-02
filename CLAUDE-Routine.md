@@ -10,12 +10,12 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Vier Einträge je Meldung, gleiche Zeit, gleiche quelle_url und titel
+## Fünf Einträge je Meldung (Nutzerwunsch vom 02.11.2026, gilt für alle künftigen Läufe dieser Routine), gleiche Zeit, gleiche quelle_url und titel
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
 3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
 4. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url` wie Facebook-Story, `caption` leer.
-Es gibt keinen Instagram-Feed und kein Facebook-Reel.
+5. Instagram-NewsFeed (zusätzlich, dauerhaft): `platform: "instagram"`, `type: "photo"`, `image_url` = dasselbe Feed-PNG wie Facebook-Feed (1080 x 1350, 4:5). `caption` = INSTAGRAM-TEXT (Arabisch, genau 5 Hashtags, unter 2200 Zeichen, anders formuliert als der Facebook-Text). Gleiche Zeit, gleiche `quelle_url`, gleicher `titel`, `id` z. B. `<Zeit>-1-ig-feed`. Dieser Punkt hebt "Instagram-Feed entfällt" aus CLAUDE.md für diese Routine auf. Kein Facebook-Reel.
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
