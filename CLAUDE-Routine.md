@@ -93,3 +93,6 @@ Uhrzeiten gegenüber dem Nutzer immer in Berliner Zeit (Europe/Berlin) nennen, n
 
 ## Arbeitsweise
 Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Schritten.
+
+## Vorlagen (verbindlich, Nutzerwunsch vom 02.11.2026, dauerhaft für alle Läufe)
+Es gelten genau zwei Vorlagen: `images/vorlage-feed-1080x1080.png` (Feed, auch Instagram-NewsFeed) und `images/vorlage-story-1080x1920.png` (Reel-Cover). Layout: dunkelgrüner Grund, Seitenlogo `images/logo-saudi.png` oben rechts an der Stelle des Logo-Platzhalters, Foto im Bildfeld, Kategorie in Gold, Schlagzeile, in der Story-Vorlage ein Untertitel, `@saudifootballfutsal` unten links, goldene Leiste unten. Die Quellenzeile der Vorlagen entfällt (PROMPT.md Regel C). `make_feed_image.py` setzt das um (`--kind feed`, `--kind story` mit `--subtitle`). Ergebniszahlen wie 6-2 im Bild und im Video als Worte schreiben (Rechts-nach-links-Darstellung kehrt Ziffern um).

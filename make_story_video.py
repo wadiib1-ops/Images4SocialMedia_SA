@@ -11,13 +11,12 @@ Logo: wächst in 0,5 s auf 106 px oben links. Text: je Abschnitt 0,4 s ein, 3 s 
 import glob, os, random, subprocess, sys, shutil
 W = sys.argv[1]; R = sys.argv[2]; TAG = sys.argv[3]
 SECTIONS = [
- "الاتفاق يدرك التعادل أمام التعاون في الدقيقة الأخيرة",
- "انتهت مواجهة التعاون والاتفاق في الجولة 12 من دوري روشن السعودي",
- "بالتعادل 1-1 على ملعب التعاون في بريدة",
- "سجل عبدالرزاق حمدالله هدف التعاون في الدقيقة 26",
- "وعادل عبدالله الخطيب للاتفاق في الدقيقة 90",
- "يرفع الاتفاق رصيده إلى 19 نقطة في جدول الترتيب",
- "هل يمثل هذا التعادل نقطة تحول في مسيرة الاتفاق هذا الموسم؟",
+ "النصر يكتسح باختاكور الأوزبكي بستة أهداف لهدفين",
+ "في الجولة الرابعة من دوري أبطال آسيا للنخبة",
+ "سجل عبدالله الحمدان في الدقيقة 15 وجواو فيليكس في الدقيقتين 17 و32",
+ "وأضاف عبدالإله العمري الهدف الرابع برأسية في الدقيقة 53",
+ "ثم سجل عبدالرحمن غريب في الدقيقة 62 وأنجيلو غابرييل في الدقيقة 79",
+ "هل يواصل النصر هذا المستوى في الجولات المقبلة من البطولة؟",
 ]
 n = len(SECTIONS); D = 0.5 + 3.0 * n
 tracks = sorted(glob.glob(os.path.join(R, "Video", "*.mp3")))
@@ -29,7 +28,7 @@ print("TRACK", os.path.basename(track), "START", start, "D", D)
 pngs = []
 for k, t in enumerate(SECTIONS, 1):
     out = os.path.join(W, f"rp{k}.png")
-    subprocess.check_call(["python3", os.path.join(R, "story_text.py"), "--out", out, "--title", t], stdout=subprocess.DEVNULL)
+    subprocess.check_call([sys.executable, os.path.join(R, "story_text.py"), "--out", out, "--title", t], stdout=subprocess.DEVNULL)
     pngs.append(out)
 parts = []
 # Hintergrund: unscharfes Foto, leicht abgedunkelt
