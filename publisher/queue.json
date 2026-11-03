@@ -1335,5 +1335,56 @@
     "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B7%D9%81%D8%AD-%D8%A7%D9%84%D9%83%D9%8A%D9%84--%D8%AA%D9%88%D9%86%D9%8A-%D9%8A%D9%86%D9%81%D8%AC%D8%B1-%D9%81%D9%8A-%D9%88%D8%AC%D9%87-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D8%A9/blt5f7ea4fefdcadfaf",
     "meta_id": "18014370473762952",
     "published_at": "2026-11-02T21:48:45.427732+00:00"
+  },
+  {
+    "id": "20261103-0200-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-0200-1.png",
+    "caption": "دافع فيسينج مدرب الاتحاد عن لاعبيه بعد الخسارة أمام العين بأربعة أهداف مقابل هدف في دوري أبطال آسيا للنخبة.\n\nوقال إنه سعيد جدا باللاعبين الحاليين في الفريق، وإن الفريق تحسن منذ بداية الموسم.\n\nوأضاف أن النتيجة وحدها تحكم على عمل المدربين، وأحيانا تكون النتائج ظالمة.\n\nوتأتي تصريحاته وسط قلق الجماهير من غياب صفقات جديدة في الشتاء.\n\nهل يحتاج الاتحاد إلى تدعيم صفوفه في فترة الانتقالات الشتوية؟\n\n#الاتحاد #دوري_أبطال_آسيا_للنخبة #فيسينج",
+    "status": "now",
+    "titel": "فيسينج يدافع عن لاعبي الاتحاد: النتائج أحيانا تكون ظالمة",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/الجمايهير-يزن-فيسينج-صفقات-الاتحاد-الشتوية-العين-دوري-أبطال-آسيا-النخبة/blt0194c9359bdda215"
+  },
+  {
+    "id": "20261103-0200-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-0200-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261103-0200-1.jpg",
+    "caption": "🟡 مدرب الاتحاد يتمسك بلاعبيه رغم الخسارة الثقيلة!\n\nبعد السقوط أمام العين برباعية، خرج فيسينج ليؤكد ثقته الكاملة بالمجموعة الحالية ⚫\n\nيرى أن الفريق يتطور تدريجيا، وأن الأحكام على المدربين تأتي من النتائج وحدها، حتى لو بدت ظالمة أحيانا 🔥\n\nوالجماهير تنتظر ما سيحمله الشتاء من تعزيزات ⚽\n\n#الاتحاد #فيسينج #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية #العميد",
+    "status": "now",
+    "titel": "فيسينج يدافع عن لاعبي الاتحاد: النتائج أحيانا تكون ظالمة",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/الجمايهير-يزن-فيسينج-صفقات-الاتحاد-الشتوية-العين-دوري-أبطال-آسيا-النخبة/blt0194c9359bdda215"
+  },
+  {
+    "id": "20261103-0200-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-0200-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "فيسينج يدافع عن لاعبي الاتحاد: النتائج أحيانا تكون ظالمة",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/الجمايهير-يزن-فيسينج-صفقات-الاتحاد-الشتوية-العين-دوري-أبطال-آسيا-النخبة/blt0194c9359bdda215"
+  },
+  {
+    "id": "20261103-0200-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-0200-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "فيسينج يدافع عن لاعبي الاتحاد: النتائج أحيانا تكون ظالمة",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/الجمايهير-يزن-فيسينج-صفقات-الاتحاد-الشتوية-العين-دوري-أبطال-آسيا-النخبة/blt0194c9359bdda215"
+  },
+  {
+    "id": "20261103-0200-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-0200-1.png",
+    "caption": "🟡 مدرب الاتحاد يتمسك بلاعبيه رغم الخسارة الثقيلة!\n\nبعد السقوط أمام العين برباعية، خرج فيسينج ليؤكد ثقته الكاملة بالمجموعة الحالية ⚫\n\nيرى أن الفريق يتطور تدريجيا، وأن الأحكام على المدربين تأتي من النتائج وحدها، حتى لو بدت ظالمة أحيانا 🔥\n\nوالجماهير تنتظر ما سيحمله الشتاء من تعزيزات ⚽\n\n#الاتحاد #فيسينج #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية #العميد",
+    "status": "now",
+    "titel": "فيسينج يدافع عن لاعبي الاتحاد: النتائج أحيانا تكون ظالمة",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/الجمايهير-يزن-فيسينج-صفقات-الاتحاد-الشتوية-العين-دوري-أبطال-آسيا-النخبة/blt0194c9359bdda215"
   }
 ]
