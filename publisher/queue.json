@@ -1823,5 +1823,56 @@
     "quelle_url": "https://www.goal.com/ar-sa/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%AC%D9%88%D9%91%D9%8A-%D9%84%D9%84%D9%86%D8%AE%D8%A8%D8%A9-%D8%AA%D8%AD%D8%AA-21-%D8%B9%D8%A7%D9%85%D9%8B%D8%A7--%D9%85%D8%B9-%D8%AA%D9%85%D9%86%D9%8A%D8%A7%D8%AA-%D8%B9%D8%A7%D8%B4%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A-%D8%A8%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%88-%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D8%B4-%D9%84%D8%AF%D9%8A%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF--%D8%A7%D9%94%D9%81%D8%B6%D9%84-5-%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9/bltbfe25da24568d3bf",
     "meta_id": "18141340240534640",
     "published_at": "2026-11-03T11:16:05.203348+00:00"
+  },
+  {
+    "id": "20261103-1250-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1250-1.png",
+    "caption": "أعلنت رابطة الدوري السعودي للمحترفين تأجيل مباريات الجولة 13 من دوري روشن السعودي.\n\nلم تُحدَّد المواعيد الجديدة بعد، وستُعلن عبر القنوات الرسمية بعد التشاور مع الأندية واعتماد الجدول النهائي.\n\nيأتي القرار بعد نقل كأس آسيا 2027 في السعودية إلى الفترة من 23 ديسمبر 2027 إلى 21 يناير 2028، بهدف تخفيف ازدحام المباريات وإتاحة وقت للاعبين للتعافي. وتعتزم الرابطة عقد ورشة مع ممثلي الأندية لمناقشة فترات التوقف.\n\nهل يخدم هذا التأجيل جدول الموسم المحلي؟\n\n#دوري_روشن #السعودية #كرة_القدم",
+    "status": "now",
+    "titel": "تأجيل مباريات الجولة 13 من دوري روشن السعودي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507885"
+  },
+  {
+    "id": "20261103-1250-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1250-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261103-1250-1.jpg",
+    "caption": "📢 الجولة 13 من دوري روشن تتأجل رسميًا!\n\n⚽ الرابطة قررت إعادة ترتيب الجدول بعد تغيير موعد كأس آسيا 2027 في السعودية إلى ديسمبر 2027.\n\n🗓️ المواعيد الجديدة ستُعلن عبر القنوات الرسمية بعد اعتماد الجدول مع الأندية.\n\n💪 الهدف تقليل ضغط المباريات ومنح اللاعبين فرصة أفضل للتعافي.\n\n#دوري_روشن #كأس_آسيا2027 #السعودية #الرابطة #كرة_القدم_السعودية",
+    "status": "now",
+    "titel": "تأجيل مباريات الجولة 13 من دوري روشن السعودي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507885"
+  },
+  {
+    "id": "20261103-1250-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1250-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تأجيل مباريات الجولة 13 من دوري روشن السعودي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507885"
+  },
+  {
+    "id": "20261103-1250-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1250-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تأجيل مباريات الجولة 13 من دوري روشن السعودي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507885"
+  },
+  {
+    "id": "20261103-1250-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1250-1.png",
+    "caption": "📢 الجولة 13 من دوري روشن تتأجل رسميًا!\n\n⚽ الرابطة قررت إعادة ترتيب الجدول بعد تغيير موعد كأس آسيا 2027 في السعودية إلى ديسمبر 2027.\n\n🗓️ المواعيد الجديدة ستُعلن عبر القنوات الرسمية بعد اعتماد الجدول مع الأندية.\n\n💪 الهدف تقليل ضغط المباريات ومنح اللاعبين فرصة أفضل للتعافي.\n\n#دوري_روشن #كأس_آسيا2027 #السعودية #الرابطة #كرة_القدم_السعودية",
+    "status": "now",
+    "titel": "تأجيل مباريات الجولة 13 من دوري روشن السعودي",
+    "quelle_url": "https://www.sportksa.net/main/archives/507885"
   }
 ]
