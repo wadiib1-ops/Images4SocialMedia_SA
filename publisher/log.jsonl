@@ -245,3 +245,9 @@
 {"zeit": "03.11.2026 14:36:03", "aktion": "veröffentlicht", "beitrag": "20261103-1435-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18118577014993051"}
 {"zeit": "03.11.2026 14:36:03", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "174 Einträge geprüft"}
 {"zeit": "03.11.2026 14:36:14", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "174 Einträge geprüft"}
+{"zeit": "03.11.2026 16:39:17", "aktion": "veröffentlicht", "beitrag": "20261103-1600-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122096791479541897"}
+{"zeit": "03.11.2026 16:39:54", "aktion": "veröffentlicht", "beitrag": "20261103-1600-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18453448948122169"}
+{"zeit": "03.11.2026 16:40:02", "aktion": "veröffentlicht", "beitrag": "20261103-1600-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 997250086068798"}
+{"zeit": "03.11.2026 16:40:59", "aktion": "veröffentlicht", "beitrag": "20261103-1600-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18103638464047542"}
+{"zeit": "03.11.2026 16:41:07", "aktion": "fehlgeschlagen", "beitrag": "20261103-1600-1-ig-feed", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Handlung ist blockiert\",\"error_user_msg\":\"Wir schr\\u00e4nken bestimmte Handlungen ein, um unsere Community zu sch\\u00fctzen. Sag uns, wenn wir deiner Meinung nach einen Fehler gemacht haben.\",\"fbtrace_id\":\"AaVS4pR8a8bSOLRBzO75ZAD\"}}"}
+{"zeit": "03.11.2026 16:41:07", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "179 Einträge geprüft"}

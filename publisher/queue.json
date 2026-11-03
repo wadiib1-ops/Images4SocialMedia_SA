@@ -2135,9 +2135,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1600-1.png",
     "caption": "اختتم الاتحاد السعودي لكرة القدم الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين.\n\nأقيمت الدورات في اثنتي عشرة مدينة ومحافظة حول المملكة، وشارك فيها 316 مدربًا وطنيًا، وطُبقت فيها منهجية تعليمية جديدة تجمع بين الجانب النظري والتطبيقي مع اختبارات فنية.\n\nبرأيك، هل يرفع تأهيل المدربين مستوى الكرة السعودية؟\n\n#الاتحاد_السعودي #تدريب #كرة_القدم_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4443"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
+    "meta_id": "122096791479541897",
+    "published_at": "2026-11-03T15:39:12.790586+00:00"
   },
   {
     "id": "20261103-1600-1-ig-reel",
@@ -2146,9 +2148,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1600-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261103-1600-1.jpg",
     "caption": "مدربو المستقبل يتأهلون 🎓\n\nأنهى الاتحاد السعودي لكرة القدم المرحلة الأولى من دورات الرخصة الآسيوية (C) في 12 مدينة ومحافظة ⚽\n\nشارك 316 مدربًا وطنيًا في برامج نظرية وتطبيقية واختبارات فنية بمنهجية جديدة 🌟\n\nأي مهارة تراها الأهم في المدرب الناجح؟\n\n#الاتحاد_السعودي #المدربين #السعودية #كرة_القدم #تدريب",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4443"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
+    "meta_id": "18453448948122169",
+    "published_at": "2026-11-03T15:39:12.790586+00:00"
   },
   {
     "id": "20261103-1600-1-fb-story",
@@ -2156,9 +2160,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1600-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4443"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
+    "meta_id": "997250086068798",
+    "published_at": "2026-11-03T15:39:12.790586+00:00"
   },
   {
     "id": "20261103-1600-1-ig-story",
@@ -2166,9 +2172,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1600-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4443"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
+    "meta_id": "18103638464047542",
+    "published_at": "2026-11-03T15:39:12.790586+00:00"
   },
   {
     "id": "20261103-1600-1-ig-feed",
@@ -2176,8 +2184,9 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1600-1.png",
     "caption": "مدربو المستقبل يتأهلون 🎓\n\nأنهى الاتحاد السعودي لكرة القدم المرحلة الأولى من دورات الرخصة الآسيوية (C) في 12 مدينة ومحافظة ⚽\n\nشارك 316 مدربًا وطنيًا في برامج نظرية وتطبيقية واختبارات فنية بمنهجية جديدة 🌟\n\nأي مهارة تراها الأهم في المدرب الناجح؟\n\n#الاتحاد_السعودي #المدربين #السعودية #كرة_القدم #تدريب",
-    "status": "now",
+    "status": "failed",
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4443"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
+    "error": "Meta-Fehler HTTP 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Handlung ist blockiert\",\"error_user_msg\":\"Wir schr\\u00e4nken bestimmte Handlungen ein, um unsere Community zu sch\\u00fctzen. Sag uns, wenn wir deiner Meinung nach einen Fehler gemacht haben.\",\"fbtrace_id\":\"AaVS4pR8a8bSOLRBzO75ZAD\"}}"
   }
 ]
