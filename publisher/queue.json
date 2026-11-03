@@ -2188,5 +2188,56 @@
     "titel": "اختتام الجزء الأول من دورات الرخصة الآسيوية (C) للمدربين",
     "quelle_url": "https://www.saff.com.sa/news.php?id=4443",
     "error": "Meta-Fehler HTTP 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Handlung ist blockiert\",\"error_user_msg\":\"Wir schr\\u00e4nken bestimmte Handlungen ein, um unsere Community zu sch\\u00fctzen. Sag uns, wenn wir deiner Meinung nach einen Fehler gemacht haben.\",\"fbtrace_id\":\"AaVS4pR8a8bSOLRBzO75ZAD\"}}"
+  },
+  {
+    "id": "20261103-1745-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1745-1.png",
+    "caption": "افتتح منتخب كرة القدم الشاطئية السعودي تدريباته اليوم في مصر، استعدادًا لمواجهة المنتخب المصري في افتتاح كأس العرب للشاطئية 2026.\n\nجرت الحصة على ملعب بورتو سعيد الشاطئي بإشراف المدرب البرازيلي قوقا زولوكوفيك، وبدأت بتمارين لياقية ثم مجموعات فنية وتكتيكية، وانتهت بمناورة على كامل الملعب.\n\nيلعب الأخضر في المجموعة الأولى مع مصر وموريتانيا والعراق.\n\nهل يبدأ الأخضر البطولة بفوز على مضيفه؟\n\n#الأخضر_الشاطئي #كأس_العرب #السعودية",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفتتح تدريباته في مصر قبل مواجهة المضيف",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4444"
+  },
+  {
+    "id": "20261103-1745-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1745-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261103-1745-1.jpg",
+    "caption": "الأخضر يصل إلى ساحة الرمال ⚽🏖️\n\nافتتح منتخب الشاطئية تدريباته في مصر قبل مواجهة المضيف يوم الخميس في افتتاح كأس العرب 🔥 حصة لياقية، ثم تمارين تكتيكية، ثم مناورة على كامل ملعب بورتو سعيد\n\nالمجموعة الأولى تضم مصر وموريتانيا والعراق 💚\n\n#كرة_شاطئية #الأخضر #كأس_العرب #السعودية #أخبار_الكرة_السعودية",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفتتح تدريباته في مصر قبل مواجهة المضيف",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4444"
+  },
+  {
+    "id": "20261103-1745-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1745-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفتتح تدريباته في مصر قبل مواجهة المضيف",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4444"
+  },
+  {
+    "id": "20261103-1745-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261103-1745-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفتتح تدريباته في مصر قبل مواجهة المضيف",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4444"
+  },
+  {
+    "id": "20261103-1745-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261103-1745-1.png",
+    "caption": "الأخضر يصل إلى ساحة الرمال ⚽🏖️\n\nافتتح منتخب الشاطئية تدريباته في مصر قبل مواجهة المضيف يوم الخميس في افتتاح كأس العرب 🔥 حصة لياقية، ثم تمارين تكتيكية، ثم مناورة على كامل ملعب بورتو سعيد\n\nالمجموعة الأولى تضم مصر وموريتانيا والعراق 💚\n\n#كرة_شاطئية #الأخضر #كأس_العرب #السعودية #أخبار_الكرة_السعودية",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفتتح تدريباته في مصر قبل مواجهة المضيف",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4444"
   }
 ]
