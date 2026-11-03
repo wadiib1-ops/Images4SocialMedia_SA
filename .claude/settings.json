@@ -9,10 +9,10 @@
       "Bash(git pull --rebase origin main)"
     ]
   },
-   "autoMode": {
+  "autoMode": {
     "allow": [
       "$defaults",
-      "In der Saudi-Fußball-Routine sind git commit und git push von publisher/queue.json, images/ und dem Branch video-out im Repo Images4SocialMedia_SA ausdrücklich erlaubt."
+      "In der Saudi-Fußball-Routine (Repo Images4SocialMedia_SA) ist das Anlegen von Einträgen in publisher/queue.json samt git add, git commit und git push origin HEAD:main ausdrücklich erlaubt, auch wenn der Push die automatische Veröffentlichung auf Facebook und Instagram auslöst. Das ist der Zweck der Routine und vom Besitzer dauerhaft freigegeben."
     ]
   }
 }
