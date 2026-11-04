@@ -10,12 +10,12 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Fünf Einträge je Meldung (Nutzerwunsch vom 02.11.2026, gilt für alle künftigen Läufe dieser Routine), gleiche Zeit, gleiche quelle_url und titel
+## Vier Einträge je Meldung (Nutzerwunsch vom 04.11.2026, gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche Zeit, gleiche quelle_url und titel
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
 3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
 4. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url` wie Facebook-Story, `caption` leer.
-5. Instagram-NewsFeed (zusätzlich, dauerhaft): `platform: "instagram"`, `type: "photo"`, `image_url` = dasselbe Feed-PNG wie Facebook-Feed (1080 x 1350, 4:5). `caption` = INSTAGRAM-TEXT (Arabisch, genau 5 Hashtags, unter 2200 Zeichen, anders formuliert als der Facebook-Text). Gleiche Zeit, gleiche `quelle_url`, gleicher `titel`, `id` z. B. `<Zeit>-1-ig-feed`. Dieser Punkt hebt "Instagram-Feed entfällt" aus CLAUDE.md für diese Routine auf. Kein Facebook-Reel.
+5. Kein Instagram-Feed (Nutzerwunsch vom 04.11.2026, dauerhaft). Kein Facebook-Reel.
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
@@ -105,7 +105,7 @@ Uhrzeiten gegenüber dem Nutzer immer in Berliner Zeit (Europe/Berlin) nennen, n
 Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Schritten.
 
 ## Vorlagen (verbindlich, Nutzerwunsch vom 02.11.2026, dauerhaft für alle Läufe)
-Es gelten genau zwei Vorlagen: `images/vorlage-feed-1080x1080.png` (Feed, auch Instagram-NewsFeed) und `images/vorlage-story-1080x1920.png` (Reel-Cover). Layout: dunkelgrüner Grund, Seitenlogo `images/logo-saudi.png` oben rechts an der Stelle des Logo-Platzhalters, Foto im Bildfeld, Kategorie in Gold, Schlagzeile, in der Story-Vorlage ein Untertitel, `@saudifootballfutsal` unten links, goldene Leiste unten. Die Quellenzeile der Vorlagen entfällt (PROMPT.md Regel C). `make_feed_image.py` setzt das um (`--kind feed`, `--kind story` mit `--subtitle`). Ergebniszahlen wie 6-2 im Bild und im Video als Worte schreiben (Rechts-nach-links-Darstellung kehrt Ziffern um).
+Es gelten genau zwei Vorlagen: `images/vorlage-feed-1080x1080.png` (Feed) und `images/vorlage-story-1080x1920.png` (Reel-Cover). Layout: dunkelgrüner Grund, Seitenlogo `images/logo-saudi.png` oben rechts an der Stelle des Logo-Platzhalters, Foto im Bildfeld, Kategorie in Gold, Schlagzeile, in der Story-Vorlage ein Untertitel, `@saudifootballfutsal` unten links, goldene Leiste unten. Die Quellenzeile der Vorlagen entfällt (PROMPT.md Regel C). `make_feed_image.py` setzt das um (`--kind feed`, `--kind story` mit `--subtitle`). Ergebniszahlen wie 6-2 im Bild und im Video als Worte schreiben (Rechts-nach-links-Darstellung kehrt Ziffern um).
 
 ## Großes Foto randlos (verbindlich, Nutzerwunsch vom 02.11.2026, dauerhaft für alle Läufe)
 Das Foto der Spieler soll deutlich größer sein. In `make_feed_image.py` steht es randlos über die volle Breite ganz oben: Feed 1080 x 700 px, Story/Reel-Cover 1080 x 1150 px, object-fit: cover (Ränder dürfen beschnitten werden). Das Logo liegt oben rechts auf dem Foto (Feed 150 px, Story 240 px). Darunter Kategorie, Schlagzeile, Handle. Nicht zurücksetzen.
