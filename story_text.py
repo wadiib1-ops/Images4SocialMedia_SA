@@ -44,6 +44,7 @@ def card_html(title, cta, tags):
 <div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
 <div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;padding:48px 56px 240px;text-align:right;direction:rtl">
 {"".join(parts)}
+<div style="position:absolute;left:56px;right:56px;bottom:196px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>
 <div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>
 </div></div></body></html>'''
 
