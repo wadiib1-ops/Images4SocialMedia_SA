@@ -17,7 +17,7 @@ Aufruf (Story-Video mit eingebranntem Text, empfohlen):
   python3 story_text.py --out /tmp/st.png --video story.mp4 --out-video story-text.mp4 \
       --title "<Schlagzeile>" --cta "<Call to Action>" --tags "#tag1 #tag2"
 
-Text steht in einer dunkelgrünen Karte mit goldenem Rahmen (Feed-Design), Schrift Noto Sans Arabic 800, Titel 60 px (wie im Feed). Rendering per Chromium.
+Text steht im Feed-Textfeld (dunkelgrünes Band #0B3D26, volle Breite, goldene Leiste, rechtsbündig), Schrift Noto Sans Arabic 800, Titel 60 px (wie im Feed). Rendering per Chromium.
 """
 import argparse
 import os
@@ -30,7 +30,7 @@ W, H = 1080, 1920
 
 
 def card_html(title, cta, tags):
-    """Text-Container im Feed-Design: dunkelgrüne Karte #0B3D26, goldene Leiste,
+    """Text-Container wie im Feed-Post: dunkelgrünes Band #0B3D26, goldene Leiste,
     Noto Sans Arabic 800, Schriftgröße wie im Feed-Post (Titel 60 px)."""
     e = html.escape
     parts = [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
@@ -42,7 +42,7 @@ def card_html(title, cta, tags):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 </head><body style="margin:0;background:transparent">
 <div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
-<div id="card" style="position:absolute;left:56px;right:56px;bottom:300px;box-sizing:border-box;background:rgba(11,61,38,0.96);color:#FFFFFF;border-radius:28px;border:3px solid #C9A227;padding:44px 48px 52px;text-align:center;overflow:hidden;direction:rtl">
+<div id="card" style="position:absolute;left:0;right:0;bottom:200px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;padding:48px 56px 62px;text-align:right;direction:rtl">
 {"".join(parts)}
 <div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>
 </div></div></body></html>'''
