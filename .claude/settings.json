@@ -6,7 +6,13 @@
       "Bash(git commit *)",
       "Bash(git push origin HEAD:main)",
       "Bash(git push origin video-out)",
-      "Bash(git pull --rebase origin main)"
+      "Bash(git pull --rebase origin main)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git push -u origin claude/*)",
+      "Bash(git worktree *)",
+      "Bash(git add *)",
+      "Bash(python3 publisher/add_entries.py *)"
     ]
   },
   "autoMode": {

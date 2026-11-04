@@ -46,6 +46,16 @@ Alle Einträge bekommen `status: "now"` ohne `publish_at`, keine Slots. Direkt n
 4. Workflow starten, `publisher/log.jsonl` lesen, fehlgeschlagene Einträge (`status: failed`, Feld `error`) im Bericht nennen. Nicht stillschweigend neu anlegen.
 5. Keine Meldung = nichts anlegen.
 
+## Befehle einzeln ausführen (verbindlich, wegen der Allow-Regeln in .claude/settings.json)
+Zusammengesetzte Befehle (`&&`, `;`, Heredocs, Python-Blöcke mit anschließendem git) passen zu keinem Allow-Muster und werden abgelehnt. Deshalb jeden Schritt als eigenen Bash-Aufruf, in dieser Reihenfolge:
+1. `git pull --rebase origin main`
+2. Einträge als JSON-Datei in den Scratchpad schreiben (Write-Werkzeug), dann `python3 publisher/add_entries.py <datei.json>`
+3. `git add publisher/queue.json` (und `git add images/<datei>` für Medien)
+4. `git commit -m "<Text>"`
+5. `git push origin HEAD:main`
+6. `git push -u origin <Sitzungs-Branch>` (Branch-Push, den der Stop-Hook verlangt)
+Videos: `git fetch origin video-out`, `git worktree add …`, `git add`, `git commit`, `git push origin video-out`, jeweils einzeln.
+
 ## Dublettenprüfung (verbindlich)
 Vor dem Bauen von Medien und vor dem Anlegen von Einträgen wird jeder Kandidat per Stichwortsuche gegen die KOMPLETTE `publisher/queue.json` und `publisher/log.jsonl` geprüft: Teamnamen, Spielernamen, Gegner, Ergebnis und Wettbewerb, auf Arabisch und Englisch. Ein Treffer zum selben Spiel, Spieler im selben Kontext oder derselben Aussage in den letzten 7 Tagen macht den Kandidaten zur Dublette: verwerfen. Im Bericht die verwendeten Suchbegriffe nennen.
 
