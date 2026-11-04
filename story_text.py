@@ -17,44 +17,35 @@ Aufruf (Story-Video mit eingebranntem Text, empfohlen):
   python3 story_text.py --out /tmp/st.png --video story.mp4 --out-video story-text.mp4 \
       --title "<Schlagzeile>" --cta "<Call to Action>" --tags "#tag1 #tag2"
 
-Alle Texte arabisch (RTL) gerendert; Schrift DejaVuSans-Bold.
-Die Schlagzeile wird ohne vorheriges reshaping übergeben (raqm übernimmt die
-Verbindung der Buchstaben).
+Text steht in einer dunkelgrünen Karte mit goldenem Rahmen (Feed-Design), Schrift Noto Sans Arabic 800, Titel 60 px (wie im Feed). Rendering per Chromium.
 """
 import argparse
 import os
 import subprocess
 
-from PIL import Image, ImageDraw, ImageFont
+import html
+from playwright.sync_api import sync_playwright
 
 W, H = 1080, 1920
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-MARGIN = 80
 
 
-def wrap(draw, text, font, max_w):
-    """Zeilenumbruch nach Pixelbreite (Wörter bleiben zusammen)."""
-    lines, current = [], ""
-    for word in text.split():
-        candidate = f"{current} {word}".strip()
-        if draw.textlength(candidate, font=font, direction="rtl", language="ar") <= max_w:
-            current = candidate
-        else:
-            if current:
-                lines.append(current)
-            current = word
-    if current:
-        lines.append(current)
-    return lines
-
-
-def draw_lines(draw, lines, font, y, color, line_gap):
-    for line in lines:
-        w = draw.textlength(line, font=font, direction="rtl", language="ar")
-        draw.text(((W - w) / 2, y), line, font=font, fill=color,
-                  direction="rtl", language="ar")
-        y += font.size + line_gap
-    return y
+def card_html(title, cta, tags):
+    """Text-Container im Feed-Design: dunkelgrüne Karte #0B3D26, goldene Leiste,
+    Noto Sans Arabic 800, Schriftgröße wie im Feed-Post (Titel 60 px)."""
+    e = html.escape
+    parts = [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
+    if cta:
+        parts.append(f'<div style="margin-top:22px;font-size:34px;font-weight:800;color:#C9A227">{e(cta)}</div>')
+    if tags:
+        parts.append(f'<div style="margin-top:18px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8)">{e(tags)}</div>')
+    return f'''<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
+</head><body style="margin:0;background:transparent">
+<div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
+<div id="card" style="position:absolute;left:56px;right:56px;bottom:300px;box-sizing:border-box;background:rgba(11,61,38,0.96);color:#FFFFFF;border-radius:28px;border:3px solid #C9A227;padding:44px 48px 52px;text-align:center;overflow:hidden;direction:rtl">
+{"".join(parts)}
+<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>
+</div></div></body></html>'''
 
 
 def main():
@@ -69,45 +60,19 @@ def main():
                     help="Ausgabe-Video mit eingebranntem Text (mit --video)")
     args = ap.parse_args()
 
-    measure = ImageDraw.Draw(Image.new("RGBA", (W, H)))
-    title_font = ImageFont.truetype(FONT, 44)
-    cta_font = ImageFont.truetype(FONT, 30)
-    tag_font = ImageFont.truetype(FONT, 30)
-    max_w = W - 2 * MARGIN
-
-    # Blöcke: (Zeilen, Schrift, Farbe, Zeilenabstand, Abstand davor)
-    blocks = [(wrap(measure, args.title, title_font, max_w), title_font,
-               (255, 255, 255, 255), 16, 0)]
-    if args.cta:
-        blocks.append((wrap(measure, args.cta, cta_font, max_w), cta_font,
-                       (255, 215, 0, 255), 8, 20))
-    if args.tags:
-        blocks.append((wrap(measure, args.tags, tag_font, max_w), tag_font,
-                       (255, 255, 255, 230), 10, 36))
-
-    pad = 24
-    total = pad * 2
-    for lines, font, _, gap, before in blocks:
-        total += before + len(lines) * (font.size + gap)
-    if total > 1000:
-        raise SystemExit("Text zu lang für die Story: Titel oder CTA kürzen")
-
-    # Streifen klein, unten (Mitte bei ca. 1600 px, über Instagram-Bedienleiste)
-    box_top = 1600 - total // 2
-    box_bottom = box_top + total
-
-    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(img)
-    # halbtransparenter Streifen für Lesbarkeit auf jedem Foto/Video
-    draw.rectangle([0, box_top, W, box_bottom], fill=(0, 0, 0, 170))
-
-    y = box_top + pad
-    for lines, font, color, gap, before in blocks:
-        y += before
-        y = draw_lines(draw, lines, font, y, color, gap)
-
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
-    img.save(args.out)
+    tmp = os.path.abspath(args.out) + ".html"
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.write(card_html(args.title, args.cta, args.tags))
+    with sync_playwright() as p:
+        b = p.chromium.launch(**({'executable_path': '/opt/pw-browsers/chromium', 'args': ['--no-sandbox']} if os.path.exists('/opt/pw-browsers/chromium') else {}))
+        pg = b.new_page(viewport={"width": W, "height": H})
+        pg.goto("file://" + tmp, wait_until="load")
+        pg.wait_for_timeout(800)
+        pg.screenshot(path=args.out, omit_background=True,
+                      clip={"x": 0, "y": 0, "width": W, "height": H})
+        b.close()
+    os.remove(tmp)
     print(args.out)
 
     if args.video:
