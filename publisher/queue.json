@@ -3151,5 +3151,46 @@
     "status": "published",
     "meta_id": "18028007756924322",
     "published_at": "2026-11-04T20:22:32.958986+00:00"
+  },
+  {
+    "id": "20261104-2225-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-2225-1.png",
+    "caption": "منح برندن رودجرز مدرب القادسية لاعبيه إجازة لمدة عشرة أيام بعد تأجيل الجولة الثالثة عشرة من دوري روشن.\n\nولن يخوض الفريق أي مباراة ودية خلال التوقف الدولي، وبعد العودة ستركز التدريبات على الاستشفاء واللياقة.\n\nوسبقه إنزاجي مدرب الهلال بإجازة عشرة أيام، وبوستيكوغلو مدرب النصر بتسعة أيام.\n\nويحتل القادسية المركز الثاني برصيد ثمانٍ وعشرين نقطة.\n\nهل تخدم هذه الإجازة الطويلة جاهزية الفرق؟\n\n#القادسية #دوري_روشن #رودجرز",
+    "status": "now",
+    "titel": "القادسية يمنح لاعبيه إجازة عشرة أيام بعد تأجيل دوري روشن",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/على-خطى-الهلال-والنصر--القادسية-يفاجئ-لاعبيه-بعد-تأجيل-دوري-روشن/bltc1b51587b0647861"
+  },
+  {
+    "id": "20261104-2225-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2225-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-2225-1.jpg",
+    "caption": "رودجرز يوزع الراحة على نجوم القادسية 🏖️\n\nعشرة أيام إجازة بعد تأجيل الجولة الثالثة عشرة من روشن 📅\n\nلا مباريات ودية في التوقف الدولي، وبعد العودة تدريبات استشفاء ولياقة 💪\n\nوالقادسية ثانٍ في الترتيب خلف الهلال بنقطتين ⚽\n\n#القادسية #دوري_روشن #رودجرز #السعودية #الكرة_السعودية",
+    "status": "now",
+    "titel": "القادسية يمنح لاعبيه إجازة عشرة أيام بعد تأجيل دوري روشن",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/على-خطى-الهلال-والنصر--القادسية-يفاجئ-لاعبيه-بعد-تأجيل-دوري-روشن/bltc1b51587b0647861"
+  },
+  {
+    "id": "20261104-2225-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2225-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "القادسية يمنح لاعبيه إجازة عشرة أيام بعد تأجيل دوري روشن",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/على-خطى-الهلال-والنصر--القادسية-يفاجئ-لاعبيه-بعد-تأجيل-دوري-روشن/bltc1b51587b0647861"
+  },
+  {
+    "id": "20261104-2225-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2225-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "القادسية يمنح لاعبيه إجازة عشرة أيام بعد تأجيل دوري روشن",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/على-خطى-الهلال-والنصر--القادسية-يفاجئ-لاعبيه-بعد-تأجيل-دوري-روشن/bltc1b51587b0647861"
   }
 ]
