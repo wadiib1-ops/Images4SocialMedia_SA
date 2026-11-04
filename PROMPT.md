@@ -105,10 +105,11 @@ Abschlussbericht (deutsch, kurz, Zeiten in Berliner Zeit):
  - Verbrauch: Anzahl Recherche-Abrufe, Fehlschläge, Liste der abgerufenen Seiten mit Ergebnis.
 
 8. MUSIK-VIDEO
+Layout von Text, Footer und Foto im Video: siehe CLAUDE-Routine.md, Abschnitt "Story-/Reel-Video-Layout" (gilt vor den Angaben unten).
 Ziel: Reel und Story einer Meldung sind kurze Videos mit Hintergrundmusik aus dem Ordner Video/ dieses Repos. Das Foto der Meldung ist die Bildquelle.
  1. Gilt nur für Meldungen mit Foto. Bei einem direkten Quell-Video (Regel D) bleibt es unverändert, im Bericht "Quell-Video, keine Musik".
  2. Foto laden: curl -sL -m 30 -A "Mozilla/5.0" -o /tmp/foto.img -w "%{http_code}" "<ORIGINAL-Foto-URL>" und mit Pillow prüfen. Gelingt das nicht, zuerst den zweiten Kandidaten, sonst Regel F.
- 3. Werkzeuge: python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q pillow arabic-reshaper python-bidi. story_text.py mit /tmp/venv/bin/python starten. ffmpeg ist vorhanden. Das Logo liegt unter images/logo-saudi.png.
+ 3. Werkzeuge: python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q pillow arabic-reshaper python-bidi playwright. story_text.py mit /tmp/venv/bin/python starten. ffmpeg ist vorhanden. Das Logo liegt unter images/logo-saudi.png.
  4. Musik zufällig wählen: Liste = sortierte Dateien Video/*.mp3. INDEX=$((RANDOM % Anzahl der Dateien)). Startpunkt im Track: ein Vielfaches von 8 Sekunden zwischen 0 und (Tracklänge minus 20 Sekunden), Länge per ffprobe.
  5. EFFEKT-VIDEO (Instagram-Reel sowie Facebook- und Instagram-Story): 1080x1920, Dauer D (siehe Schritt 7), 25 fps, H.264 + AAC, yuv420p. Unscharfer, abgedunkelter Hintergrund aus demselben Foto. Foto (Breite 1000 px) gleitet in 0,9 s von links ins Bild und zoomt danach sanft rein und raus (zoompan, Zoom 1,00 bis 1,12, 8 s Zyklus; der Bildrahmen bleibt gleich groß, der Zoom verschiebt nur den Ausschnitt). Logo oben links wächst in 0,5 s auf 106 px. Goldener Fortschrittsbalken unten (0xC9A227), füllt sich bis zum Ende. Ton mit Ein- und Ausblendung. Umsetzung: python3 make_story_video.py <Arbeitsordner> <Repo> <TAG> (der Arbeitsordner braucht foto.jpg, siehe Skript-Kopf). Diese Animation gilt für alle künftigen Läufe dieser Routine.
  6. Ist das Foto hochkant, Höhe auf höchstens 1400 px begrenzen (scale=-2:1400), damit es vollständig sichtbar bleibt. Ausgabe mit ffprobe prüfen (1080x1920, Dauer D, Audio vorhanden). Fehler: einmal wiederholen, danach Reel und Story der Meldung weglassen und melden.
