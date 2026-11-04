@@ -2668,5 +2668,56 @@
     "titel": "الهلال يتغلب على شباب الأهلي بثنائية واتكينز في نخبة آسيا",
     "quelle_url": "https://www.sportksa.net/main/archives/507917",
     "error": "Meta-Fehler HTTP 403: Application request limit reached (code 4, subcode 2207051)"
+  },
+  {
+    "id": "20261104-1230-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-1230-1.png",
+    "caption": "فاز نيوم على ضيفه الدحيل القطري بثلاثة أهداف دون رد ضمن الجولة الثالثة من المجموعة الأولى في دوري أبطال الخليج للأندية.\n\nسجل سعيد بن رحمة الهدف الأول في الدقيقة الرابعة بتمريرة من ألكسندر لاكازيت، وأضاف عبدالملك العييري الثاني في الدقيقة العاشرة، ثم عاد بن رحمة ليسجل الثالث في الدقيقة السادسة والثمانين.\n\nوبهذه النتيجة تصدر نيوم المجموعة برصيد ست نقاط من ثلاث مباريات.\n\nما أبرز ما لفت نظرك في أداء نيوم أمام الدحيل؟\n\n#نيوم #دوري_أبطال_الخليج #الكرة_السعودية",
+    "status": "now",
+    "titel": "نيوم يتجاوز الدحيل بثلاثية ويتصدر المجموعة الأولى",
+    "quelle_url": "https://www.sportksa.net/main/archives/507914"
+  },
+  {
+    "id": "20261104-1230-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1230-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-1230-1.jpg",
+    "caption": "ثلاثية نظيفة تمنح نيوم الصدارة 🔥⚽\n\nسعيد بن رحمة يسجل هدفين، وعبدالملك العييري يضيف هدفًا، ونيوم يتفوق على الدحيل القطري 3-0 في دوري أبطال الخليج 💙\n\nست نقاط من ثلاث مباريات تضع الفريق في القمة ✨\n\nمن كان نجم اللقاء برأيك؟\n\n#نيوم #دوري_أبطال_الخليج #بن_رحمة #الكرة_السعودية #السعودية",
+    "status": "now",
+    "titel": "نيوم يتجاوز الدحيل بثلاثية ويتصدر المجموعة الأولى",
+    "quelle_url": "https://www.sportksa.net/main/archives/507914"
+  },
+  {
+    "id": "20261104-1230-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1230-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نيوم يتجاوز الدحيل بثلاثية ويتصدر المجموعة الأولى",
+    "quelle_url": "https://www.sportksa.net/main/archives/507914"
+  },
+  {
+    "id": "20261104-1230-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1230-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نيوم يتجاوز الدحيل بثلاثية ويتصدر المجموعة الأولى",
+    "quelle_url": "https://www.sportksa.net/main/archives/507914"
+  },
+  {
+    "id": "20261104-1230-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-1230-1.png",
+    "caption": "نيوم يحسم الموقعة بثلاثية ⚽🔥\n\nبن رحمة يسجل ثنائية، والعييري يضيف هدفًا، والدحيل القطري يغادر بخسارة ثقيلة في دوري أبطال الخليج 💙\n\nالنتيجة تمنح نيوم صدارة المجموعة الأولى بست نقاط ✨\n\nكيف تقيّم أداء الفريق؟\n\n#نيوم #دوري_أبطال_الخليج #بن_رحمة #الكرة_السعودية #السعودية",
+    "status": "now",
+    "titel": "نيوم يتجاوز الدحيل بثلاثية ويتصدر المجموعة الأولى",
+    "quelle_url": "https://www.sportksa.net/main/archives/507914"
   }
 ]
