@@ -2488,5 +2488,56 @@
     "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%94%D9%88%D9%84-%D8%AA%D8%AD%D8%B1%D9%83-%D8%B1%D8%B3%D9%85%D9%8A--%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%A8%D8%AF%D8%A7%D9%94-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%94%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%94%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/bltf3e6f8cc13a64b93",
     "status": "failed",
     "error": "Meta-Fehler HTTP 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Handlung ist blockiert\",\"error_user_msg\":\"Wir schr\\u00e4nken bestimmte Handlungen ein, um unsere Community zu sch\\u00fctzen. Sag uns, wenn wir deiner Meinung nach einen Fehler gemacht haben.\",\"fbtrace_id\":\"AFsKnQI3MG7iefK-WaEGr2_\"}}"
+  },
+  {
+    "id": "20261104-1000-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-1000-1.png",
+    "caption": "يتواجه النصر والخلود في نصف نهائي كأس السوبر السعودي.\n\nتقام المباراة يوم الأحد 20 ديسمبر في مدينة الكويت على استاد جابر الأحمد الدولي.\n\nتباع التذاكر عبر منصة ويبوك بسعر يبدأ من 120 ريالًا.\n\nهل ترى النصر مرشحًا للوصول إلى النهائي؟\n\n#كأس_السوبر_السعودي #النصر #الخلود",
+    "status": "now",
+    "titel": "النصر والخلود في نصف نهائي كأس السوبر السعودي وبيع التذاكر عبر ويبوك",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/كيفية-الحصول-على-تذاكر-مباراة-النصر-والخلود/blt9a196e542d56707f"
+  },
+  {
+    "id": "20261104-1000-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1000-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-1000-1.jpg",
+    "caption": "موعد المواجهة تحدد 🏆\nالنصر يلاقي الخلود في نصف نهائي كأس السوبر السعودي يوم 20 ديسمبر ⚽\nالمكان: استاد جابر الأحمد الدولي في الكويت 🏟️\nالتذاكر متاحة عبر ويبوك من 120 ريالًا 🎟️\nمن تتوقع أن يتأهل إلى النهائي؟\n\n#كأس_السوبر_السعودي #النصر #الخلود #الكرة_السعودية #دوري_روشن",
+    "status": "now",
+    "titel": "النصر والخلود في نصف نهائي كأس السوبر السعودي وبيع التذاكر عبر ويبوك",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/كيفية-الحصول-على-تذاكر-مباراة-النصر-والخلود/blt9a196e542d56707f"
+  },
+  {
+    "id": "20261104-1000-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1000-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "النصر والخلود في نصف نهائي كأس السوبر السعودي وبيع التذاكر عبر ويبوك",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/كيفية-الحصول-على-تذاكر-مباراة-النصر-والخلود/blt9a196e542d56707f"
+  },
+  {
+    "id": "20261104-1000-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1000-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "النصر والخلود في نصف نهائي كأس السوبر السعودي وبيع التذاكر عبر ويبوك",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/كيفية-الحصول-على-تذاكر-مباراة-النصر-والخلود/blt9a196e542d56707f"
+  },
+  {
+    "id": "20261104-1000-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-1000-1.png",
+    "caption": "حسم الموعد 🏆\nالنصر يلاقي الخلود في نصف نهائي كأس السوبر السعودي يوم 20 ديسمبر ⚽\nالمكان: استاد جابر الأحمد الدولي في الكويت 🏟️\nالتذاكر متاحة عبر ويبوك من 120 ريالًا 🎟️\nمن تتوقع أن يتأهل إلى النهائي؟\n\n#كأس_السوبر_السعودي #النصر #الخلود #الكرة_السعودية #دوري_روشن",
+    "status": "now",
+    "titel": "النصر والخلود في نصف نهائي كأس السوبر السعودي وبيع التذاكر عبر ويبوك",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/كيفية-الحصول-على-تذاكر-مباراة-النصر-والخلود/blt9a196e542d56707f"
   }
 ]
