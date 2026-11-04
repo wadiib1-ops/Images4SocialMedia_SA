@@ -3199,5 +3199,46 @@
     "titel": "القادسية يمنح لاعبيه إجازة عشرة أيام بعد تأجيل دوري روشن",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/على-خطى-الهلال-والنصر--القادسية-يفاجئ-لاعبيه-بعد-تأجيل-دوري-روشن/bltc1b51587b0647861",
     "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"
+  },
+  {
+    "id": "20261104-2320-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-2320-1.png",
+    "caption": "عزز التعاون صدارته للمجموعة بثلاثية في شباك الفيصلي الأردني ضمن الجولة الرابعة من دوري أبطال آسيا 2.\n\nوسجل عبدالرزاق حمدالله هدفين، أحدهما من ركلة جزاء.\n\nورفع التعاون رصيده إلى عشر نقاط في صدارة المجموعة، بينما بقي الفيصلي عند ثلاث نقاط.\n\nهل يواصل التعاون تقدمه في البطولة القارية؟\n\n#التعاون #دوري_أبطال_آسيا_2 #الكرة_السعودية",
+    "status": "now",
+    "titel": "التعاون يعزز صدارته بثلاثية في شباك الفيصلي الأردني",
+    "quelle_url": "https://ajel.sa/sports/g4ujpq218"
+  },
+  {
+    "id": "20261104-2320-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2320-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-2320-1.jpg",
+    "caption": "ثلاثية في شباك الفيصلي الأردني وصدارة مستمرة 🔥\n\nالتعاون يواصل مشواره القوي في دوري أبطال آسيا 2 ⚽\nحمدالله يسجل هدفين، والفريق يصل إلى عشر نقاط في صدارة المجموعة 👏\nبينما يبقى الفيصلي عند ثلاث نقاط.\n\nما توقعك لمسيرة التعاون في البطولة؟ 💬\n\n#التعاون #دوري_أبطال_آسيا_2 #الكرة_السعودية #حمدالله #السعودية",
+    "status": "now",
+    "titel": "التعاون يعزز صدارته بثلاثية في شباك الفيصلي الأردني",
+    "quelle_url": "https://ajel.sa/sports/g4ujpq218"
+  },
+  {
+    "id": "20261104-2320-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2320-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "التعاون يعزز صدارته بثلاثية في شباك الفيصلي الأردني",
+    "quelle_url": "https://ajel.sa/sports/g4ujpq218"
+  },
+  {
+    "id": "20261104-2320-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2320-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "التعاون يعزز صدارته بثلاثية في شباك الفيصلي الأردني",
+    "quelle_url": "https://ajel.sa/sports/g4ujpq218"
   }
 ]
