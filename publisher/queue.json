@@ -2957,5 +2957,46 @@
     "status": "published",
     "meta_id": "18081766859424956",
     "published_at": "2026-11-04T17:17:31.336160+00:00"
+  },
+  {
+    "id": "20261104-1930-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-1930-1.png",
+    "caption": "تعرض لاعب الأهلي الفرنسي فالنتين أتانجانا لارتجاج خفيف في الدماغ إثر اصطدام خلال التعادل السلبي أمام السد في دوري أبطال آسيا للنخبة.\n\nوغادر اللاعب الملعب مبكرا ونقل إلى مستشفى في الدوحة، وأظهرت الفحوصات الأولية عدم وجود مضاعفات خطيرة.\n\nوعاد اللاعب مع البعثة إلى جدة لإجراء فحوصات إضافية في عيادة النادي.\n\nهل يشارك أتانجانا في المباراة المقبلة للأهلي؟\n\n#الأهلي #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية",
+    "status": "now",
+    "titel": "أتانجانا يتعرض لارتجاج خفيف في الدماغ بعد مواجهة السد",
+    "quelle_url": "https://www.sportksa.net/main/archives/507894"
+  },
+  {
+    "id": "20261104-1930-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1930-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-1930-1.jpg",
+    "caption": "⚠️ قلق في معسكر الأهلي بعد إصابة أتانجانا!\n\nاصطدام قوي في مباراة السد انتهى بارتجاج خفيف في الدماغ للاعب الفرنسي 🤕 غادر الملعب مبكرا وخضع لفحوصات في الدوحة، والنتائج الأولية طمأنت الجميع 🙏 والآن فحوصات إضافية في جدة 🏥\n\nما رأيك، هل يلحق بالمباراة المقبلة؟\n\n#الأهلي #أتانجانا #دوري_أبطال_آسيا #الكرة_السعودية #روشن",
+    "status": "now",
+    "titel": "أتانجانا يتعرض لارتجاج خفيف في الدماغ بعد مواجهة السد",
+    "quelle_url": "https://www.sportksa.net/main/archives/507894"
+  },
+  {
+    "id": "20261104-1930-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1930-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أتانجانا يتعرض لارتجاج خفيف في الدماغ بعد مواجهة السد",
+    "quelle_url": "https://www.sportksa.net/main/archives/507894"
+  },
+  {
+    "id": "20261104-1930-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-1930-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أتانجانا يتعرض لارتجاج خفيف في الدماغ بعد مواجهة السد",
+    "quelle_url": "https://www.sportksa.net/main/archives/507894"
   }
 ]
