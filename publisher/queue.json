@@ -3062,9 +3062,10 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261104-2106-1.png",
     "caption": "تحدث ميريح ديميرال مدافع الأهلي عن شراكته مع البرازيلي إيبانيز في بودكاست «ذا مو شو».\n\nقال إنه محظوظ باللعب إلى جانبه، وإن هذا موسمهما الرابع معًا في قلب الدفاع.\n\nوأضاف أن ما يميز الأهلي أنهم عائلة واحدة، وقد حقق الثنائي دوري أبطال آسيا للنخبة مرتين وكأس السوبر مرة.\n\nما رأيك في ثنائي دفاع الأهلي هذا الموسم؟\n\n#الأهلي #دوري_روشن #ديميرال",
-    "status": "now",
+    "status": "failed",
     "titel": "ديميرال: أعرف إيبانيز أكثر من زوجتي",
-    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476"
+    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476",
+    "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Bild erforderlich\",\"error_user_msg\":\"Stelle sicher, dass dein Seitenbeitrag ein Bild enth\\u00e4lt, das in einer Anzeige verwendet werden kann.\",\"fbtrace_id\":\"ADXqZaXaLO7enncI7wSuZ3G\"}}"
   },
   {
     "id": "20261104-2106-1-ig-reel",
@@ -3073,9 +3074,10 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2106-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261104-2106-1.jpg",
     "caption": "«أنا أعرفك أكثر من زوجتي» 😄🛡️\n\nمدافع الأهلي ميريح ديميرال يتحدث عن رفيقه إيبانيز، ويصف الأهلي بأنه عائلة واحدة 💚\n\nأربعة مواسم معًا، ودوري أبطال آسيا للنخبة مرتين وكأس السوبر مرة ⚽🏆\n\nمن ثنائي الدفاع الأفضل في الدوري برأيك؟\n\n#الأهلي #ديميرال #إيبانيز #دوري_روشن #الكرة_السعودية",
-    "status": "now",
+    "status": "failed",
     "titel": "ديميرال: أعرف إيبانيز أكثر من زوجتي",
-    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476"
+    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"
   },
   {
     "id": "20261104-2106-1-fb-story",
@@ -3083,9 +3085,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2106-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ديميرال: أعرف إيبانيز أكثر من زوجتي",
-    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476"
+    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476",
+    "meta_id": "1099812909531071",
+    "published_at": "2026-11-04T20:09:21.150577+00:00"
   },
   {
     "id": "20261104-2106-1-ig-story",
@@ -3093,8 +3097,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261104-2106-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ديميرال: أعرف إيبانيز أكثر من زوجتي",
-    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476"
+    "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/blt3aff3462eea56476",
+    "meta_id": "18184017151388966",
+    "published_at": "2026-11-04T20:09:21.150577+00:00"
   }
 ]

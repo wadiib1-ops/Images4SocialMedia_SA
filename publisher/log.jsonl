@@ -358,3 +358,8 @@
 {"zeit": "04.11.2026 19:50:18", "aktion": "veröffentlicht", "beitrag": "20261104-1950-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18227722189339543"}
 {"zeit": "04.11.2026 19:50:18", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "251 Einträge geprüft"}
 {"zeit": "04.11.2026 19:50:35", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "251 Einträge geprüft"}
+{"zeit": "04.11.2026 21:09:32", "aktion": "fehlgeschlagen", "beitrag": "20261104-2106-1-fb-feed", "plattform": "facebook", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Bild erforderlich\",\"error_user_msg\":\"Stelle sicher, dass dein Seitenbeitrag ein Bild enth\\u00e4lt, das in einer Anzeige verwendet werden kann.\",\"fbtrace_id\":\"ADXqZaXaLO7enncI7wSuZ3G\"}}"}
+{"zeit": "04.11.2026 21:10:44", "aktion": "fehlgeschlagen", "beitrag": "20261104-2106-1-ig-reel", "plattform": "instagram", "ergebnis": "fehler", "details": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"}
+{"zeit": "04.11.2026 21:10:54", "aktion": "veröffentlicht", "beitrag": "20261104-2106-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1099812909531071"}
+{"zeit": "04.11.2026 21:11:41", "aktion": "veröffentlicht", "beitrag": "20261104-2106-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18184017151388966"}
+{"zeit": "04.11.2026 21:11:41", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "255 Einträge geprüft"}
