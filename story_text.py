@@ -29,30 +29,37 @@ from playwright.sync_api import sync_playwright
 W, H = 1080, 1920
 
 
-def card_html(title, cta, tags):
+def card_html(title, cta, tags, mode="full"):
     """Text-Container wie im Feed-Post: dunkelgrünes Band #0B3D26, goldene Leiste,
     Noto Sans Arabic 800, Schriftgröße wie im Feed-Post (Titel 60 px)."""
     e = html.escape
-    parts = [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
-    if cta:
+    if mode == "band":
+        title = cta = tags = ""
+    parts = [] if mode == "band" else [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
+    bg = "transparent" if mode == "text" else "#0B3D26"
+    deco = "" if mode == "text" else (
+        '<div style="position:absolute;left:56px;right:56px;bottom:196px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
+        '<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>')
+    if cta and mode != "band":
         parts.append(f'<div style="margin-top:22px;font-size:34px;font-weight:800;color:#C9A227">{e(cta)}</div>')
-    if tags:
+    if tags and mode != "band":
         parts.append(f'<div style="margin-top:18px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8)">{e(tags)}</div>')
     return f'''<html><head><meta charset="utf-8">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 </head><body style="margin:0;background:transparent">
 <div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
-<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;padding:48px 56px 240px;text-align:right;direction:rtl">
+<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:{bg};color:#FFFFFF;padding:48px 56px 240px;text-align:right;direction:rtl">
 {"".join(parts)}
-<div style="position:absolute;left:56px;right:56px;bottom:196px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>
-<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>
+{deco}
 </div></div></body></html>'''
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", required=True)
-    ap.add_argument("--title", required=True)
+    ap.add_argument("--title", default="")
+    ap.add_argument("--mode", choices=["full", "band", "text"], default="full",
+                    help="band = fester Container mit Footer ohne Text, text = nur Text transparent")
     ap.add_argument("--cta", default="")
     ap.add_argument("--tags", default="")
     ap.add_argument("--video", default="",
@@ -64,7 +71,7 @@ def main():
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     tmp = os.path.abspath(args.out) + ".html"
     with open(tmp, "w", encoding="utf-8") as f:
-        f.write(card_html(args.title, args.cta, args.tags))
+        f.write(card_html(args.title, args.cta, args.tags, args.mode))
     with sync_playwright() as p:
         b = p.chromium.launch(**({'executable_path': '/opt/pw-browsers/chromium', 'args': ['--no-sandbox']} if os.path.exists('/opt/pw-browsers/chromium') else {}))
         pg = b.new_page(viewport={"width": W, "height": H})

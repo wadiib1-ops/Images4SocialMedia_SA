@@ -116,3 +116,6 @@ Das Foto der Spieler soll deutlich größer sein. In `make_feed_image.py` steht 
 - Foto: 1080 x 1200 px (cover), Unterkante fest bei y=1380 direkt über dem Textband, wächst nach oben; Logo (106 px) oben links.
 - Umsetzung: `story_text.py` (rendert per Playwright/Chromium) und `make_story_video.py`. Nicht zurücksetzen.
 - Werkzeug-Hinweis: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q playwright pillow`; das vorinstallierte Chromium (/opt/pw-browsers/chromium) wird automatisch genutzt.
+
+## Festes Textband im Video (verbindlich, Nutzerwunsch vom 04.11.2026, dauerhaft für alle Läufe)
+Das grüne Band mit goldener Leiste und Footer `@saudifootballfutsal` ist im Video immer sichtbar (eigene Dauer-Ebene, `story_text.py --mode band`). Nur der Text wechselt: transparente Text-PNGs (`--mode text`) blenden aus und ein, das Band verschwindet nie. Umgesetzt in `make_story_video.py`. Nicht zurücksetzen.
