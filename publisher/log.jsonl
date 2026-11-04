@@ -292,3 +292,9 @@
 {"zeit": "04.11.2026 01:47:02", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "204 Einträge geprüft"}
 {"zeit": "04.11.2026 04:01:58", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "204 Einträge geprüft"}
 {"zeit": "04.11.2026 09:48:52", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "204 Einträge geprüft"}
+{"zeit": "04.11.2026 09:55:20", "aktion": "veröffentlicht", "beitrag": "20261104-1000-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122097319305541897"}
+{"zeit": "04.11.2026 09:56:53", "aktion": "veröffentlicht", "beitrag": "20261104-1000-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18129757102871163"}
+{"zeit": "04.11.2026 09:57:01", "aktion": "veröffentlicht", "beitrag": "20261104-1000-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 4569660796606506"}
+{"zeit": "04.11.2026 09:57:36", "aktion": "veröffentlicht", "beitrag": "20261104-1000-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18121761581050915"}
+{"zeit": "04.11.2026 09:57:49", "aktion": "fehlgeschlagen", "beitrag": "20261104-1000-1-ig-feed", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Handlung ist blockiert\",\"error_user_msg\":\"Wir schr\\u00e4nken bestimmte Handlungen ein, um unsere Community zu sch\\u00fctzen. Sag uns, wenn wir deiner Meinung nach einen Fehler gemacht haben.\",\"fbtrace_id\":\"AmvLUdBkiQZ_1MisQCZKixn\"}}"}
+{"zeit": "04.11.2026 09:57:49", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "209 Einträge geprüft"}
