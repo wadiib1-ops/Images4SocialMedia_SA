@@ -3395,5 +3395,46 @@
     "status": "published",
     "meta_id": "18643675243029656",
     "published_at": "2026-11-05T06:26:52.231085+00:00"
+  },
+  {
+    "id": "20261105-0935-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-0935-1.png",
+    "caption": "إصابة نيفيز تضع إنزاجي أمام تحدٍّ في وسط الهلال\n\nتعرّض روبن نيفيز لاعب وسط الهلال لإصابة عضلية خلال الفوز على الفتح في الجولة 12 من دوري روشن.\n\nوغاب عن مباراة شباب الأهلي الإماراتي في دوري أبطال آسيا للنخبة.\n\nوذكر الإعلامي حمد الصويلحي أن فترة العلاج والتأهيل تتراوح بين ثلاثة وأربعة أسابيع، ويبحث المدرب سيموني إنزاجي عن بديل يحافظ على توازن الوسط.\n\nمن يملك الأفضلية لتعويض غياب نيفيز في وسط الهلال؟\n\n#الهلال #دوري_روشن #نيفيز",
+    "titel": "إصابة نيفيز تضع إنزاجي أمام تحدٍّ في وسط الهلال",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/ضربة-كبرى--روبن-نيفيز-يضع-إنزاجي-في-مأزق-مع-الهلال/blt6b77b644f7cc3150",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0935-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0935-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-0935-1.jpg",
+    "caption": "🚨 الهلال قد يفقد نيفيز لأسابيع!\n\nإصابة عضلية تبعد البرتغالي روبن نيفيز عن الزعيم، بعد مباراة الفتح وغيابه أمام شباب الأهلي 🤕\n\nالمتوقع أن يحتاج إلى علاج وتأهيل من ثلاثة إلى أربعة أسابيع، وإنزاجي أمام مهمة إيجاد البديل ⚽\n\nمن تراه الأنسب لسد الفراغ؟ 💙\n\n#الهلال #نيفيز #إنزاجي #دوري_روشن #الزعيم",
+    "titel": "إصابة نيفيز تضع إنزاجي أمام تحدٍّ في وسط الهلال",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/ضربة-كبرى--روبن-نيفيز-يضع-إنزاجي-في-مأزق-مع-الهلال/blt6b77b644f7cc3150",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0935-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0935-1-story-text.mp4",
+    "caption": "",
+    "titel": "إصابة نيفيز تضع إنزاجي أمام تحدٍّ في وسط الهلال",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/ضربة-كبرى--روبن-نيفيز-يضع-إنزاجي-في-مأزق-مع-الهلال/blt6b77b644f7cc3150",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0935-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0935-1-story-text.mp4",
+    "caption": "",
+    "titel": "إصابة نيفيز تضع إنزاجي أمام تحدٍّ في وسط الهلال",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/ضربة-كبرى--روبن-نيفيز-يضع-إنزاجي-في-مأزق-مع-الهلال/blt6b77b644f7cc3150",
+    "status": "now"
   }
 ]
