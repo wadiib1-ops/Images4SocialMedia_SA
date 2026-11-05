@@ -3745,9 +3745,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-1640-1.png",
     "caption": "تنطلق الجولة الحادية عشرة من دوري الدرجة الأولى يوم الجمعة.\n\nويستضيف النجمة متصدر الترتيب العلا في قمة الجولة يوم السبت.\n\nيتصدر العلا برصيد خمس وعشرين نقطة وله مباراة مؤجلة، ويحتل النجمة المركز الثالث بتسع عشرة نقطة.\n\nوتقام يوم الأحد مواجهات ضمك والأنوار والوحدة والجيل.\n\nويقف الجندل وهجر في مركزين متأخرين برصيد ست نقاط لكل منهما.\n\nهل ينجح النجمة في تقليص الفارق عن العلا؟\n\n#دوري_الدرجة_الأولى #النجمة #العلا",
-    "status": "now",
+    "status": "published",
     "titel": "النجمة يستضيف العلا في قمة الجولة الحادية عشرة (نسخة مصححة)",
-    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2"
+    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2",
+    "meta_id": "122098323273541897",
+    "published_at": "2026-11-05T15:43:19.391616+00:00"
   },
   {
     "id": "20261105-1640-1-ig-reel",
@@ -3756,9 +3758,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1640-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-1640-1.jpg",
     "caption": "قمة نارية في دوري الدرجة الأولى ⚽🔥\n\nالنجمة يستقبل المتصدر العلا يوم السبت ضمن الجولة الحادية عشرة 🏟️\n\nالعلا في الصدارة بخمس وعشرين نقطة ومباراة مؤجلة، والنجمة يطارده في المركز الثالث بتسع عشرة نقطة 📊\n\nمن سيخرج فائزا من هذه المواجهة؟ 👇\n\n#دوري_الدرجة_الأولى #النجمة #العلا #الكرة_السعودية #دوري_يلو",
-    "status": "now",
+    "status": "published",
     "titel": "النجمة يستضيف العلا في قمة الجولة الحادية عشرة (نسخة مصححة)",
-    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2"
+    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2",
+    "meta_id": "18126573653475121",
+    "published_at": "2026-11-05T15:43:19.391616+00:00"
   },
   {
     "id": "20261105-1640-1-fb-story",
@@ -3766,9 +3770,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1640-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "النجمة يستضيف العلا في قمة الجولة الحادية عشرة (نسخة مصححة)",
-    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2"
+    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2",
+    "meta_id": "1669581224833078",
+    "published_at": "2026-11-05T15:43:19.391616+00:00"
   },
   {
     "id": "20261105-1640-1-ig-story",
@@ -3776,8 +3782,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1640-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "النجمة يستضيف العلا في قمة الجولة الحادية عشرة (نسخة مصححة)",
-    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2"
+    "quelle_url": "https://www.sportksa.net/main/archives/507929?v=2",
+    "meta_id": "17997749805057407",
+    "published_at": "2026-11-05T15:43:19.391616+00:00"
   }
 ]
