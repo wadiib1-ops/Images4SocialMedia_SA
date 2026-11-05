@@ -3542,5 +3542,46 @@
     "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A-%D8%AA%D9%81%D8%A7%D8%AC%D9%8A%D9%94-%D9%8A%D8%A7%D9%8A%D8%B3%D9%84%D9%87--%D9%87%D9%84-%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%B2%D8%A9/blt7b3202606aeed121",
     "meta_id": "18113566493270512",
     "published_at": "2026-11-05T11:20:02.100041+00:00"
+  },
+  {
+    "id": "20261105-1300-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-1300-1.png",
+    "caption": "تحدث الإعلامي بدر الصقري عن حسم الاتحاد السعودي مصير المدرب جورجيوس دونيس بعد تأجيل كأس آسيا إلى ديسمبر من العام المقبل.\n\nوبحسب ما نقله فإن عقد المدرب ينتهي في يوليو من العام المقبل، وتتجه الخطط إلى تمديده سنة إضافية ليقود الأخضر في البطولة.\n\nولم يرد في الخبر تصريح مباشر من الاتحاد السعودي.\n\nهل تؤيد استمرار دونيس مع المنتخب السعودي؟\n\n#الأخضر #دونيس #كأس_آسيا",
+    "status": "now",
+    "titel": "الاتحاد السعودي يحسم مصير دونيس بعد تأجيل كأس آسيا",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/جورجيوس-دونيس-السعودية-دديه-دشان-تايجيل-كاس-الخليج/blt9da6ae7d0e49fe72"
+  },
+  {
+    "id": "20261105-1300-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1300-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-1300-1.jpg",
+    "caption": "هل يبقى دونيس على رأس الجهاز الفني للأخضر؟ 🤔\n\nمصير المدرب يعود إلى الواجهة بعد تأجيل كأس آسيا ⚽🔥\n\nحديث عن عقد ينتهي في يوليو وخطة لتمديده سنة إضافية 📝\n\nما رأيك في استمرار المدرب؟ 💬\n\n#المنتخب_السعودي #الأخضر #دونيس #كأس_آسيا #كرة_القدم",
+    "status": "now",
+    "titel": "الاتحاد السعودي يحسم مصير دونيس بعد تأجيل كأس آسيا",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/جورجيوس-دونيس-السعودية-دديه-دشان-تايجيل-كاس-الخليج/blt9da6ae7d0e49fe72"
+  },
+  {
+    "id": "20261105-1300-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1300-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الاتحاد السعودي يحسم مصير دونيس بعد تأجيل كأس آسيا",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/جورجيوس-دونيس-السعودية-دديه-دشان-تايجيل-كاس-الخليج/blt9da6ae7d0e49fe72"
+  },
+  {
+    "id": "20261105-1300-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1300-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الاتحاد السعودي يحسم مصير دونيس بعد تأجيل كأس آسيا",
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/جورجيوس-دونيس-السعودية-دديه-دشان-تايجيل-كاس-الخليج/blt9da6ae7d0e49fe72"
   }
 ]
