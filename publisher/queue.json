@@ -3841,41 +3841,49 @@
     "id": "20261105-1810-1-fb-feed",
     "platform": "facebook",
     "type": "photo",
-    "status": "now",
+    "status": "published",
     "titel": "غرامات آسيوية على النصر ومدافعه سيماكان",
     "quelle_url": "https://www.sportksa.net/main/archives/507941",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-1810-1.png",
-    "caption": "فرضت لجنة الانضباط والأخلاقيات في الاتحاد الآسيوي غرامات مالية على نادي النصر ومدافعه محمد سيماكان.\n\nبلغت غرامة اللاعب عشرة آلاف دولار أمريكي، بينما غرم النادي اثني عشر ألفا وخمسمائة دولار.\n\nوجاء القرار بسبب عدم حضور اللاعب المقابلة التلفزيونية السريعة المطلوبة بعد مباراة في دوري أبطال آسيا للنخبة.\n\nهل ترى أن الغرامة مناسبة لهذه المخالفة؟\n\n#النصر #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية"
+    "caption": "فرضت لجنة الانضباط والأخلاقيات في الاتحاد الآسيوي غرامات مالية على نادي النصر ومدافعه محمد سيماكان.\n\nبلغت غرامة اللاعب عشرة آلاف دولار أمريكي، بينما غرم النادي اثني عشر ألفا وخمسمائة دولار.\n\nوجاء القرار بسبب عدم حضور اللاعب المقابلة التلفزيونية السريعة المطلوبة بعد مباراة في دوري أبطال آسيا للنخبة.\n\nهل ترى أن الغرامة مناسبة لهذه المخالفة؟\n\n#النصر #دوري_أبطال_آسيا_للنخبة #الكرة_السعودية",
+    "meta_id": "122098370907541897",
+    "published_at": "2026-11-05T17:04:46.952373+00:00"
   },
   {
     "id": "20261105-1810-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
-    "status": "now",
+    "status": "published",
     "titel": "غرامات آسيوية على النصر ومدافعه سيماكان",
     "quelle_url": "https://www.sportksa.net/main/archives/507941",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1810-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-1810-1.jpg",
-    "caption": "⚖️ غرامات آسيوية تطال النصر ومدافعه سيماكان\n\nقررت لجنة الانضباط في الاتحاد الآسيوي تغريم اللاعب عشرة آلاف دولار، وتغريم النادي اثني عشر ألفا وخمسمائة دولار 💰\n\nالسبب: غياب اللاعب عن المقابلة التلفزيونية السريعة بعد مباراة في نخبة آسيا 🎙️\n\nشاركنا رأيك في التعليقات 👇\n\n#النصر #سيماكان #نخبة_آسيا #الاتحاد_الآسيوي #الكرة_السعودية"
+    "caption": "⚖️ غرامات آسيوية تطال النصر ومدافعه سيماكان\n\nقررت لجنة الانضباط في الاتحاد الآسيوي تغريم اللاعب عشرة آلاف دولار، وتغريم النادي اثني عشر ألفا وخمسمائة دولار 💰\n\nالسبب: غياب اللاعب عن المقابلة التلفزيونية السريعة بعد مباراة في نخبة آسيا 🎙️\n\nشاركنا رأيك في التعليقات 👇\n\n#النصر #سيماكان #نخبة_آسيا #الاتحاد_الآسيوي #الكرة_السعودية",
+    "meta_id": "18138464323630368",
+    "published_at": "2026-11-05T17:04:46.952373+00:00"
   },
   {
     "id": "20261105-1810-1-fb-story",
     "platform": "facebook",
     "type": "story",
-    "status": "now",
+    "status": "published",
     "titel": "غرامات آسيوية على النصر ومدافعه سيماكان",
     "quelle_url": "https://www.sportksa.net/main/archives/507941",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1810-1-story-text.mp4",
-    "caption": ""
+    "caption": "",
+    "meta_id": "1880406986284501",
+    "published_at": "2026-11-05T17:04:46.952373+00:00"
   },
   {
     "id": "20261105-1810-1-ig-story",
     "platform": "instagram",
     "type": "story",
-    "status": "now",
+    "status": "published",
     "titel": "غرامات آسيوية على النصر ومدافعه سيماكان",
     "quelle_url": "https://www.sportksa.net/main/archives/507941",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1810-1-story-text.mp4",
-    "caption": ""
+    "caption": "",
+    "meta_id": "18116591882332743",
+    "published_at": "2026-11-05T17:04:46.952373+00:00"
   }
 ]
