@@ -3346,5 +3346,46 @@
     "status": "published",
     "meta_id": "18118892951088939",
     "published_at": "2026-11-04T23:03:24.576807+00:00"
+  },
+  {
+    "id": "20261105-0725-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-0725-1.png",
+    "caption": "يخوض المنتخب السعودي تحت 17 عامًا مباراة ودية أمام قطر مساء اليوم على ملعب سحيم بن حمد في الدوحة.\n\nتأتي المواجهة ضمن المعسكر الإعدادي لكأس العالم تحت 17 عامًا، وتدرب الفريق بإشراف أحمد الحنفوش على اللياقة والتكتيك والكرات الثابتة.\n\nوحضر اللاعبون محاضرة تحكيمية عن قانون اللعبة ونظام دعم الفيديو، ويلعب الأخضر في المجموعة الرابعة مع فرنسا والأوروغواي وهايتي.\n\nما توقعك لأداء الأخضر في هذه المباراة الودية؟\n\n#الأخضر #كرة_القدم #السعودية",
+    "titel": "المنتخب السعودي تحت 17 عامًا يواجه قطر وديًا اليوم",
+    "quelle_url": "https://ajel.sa/sports/o3lab5an6",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0725-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0725-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-0725-1.jpg",
+    "caption": "الأخضر الصغير يختبر جاهزيته في الدوحة الليلة ⚽🔥\n\nمنتخبنا تحت 17 عامًا يلاقي قطر وديًا على ملعب سحيم بن حمد، في آخر محطات الاستعداد لكأس العالم 🏆\n\nتدريبات للياقة والتكتيك والكرات الثابتة بقيادة أحمد الحنفوش، ومحاضرة عن نظام الفيديو الذي سيُستخدم في البطولة 🎯\n\nوينتظر الفريق في المجموعة الرابعة فرنسا والأوروغواي وهايتي 💚\n\n#الأخضر #كرة_القدم #السعودية #كأس_العالم_تحت_17 #المنتخب_السعودي",
+    "titel": "المنتخب السعودي تحت 17 عامًا يواجه قطر وديًا اليوم",
+    "quelle_url": "https://ajel.sa/sports/o3lab5an6",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0725-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0725-1-story-text.mp4",
+    "caption": "",
+    "titel": "المنتخب السعودي تحت 17 عامًا يواجه قطر وديًا اليوم",
+    "quelle_url": "https://ajel.sa/sports/o3lab5an6",
+    "status": "now"
+  },
+  {
+    "id": "20261105-0725-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-0725-1-story-text.mp4",
+    "caption": "",
+    "titel": "المنتخب السعودي تحت 17 عامًا يواجه قطر وديًا اليوم",
+    "quelle_url": "https://ajel.sa/sports/o3lab5an6",
+    "status": "now"
   }
 ]
