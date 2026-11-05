@@ -31,7 +31,7 @@ subprocess.check_call([sys.executable, os.path.join(R, "story_text.py"), "--out"
 pngs = []
 for k, t in enumerate(SECTIONS, 1):
     out = os.path.join(W, f"rp{k}.png")
-    subprocess.check_call([sys.executable, os.path.join(R, "story_text.py"), "--out", out, "--title", t, "--mode", "text"], stdout=subprocess.DEVNULL)
+    subprocess.check_call([sys.executable, os.path.join(R, "story_text.py"), "--out", out, "--title", t, "--mode", "text", "--index", str(k), "--total", str(n)], stdout=subprocess.DEVNULL)
     pngs.append(out)
 parts = []
 # Hintergrund: unscharfes Foto, leicht abgedunkelt

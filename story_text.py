@@ -29,7 +29,7 @@ from playwright.sync_api import sync_playwright
 W, H = 1080, 1920
 
 
-def card_html(title, cta, tags, mode="full"):
+def card_html(title, cta, tags, mode="full", index=0, total=0):
     """Text-Container wie im Feed-Post: dunkelgrünes Band #0B3D26, goldene Leiste,
     Noto Sans Arabic 800, Schriftgröße wie im Feed-Post (Titel 60 px)."""
     e = html.escape
@@ -40,6 +40,12 @@ def card_html(title, cta, tags, mode="full"):
     deco = "" if mode == "text" else (
         '<div style="position:absolute;left:56px;right:56px;bottom:196px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
         '<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>')
+    if mode == "text" and total > 1 and index:
+        segs = "".join(
+            f'<div style="flex:1;height:8px;border-radius:4px;background:{"#C9A227" if i == index else "rgba(255,255,255,0.35)"}"></div>'
+            for i in range(1, total + 1))
+        parts.append(f'<div style="position:absolute;left:56px;right:56px;top:16px;display:flex;flex-direction:row-reverse;gap:8px;direction:ltr">{segs}</div>'
+                     f'<div style="position:absolute;left:56px;top:30px;font-size:26px;font-weight:800;color:#C9A227;direction:ltr">{index}/{total}</div>')
     if cta and mode != "band":
         parts.append(f'<div style="margin-top:22px;font-size:34px;font-weight:800;color:#C9A227">{e(cta)}</div>')
     if tags and mode != "band":
@@ -60,6 +66,8 @@ def main():
     ap.add_argument("--title", default="")
     ap.add_argument("--mode", choices=["full", "band", "text"], default="full",
                     help="band = fester Container mit Footer ohne Text, text = nur Text transparent")
+    ap.add_argument("--index", type=int, default=0, help="Nummer des aktuellen Text-Teils (nur --mode text)")
+    ap.add_argument("--total", type=int, default=0, help="Anzahl der Text-Teile (nur --mode text)")
     ap.add_argument("--cta", default="")
     ap.add_argument("--tags", default="")
     ap.add_argument("--video", default="",
@@ -71,7 +79,7 @@ def main():
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     tmp = os.path.abspath(args.out) + ".html"
     with open(tmp, "w", encoding="utf-8") as f:
-        f.write(card_html(args.title, args.cta, args.tags, args.mode))
+        f.write(card_html(args.title, args.cta, args.tags, args.mode, args.index, args.total))
     with sync_playwright() as p:
         b = p.chromium.launch(**({'executable_path': '/opt/pw-browsers/chromium', 'args': ['--no-sandbox']} if os.path.exists('/opt/pw-browsers/chromium') else {}))
         pg = b.new_page(viewport={"width": W, "height": H})

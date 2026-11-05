@@ -119,3 +119,6 @@ Das Foto der Spieler soll deutlich größer sein. In `make_feed_image.py` steht 
 
 ## Festes Textband im Video (verbindlich, Nutzerwunsch vom 04.11.2026, dauerhaft für alle Läufe)
 Das grüne Band mit goldener Leiste und Footer `@saudifootballfutsal` ist im Video immer sichtbar (eigene Dauer-Ebene, `story_text.py --mode band`). Nur der Text wechselt: transparente Text-PNGs (`--mode text`) blenden aus und ein, das Band verschwindet nie. Umgesetzt in `make_story_video.py`. Nicht zurücksetzen.
+
+## Text-Fortschritt im Video (verbindlich, Nutzerwunsch vom 05.11.2026, dauerhaft für alle Läufe)
+Reel und Stories zeigen im Textband oben einen Fortschrittsbalken mit einem Segment je Text-Teil (Anzahl = Gesamtzahl der Teile, auch der Call to Action) und rechts-nach-links gefüllt: das aktuelle Segment ist Gold, die übrigen blass. Links daneben steht die Zählung "k/n" in Gold. Umgesetzt in `story_text.py` (`--mode text --index k --total n`) und `make_story_video.py`. Nicht zurücksetzen.
