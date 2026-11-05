@@ -9,6 +9,7 @@ Foto: 1080x1200, Unterkante fest bei y=1380 (direkt über dem Textband), wächst
 Logo: wächst in 0,5 s auf 106 px oben links. Text: je Abschnitt 0,4 s ein, 3 s stehen, 0,4 s aus.
 """
 import glob, os, random, subprocess, sys, shutil
+AMP = float(os.environ.get('ZOOM_AMP','0.06'))
 W = sys.argv[1]; R = sys.argv[2]; TAG = sys.argv[3]
 SECTIONS = [
  "طالب جمهور الأهلي بعودة المدرب الألماني يايسله عبر تعليقات على حسابه في إنستغرام",
@@ -37,7 +38,7 @@ parts = []
 # Hintergrund: unscharfes Foto, leicht abgedunkelt
 parts.append("[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=25:3,eq=brightness=-0.2[bg]")
 # Foto: 1080x1200, Unterkante fest bei y=1380 (direkt über dem Textband), wächst nach oben; gleitet in 0,9 s von links ins Bild (Ease-out), danach sanftes Schweben
-parts.append("[0:v]scale=2160:2400:force_original_aspect_ratio=increase,crop=2160:2400,zoompan=z='1+0.06*(1+sin(2*PI*on/200))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x1200:fps=25,format=rgba[fg]")
+parts.append(f"[0:v]scale=2160:2400:force_original_aspect_ratio=increase,crop=2160:2400,zoompan=z='1+{AMP}*(1+sin(2*PI*on/200))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x1200:fps=25,format=rgba[fg]")
 parts.append("[bg][fg]overlay=x='(W-w)/2-1100*max(0,1-t/0.9)*max(0,1-t/0.9)':y=180:eval=frame[v1]")
 # Logo: wächst in 0,5 s von 0 auf 106 px (oben links), danach fest
 parts.append("[2:v]format=rgba,scale=w='max(2,106*min(1,t/0.5))':h=-2:eval=frame[lg]")
