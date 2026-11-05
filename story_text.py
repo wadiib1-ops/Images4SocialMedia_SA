@@ -38,7 +38,7 @@ def card_html(title, cta, tags, mode="full", index=0, total=0):
     parts = [] if mode == "band" else [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
     bg = "transparent" if mode == "text" else "#0B3D26"
     deco = "" if mode == "text" else (
-        '<div style="position:absolute;left:56px;right:56px;bottom:196px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
+        '<div style="position:absolute;left:56px;right:56px;bottom:44px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
         '<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>')
     if mode == "text" and total > 1 and index:
         segs = "".join(
