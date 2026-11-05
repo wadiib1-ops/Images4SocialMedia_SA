@@ -3941,9 +3941,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-2300-1.png",
     "caption": "ألغى المنتخب السعودي معسكر الخبر المقرر من 21 ديسمبر إلى 3 يناير.\n\nوشمل القرار إلغاء وديتين أمام قطر يوم 27 ديسمبر والأردن يوم 2 يناير.\n\nوجاء القرار بعد إعادة جدولة الاتحاد الآسيوي لكأس آسيا 2027. وكانت البطولة مقررة من 7 يناير إلى 5 فبراير.\n\nهل ترى أن إلغاء المعسكر في مصلحة المنتخب؟\n\n#المنتخب_السعودي #الأخضر #كأس_آسيا",
-    "status": "now",
+    "status": "published",
     "titel": "إلغاء معسكر الأخضر في الخبر ووديتي قطر والأردن",
-    "quelle_url": "https://ajel.sa/sports/58wpq89j6"
+    "quelle_url": "https://ajel.sa/sports/58wpq89j6",
+    "meta_id": "122098525197541897",
+    "published_at": "2026-11-05T21:43:13.355676+00:00"
   },
   {
     "id": "20261105-2300-1-ig-reel",
@@ -3952,9 +3954,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-2300-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-2300-1.jpg",
     "caption": "الأخضر بلا معسكر في الخبر 🚫\n\nتم إلغاء المعسكر المقرر من 21 ديسمبر إلى 3 يناير 📅\n\nوسقطت وديتا قطر والأردن من الجدول ⚽\n\nالسبب إعادة جدولة كأس آسيا 2027 من الاتحاد الآسيوي 🏆\n\n#المنتخب_السعودي #الأخضر #كأس_آسيا #كرة_القدم #السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "إلغاء معسكر الأخضر في الخبر ووديتي قطر والأردن",
-    "quelle_url": "https://ajel.sa/sports/58wpq89j6"
+    "quelle_url": "https://ajel.sa/sports/58wpq89j6",
+    "meta_id": "18422723938155017",
+    "published_at": "2026-11-05T21:43:13.355676+00:00"
   },
   {
     "id": "20261105-2300-1-fb-story",
@@ -3962,9 +3966,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-2300-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "إلغاء معسكر الأخضر في الخبر ووديتي قطر والأردن",
-    "quelle_url": "https://ajel.sa/sports/58wpq89j6"
+    "quelle_url": "https://ajel.sa/sports/58wpq89j6",
+    "meta_id": "1670224961372239",
+    "published_at": "2026-11-05T21:43:13.355676+00:00"
   },
   {
     "id": "20261105-2300-1-ig-story",
@@ -3972,8 +3978,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-2300-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "إلغاء معسكر الأخضر في الخبر ووديتي قطر والأردن",
-    "quelle_url": "https://ajel.sa/sports/58wpq89j6"
+    "quelle_url": "https://ajel.sa/sports/58wpq89j6",
+    "meta_id": "17948158002358436",
+    "published_at": "2026-11-05T21:43:13.355676+00:00"
   }
 ]
