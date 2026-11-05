@@ -112,7 +112,7 @@ Das Foto der Spieler soll deutlich größer sein. In `make_feed_image.py` steht 
 
 ## Story-/Reel-Video-Layout (verbindlich, Nutzerwunsch vom 04.11.2026, dauerhaft für alle Läufe)
 - Der laufende Text im Video steht im Feed-Textband: dunkelgrün #0B3D26, volle Breite, bis ganz zum unteren Rand, immer gleiche Höhe (540 px, unten bündig), goldene Leiste (14 px) am unteren Rand, Text rechtsbündig. Schrift und Größe wie im Feed: Noto Sans Arabic 800, Titel 60 px, weiß; CTA 34 px Gold.
-- Footer `@saudifootballfutsal` (28 px) steht rechts im Textband über dem unteren Rand (bottom 44 px, ganz unten, Nutzerwunsch vom 05.11.2026).
+- Footer `@saudifootballfutsal` (28 px) steht rechts im Textband über dem unteren Rand (bottom 44 px, ganz unten, Nutzerwunsch vom 05.11.2026); Text beginnt 92 px unter dem Bandrand, Abstand zum Fortschrittsbalken.
 - Foto: 1080 x 1200 px (cover), Unterkante fest bei y=1380 direkt über dem Textband, wächst nach oben; Logo (106 px) oben links.
 - Umsetzung: `story_text.py` (rendert per Playwright/Chromium) und `make_story_video.py`. Nicht zurücksetzen.
 - Werkzeug-Hinweis: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q playwright pillow`; das vorinstallierte Chromium (/opt/pw-browsers/chromium) wird automatisch genutzt.

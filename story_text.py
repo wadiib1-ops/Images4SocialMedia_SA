@@ -54,7 +54,7 @@ def card_html(title, cta, tags, mode="full", index=0, total=0):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 </head><body style="margin:0;background:transparent">
 <div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
-<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:{bg};color:#FFFFFF;padding:48px 56px 240px;text-align:right;direction:rtl">
+<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:{bg};color:#FFFFFF;padding:92px 56px 150px;text-align:right;direction:rtl">
 {"".join(parts)}
 {deco}
 </div></div></body></html>'''
