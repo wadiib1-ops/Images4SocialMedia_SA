@@ -3444,5 +3444,46 @@
     "status": "published",
     "meta_id": "18146557105599272",
     "published_at": "2026-11-05T08:30:19.789839+00:00"
+  },
+  {
+    "id": "20261105-1145-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261105-1145-1.png",
+    "caption": "قالت تقارير إعلامية إن الأهلي لم يقرر إقالة مدربه بوسيتش بعد التعادل مع السد في نخبة آسيا.\n\nويرتبط المدرب بعقد حتى يونيو من عام ألفين وثمانية وعشرين، ولا يتضمن العقد بند خروج سهلًا.\n\nوتقدر تكلفة إنهاء العقد بنحو سبعة ملايين ونصف المليون يورو، وفق ما ذكره الإعلامي عبدالرحمن عامر.\n\nهل ترى أن الأهلي أصاب بإبقاء المدرب؟\n\n#الأهلي #الدوري_السعودي #بوسيتش",
+    "status": "now",
+    "titel": "الأهلي لم يقرر إقالة بوسيتش بسبب تكلفة العقد",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/لماذا-تراجع-الأهلي-السعودي-عن-إقالة-بوسيتش/blt3272abff1de83e21"
+  },
+  {
+    "id": "20261105-1145-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1145-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261105-1145-1.jpg",
+    "caption": "هل يبقى بوسيتش بسبب المال؟ 🤔\n\nتقارير تتحدث عن أن الأهلي تراجع عن فكرة الإقالة، فعقد المدرب يمتد حتى منتصف ألفين وثمانية وعشرين، وتكلفة فسخه تقارب سبعة ملايين ونصف المليون يورو 💶\n\nويقال إن المدرب متمسك بكامل مستحقاته 📋\n\nما رأيك، هل القرار صائب؟ اكتب لنا في التعليقات 👇\n\n#الأهلي #الدوري_السعودي #بوسيتش #نخبة_آسيا #الكرة_السعودية",
+    "status": "now",
+    "titel": "الأهلي لم يقرر إقالة بوسيتش بسبب تكلفة العقد",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/لماذا-تراجع-الأهلي-السعودي-عن-إقالة-بوسيتش/blt3272abff1de83e21"
+  },
+  {
+    "id": "20261105-1145-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1145-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الأهلي لم يقرر إقالة بوسيتش بسبب تكلفة العقد",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/لماذا-تراجع-الأهلي-السعودي-عن-إقالة-بوسيتش/blt3272abff1de83e21"
+  },
+  {
+    "id": "20261105-1145-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261105-1145-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الأهلي لم يقرر إقالة بوسيتش بسبب تكلفة العقد",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/لماذا-تراجع-الأهلي-السعودي-عن-إقالة-بوسيتش/blt3272abff1de83e21"
   }
 ]
