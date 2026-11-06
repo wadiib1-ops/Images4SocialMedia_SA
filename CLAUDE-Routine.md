@@ -126,3 +126,6 @@ Reel und Stories zeigen im Textband oben einen Fortschrittsbalken mit einem Segm
 
 ## Einladendes Thumbnail für alle Reels (verbindlich, Nutzerwunsch vom 06.11.2026, dauerhaft für alle Läufe)
 Instagram-Reel und Facebook-Reel brauchen immer ein einladendes Vorschaubild, nie eine leere oder dunkle Seite. Umsetzung: (1) Das Reel-Cover (images/cover-….jpg, 1080 x 1920) wird vor dem Videobau als `<Arbeitsordner>/cover.jpg` abgelegt; `make_story_video.py` blendet es in den ersten 0,12 s ein, damit auch das automatische Vorschaubild das Cover zeigt. (2) Beide Reel-Einträge (Instagram und Facebook) bekommen `cover_url`; publish.py setzt es beim Instagram-Reel als Cover und beim Facebook-Reel als bevorzugtes Thumbnail (`/{video_id}/thumbnails`). Reihenfolge im Lauf: Cover erzeugen, dann Video bauen. Nicht zurücksetzen.
+
+## Platz für Facebook-Buttons im Video (verbindlich, Nutzerwunsch vom 06.11.2026, dauerhaft für alle Läufe)
+Im Textband von Reel und Stories sind Text, Footer `@saudifootballfutsal`, Fortschrittssegmente und die goldene Leiste unten um 114 px nach links gerückt (rechter Innenabstand 170 statt 56 px), damit die Facebook-Buttons (Like, Kommentar, Teilen) rechts frei sichtbar bleiben. Umgesetzt in `story_text.py`. Nicht zurücksetzen.

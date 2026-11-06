@@ -38,13 +38,13 @@ def card_html(title, cta, tags, mode="full", index=0, total=0):
     parts = [] if mode == "band" else [f'<div style="font-size:60px;font-weight:800;line-height:1.3;color:#FFFFFF">{e(title)}</div>']
     bg = "transparent" if mode == "text" else "#0B3D26"
     deco = "" if mode == "text" else (
-        '<div style="position:absolute;left:56px;right:56px;bottom:44px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
-        '<div style="position:absolute;left:0;right:0;bottom:0;height:14px;background:#C9A227"></div>')
+        '<div style="position:absolute;left:56px;right:170px;bottom:44px;font-size:28px;font-weight:600;color:rgba(255,255,255,0.8);direction:ltr;text-align:right;unicode-bidi:isolate">@saudifootballfutsal</div>'
+        '<div style="position:absolute;left:0;right:170px;bottom:0;height:14px;background:#C9A227"></div>')
     if mode == "text" and total > 1 and index:
         segs = "".join(
             f'<div style="flex:1;height:8px;border-radius:4px;background:{"#C9A227" if i == index else "rgba(255,255,255,0.35)"}"></div>'
             for i in range(1, total + 1))
-        parts.append(f'<div style="position:absolute;left:56px;right:56px;top:16px;display:flex;flex-direction:row-reverse;gap:8px;direction:ltr">{segs}</div>'
+        parts.append(f'<div style="position:absolute;left:56px;right:170px;top:16px;display:flex;flex-direction:row-reverse;gap:8px;direction:ltr">{segs}</div>'
                      f'<div style="position:absolute;left:56px;top:30px;font-size:26px;font-weight:800;color:#C9A227;direction:ltr">{index}/{total}</div>')
     if cta and mode != "band":
         parts.append(f'<div style="margin-top:22px;font-size:34px;font-weight:800;color:#C9A227">{e(cta)}</div>')
@@ -54,7 +54,7 @@ def card_html(title, cta, tags, mode="full", index=0, total=0):
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
 </head><body style="margin:0;background:transparent">
 <div style="width:1080px;height:1920px;position:relative;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif">
-<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:{bg};color:#FFFFFF;padding:92px 56px 150px;text-align:right;direction:rtl">
+<div id="card" style="position:absolute;left:0;right:0;bottom:0;height:540px;box-sizing:border-box;background:{bg};color:#FFFFFF;padding:92px 170px 150px 56px;text-align:right;direction:rtl">
 {"".join(parts)}
 {deco}
 </div></div></body></html>'''
