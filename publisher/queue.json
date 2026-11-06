@@ -4779,41 +4779,49 @@
     "platform": "facebook",
     "type": "photo",
     "caption": "اقترب مدافع النصر سلطان الغنام من نهاية رحلة التعافي من إصابة الرباط الصليبي، ودخل المرحلة الأخيرة من برنامج التأهيل.\n\nيتابع اللاعب علاجه بإشراف طبيب النصر في الرياض، ومن المنتظر أن يعود إلى التدريبات في الثالث عشر من نوفمبر.\n\nوتشير التوقعات الطبية إلى جاهزيته الكاملة في يناير المقبل.\n\nهل ترى أن عودته ستمنح دفاع النصر قوة إضافية؟\n\n#النصر #الدوري_السعودي #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "موعد عودة سلطان الغنام بعد إصابة الرباط الصليبي",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/دفعة-قوية-للنصر--موعد-عودة-سلطان-الغنام-بعد-صدمة-الصليبي/blt7dd677ac06d78941",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261106-1620-1.png"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261106-1620-1.png",
+    "meta_id": "122099206347541897",
+    "published_at": "2026-11-06T15:21:47.714895+00:00"
   },
   {
     "id": "20261106-1620-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "سلطان الغنام يقترب من العودة إلى ملاعب النصر 💪\n\nالمدافع الأيمن أنهى المرحلتين الأولى والثانية من التأهيل في الدوحة، وهو الآن في المرحلة الأخيرة بالرياض 🏥\nالتدريبات تنتظره في الثالث عشر من نوفمبر، والجاهزية الكاملة متوقعة في يناير ⏳\nمتى تتوقع أن نراه في التشكيلة الأساسية؟ ⚽\n\n#النصر #سلطان_الغنام #دوري_روشن #الكرة_السعودية #العالمي",
-    "status": "now",
+    "status": "published",
     "titel": "موعد عودة سلطان الغنام بعد إصابة الرباط الصليبي",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/دفعة-قوية-للنصر--موعد-عودة-سلطان-الغنام-بعد-صدمة-الصليبي/blt7dd677ac06d78941",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1620-1-reel-text.mp4",
-    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261106-1620-1.jpg"
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261106-1620-1.jpg",
+    "meta_id": "17905844283606633",
+    "published_at": "2026-11-06T15:21:47.714895+00:00"
   },
   {
     "id": "20261106-1620-1-fb-story",
     "platform": "facebook",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "موعد عودة سلطان الغنام بعد إصابة الرباط الصليبي",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/دفعة-قوية-للنصر--موعد-عودة-سلطان-الغنام-بعد-صدمة-الصليبي/blt7dd677ac06d78941",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1620-1-story-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1620-1-story-text.mp4",
+    "meta_id": "2387745395376749",
+    "published_at": "2026-11-06T15:21:47.714895+00:00"
   },
   {
     "id": "20261106-1620-1-ig-story",
     "platform": "instagram",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "موعد عودة سلطان الغنام بعد إصابة الرباط الصليبي",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/دفعة-قوية-للنصر--موعد-عودة-سلطان-الغنام-بعد-صدمة-الصليبي/blt7dd677ac06d78941",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1620-1-story-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1620-1-story-text.mp4",
+    "meta_id": "17956624740320746",
+    "published_at": "2026-11-06T15:21:47.714895+00:00"
   },
   {
     "id": "20261106-1620-1-fb-reel",
