@@ -46,7 +46,7 @@ def story_html(photo, title, category, logo, subtitle=""):
 <div style="width:1080px;height:1920px;box-sizing:border-box;background:#0B3D26;color:#FFFFFF;font-family:'Noto Sans Arabic','DejaVu Sans',sans-serif;display:flex;flex-direction:column;padding:120px 72px 150px;gap:40px;position:relative;overflow:hidden">
   <div style="margin:-120px -72px 0;width:1080px;height:1150px;overflow:hidden;position:relative;background:#082F1E">
     <img src="file://{photo}" style="width:1080px;height:1150px;object-fit:cover">
-    <img src="file://{logo}" style="position:absolute;top:60px;right:48px;width:240px;height:240px" alt=""></div>
+    <img src="file://{logo}" style="position:absolute;top:130px;right:48px;width:240px;height:240px" alt=""></div>
   <div style="font-size:34px;font-weight:800;color:#C9A227">{html.escape(category)}</div>
   <div style="font-size:88px;font-weight:800;line-height:1.3;color:#FFFFFF">{html.escape(title)}</div>
   <div style="font-size:34px;line-height:1.5;color:rgba(255,255,255,0.8)">{html.escape(subtitle)}</div>
