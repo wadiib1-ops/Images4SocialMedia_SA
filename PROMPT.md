@@ -11,7 +11,7 @@ Pro Meldung entstehen FÜNF Einträge (siehe CLAUDE-Routine.md; kein Instagram-F
  2. Instagram-Reel: dasselbe Musik-Video mit INSTAGRAM-TEXT.
  3. Facebook-Story: Story-Video mit eingeblendetem Text, ohne Begleittext.
  4. Instagram-Story: dasselbe Story-Video, ohne Begleittext.
- 5. Facebook-Reel: dasselbe Reel-Video (9:16, 1080x1920, 15 bis 90 s) mit FACEBOOK-TEXT (höchstens 3 Hashtags).
+ 5. Facebook-Reel: dasselbe Reel-Video (9:16, 1080x1920, 15 bis 90 s) mit FACEBOOK-TEXT (höchstens 3 Hashtags) und cover_url (einladendes Thumbnail, siehe CLAUDE-Routine.md).
 (Kein Instagram-Feed.)
 
 Ablauf eines Laufs:

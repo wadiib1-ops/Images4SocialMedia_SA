@@ -51,7 +51,14 @@ for k in range(1, n + 1):
     parts.append(f"[{3+k}:v]format=rgba,fade=t=in:st={s}:d=0.4:alpha=1,fade=t=out:st={e-0.4}:d=0.4:alpha=1[t{k}]")
     parts.append(f"[{prev}][t{k}]overlay=x=0:y='40*max(0,1-(t-{s})/0.4)':enable='between(t,{s},{e})':eval=frame[v{k+3}]")
     prev = f"v{k+3}"
-parts.append(f"[{prev}]drawbox=x=0:y=ih-16:w='iw*t/{D}':h=16:color=0xC9A227:t=fill[vout]")
+parts.append(f"[{prev}]drawbox=x=0:y=ih-16:w='iw*t/{D}':h=16:color=0xC9A227:t=fill[vbar]")
+# Thumbnail: Cover (W/cover.jpg, 1080x1920) in den ersten 0,12 s, damit das automatische Vorschaubild nie dunkel/leer ist
+COVER = os.path.join(W, "cover.jpg")
+if os.path.exists(COVER):
+    parts.append(f"[{4+n}:v]format=rgba[cv]")
+    parts.append("[vbar][cv]overlay=0:0:enable='lt(t,0.12)'[vout]")
+else:
+    parts.append("[vbar]null[vout]")
 parts.append(f"[1:a]afade=t=in:st=0:d=0.5,afade=t=out:st={D-2}:d=2[a]")
 fc = ";".join(parts)
 cmd = ["ffmpeg","-y","-loglevel","error",
@@ -61,6 +68,8 @@ cmd = ["ffmpeg","-y","-loglevel","error",
 cmd += ["-loop","1","-t",str(D),"-i",band]
 for p in pngs:
     cmd += ["-loop","1","-t",str(D),"-i",p]
+if os.path.exists(COVER):
+    cmd += ["-loop","1","-t",str(D),"-i",COVER]
 cmd += ["-filter_complex",fc,"-map","[vout]","-map","[a]","-t",str(D),
         "-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p","-r","25",
         "-c:a","aac","-b:a","192k","-movflags","+faststart",

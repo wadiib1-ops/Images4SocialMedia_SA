@@ -131,11 +131,33 @@ def publish_facebook_video_upload(entry, token, edge, **finish):
     return video_id
 
 
+def set_facebook_thumbnail(video_id, cover_url, ptoken):
+    """Cover als bevorzugtes Vorschaubild (Thumbnail) des Facebook-Reels setzen (Fehler brechen nicht ab)."""
+    try:
+        with urllib.request.urlopen(cover_url, timeout=60) as r:
+            img = r.read()
+        b = "----thumb" + str(int(time.time()))
+        body = (f"--{b}\r\nContent-Disposition: form-data; name=\"is_preferred\"\r\n\r\ntrue\r\n"
+                f"--{b}\r\nContent-Disposition: form-data; name=\"source\"; filename=\"cover.jpg\"\r\n"
+                f"Content-Type: image/jpeg\r\n\r\n").encode() + img + f"\r\n--{b}--\r\n".encode()
+        req = urllib.request.Request(
+            f"{GRAPH}/{video_id}/thumbnails", data=body, method="POST",
+            headers={"Content-Type": f"multipart/form-data; boundary={b}",
+                     "Authorization": f"OAuth {ptoken}"})
+        urllib.request.urlopen(req, timeout=120).read()
+    except Exception as e:
+        print(f"Thumbnail-Hinweis: {str(e).replace(ptoken, '***')[:200]}")
+
+
 def publish_facebook(entry, token):
     if entry["type"] == "reel":
-        return publish_facebook_video_upload(
+        vid = publish_facebook_video_upload(
             entry, token, "video_reels", video_state="PUBLISHED",
             description=entry.get("caption", ""))
+        if entry.get("cover_url"):
+            time.sleep(20)
+            set_facebook_thumbnail(vid, entry["cover_url"], page_token(token))
+        return vid
     if entry["type"] == "story":
         return publish_facebook_video_upload(entry, token, "video_stories")
     if entry["type"] == "video":
