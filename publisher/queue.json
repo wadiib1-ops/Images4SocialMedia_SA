@@ -4710,5 +4710,58 @@
     "publish_at": "2026-11-06T15:23:08+01:00",
     "titel": "ميتروفيتش يشيد بشخصية علي البليهي",
     "quelle_url": "https://www.sportksa.net/main/archives/507951"
+  },
+  {
+    "id": "20261106-1530-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261106-1520-1.png",
+    "caption": "سجل منتخب السعودية للكرة الشاطئية فوزه الأول في البطولة العربية.\n\nجاء الفوز على منتخب موريتانيا في بورسعيد.\n\nوكان الأخضر قد خسر أمام مصر في افتتاح البطولة، وبهذا الانتصار يستعيد الفريق توازنه في المنافسات.\n\nهل ترى أن الأخضر قادر على مواصلة الانتصارات في البطولة؟\n\n#الكرة_الشاطئية #الأخضر #البطولة_العربية",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفوز على موريتانيا في البطولة العربية",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/أخضر-الشاطئية-يفوز-على-موريتانيا-في-البطولة-العربية-774930"
+  },
+  {
+    "id": "20261106-1530-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1520-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261106-1520-1.jpg",
+    "caption": "الأخضر الشاطئي يعرف طريق الفوز أخيرا 🏖️\n\nبعد بداية صعبة أمام مصر، عاد المنتخب السعودي بانتصار أول على موريتانيا في بورسعيد ⚽🔥\n\nفوز يعيد الثقة ويفتح الباب لمواصلة المشوار في البطولة العربية 💚\n\nما توقعك لبقية مباريات الأخضر؟\n\n#الكرة_الشاطئية #الأخضر_السعودي #البطولة_العربية #كرة_القدم_السعودية #المنتخب_السعودي",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفوز على موريتانيا في البطولة العربية",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/أخضر-الشاطئية-يفوز-على-موريتانيا-في-البطولة-العربية-774930"
+  },
+  {
+    "id": "20261106-1530-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1520-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفوز على موريتانيا في البطولة العربية",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/أخضر-الشاطئية-يفوز-على-موريتانيا-في-البطولة-العربية-774930"
+  },
+  {
+    "id": "20261106-1530-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1520-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الشاطئية يفوز على موريتانيا في البطولة العربية",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/أخضر-الشاطئية-يفوز-على-موريتانيا-في-البطولة-العربية-774930"
+  },
+  {
+    "id": "20261106-1530-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261106-1520-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261106-1520-1.jpg",
+    "caption": "سجل منتخب السعودية للكرة الشاطئية فوزه الأول في البطولة العربية.\n\nجاء الفوز على منتخب موريتانيا في بورسعيد.\n\nوكان الأخضر قد خسر أمام مصر في افتتاح البطولة، وبهذا الانتصار يستعيد الفريق توازنه في المنافسات.\n\nهل ترى أن الأخضر قادر على مواصلة الانتصارات في البطولة؟\n\n#الكرة_الشاطئية #الأخضر #البطولة_العربية",
+    "status": "scheduled",
+    "publish_at": "2026-11-06T16:30:00+01:00",
+    "titel": "أخضر الشاطئية يفوز على موريتانيا في البطولة العربية",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/أخضر-الشاطئية-يفوز-على-موريتانيا-في-البطولة-العربية-774930"
   }
 ]
