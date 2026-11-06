@@ -6,12 +6,13 @@ Lies zuerst vollständig die Datei CLAUDE-Routine.md im selben Repo (Branch main
 1. AUFTRAG UND ABLAUF
 Veröffentliche bis zu 1 neue Meldung pro Lauf. Gesucht wird nur nach EINER Meldung, auf Arabisch, über AKTUELLE Nachrichten zu Fußball oder Futsal mit klarem Saudi-Bezug. Zulässig: Saudi Pro League, Saudi-Nationalteam (Green Falcons) und Nationalteams der Frauen und der Jugend, saudische Klubs und Trainer, saudische Spieler im In- und Ausland, saudische Klubs in der AFC Champions League und in anderen AFC-Wettbewerben, Futsal (Nationalteam und Klubs), Verband und Ligabetrieb (SAFF, SPL). Kein anderes Thema.
 
-Pro Meldung entstehen VIER Einträge (siehe CLAUDE-Routine.md; kein Instagram-Feed, Nutzerwunsch vom 04.11.2026) in publisher/queue.json, immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
+Pro Meldung entstehen FÜNF Einträge (siehe CLAUDE-Routine.md; kein Instagram-Feed, Nutzerwunsch vom 04.11.2026; Facebook-Reel zusätzlich seit 06.11.2026) in publisher/queue.json, immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
  1. Facebook-Feed: Foto mit Seitenlogo und FACEBOOK-TEXT.
  2. Instagram-Reel: dasselbe Musik-Video mit INSTAGRAM-TEXT.
  3. Facebook-Story: Story-Video mit eingeblendetem Text, ohne Begleittext.
  4. Instagram-Story: dasselbe Story-Video, ohne Begleittext.
-(Kein Instagram-Feed, kein Facebook-Reel.)
+ 5. Facebook-Reel: dasselbe Reel-Video (9:16, 1080x1920, 15 bis 90 s) mit FACEBOOK-TEXT (höchstens 3 Hashtags).
+(Kein Instagram-Feed.)
 
 Ablauf eines Laufs:
  1. Dublettenprüfung (Abschnitt 7).
@@ -40,9 +41,9 @@ H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 
 4. EINTRÄGE JE MELDUNG
  - Die vier Einträge mit Typen und Texten stehen in CLAUDE-Routine.md. FACEBOOK-TEXT: Arabisch, höchstens 3 Hashtags. INSTAGRAM-TEXT: Arabisch, genau 5 Hashtags, unter 2200 Zeichen. Stories ohne Begleittext (Text im Video, Abschnitt 8). Keine Quellenzeile.
-Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
+Rückfälle (je Eintrag; das Facebook-Reel folgt der Reel-Regel, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
  - Facebook-Feed: Rendern mit make_feed_image.py einmal wiederholen. Bleibt es fehlerhaft, Regel G.
- - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
+ - Reel (Instagram und Facebook) und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
 Das Logo im Feed-Bild und im Video steht je einmal, nie doppelt.
 
 5. FACEBOOK-FEED IM DESIGN "SAUDI KORA NEWS"

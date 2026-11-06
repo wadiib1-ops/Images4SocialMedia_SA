@@ -10,12 +10,13 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Vier Einträge je Meldung (Nutzerwunsch vom 04.11.2026, gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche Zeit, gleiche quelle_url und titel
+## Fünf Einträge je Meldung (Nutzerwunsch vom 04.11.2026, ergänzt am 06.11.2026 um das Facebook-Reel; gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche Zeit, gleiche quelle_url und titel
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
 3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
 4. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url` wie Facebook-Story, `caption` leer.
-5. Kein Instagram-Feed (Nutzerwunsch vom 04.11.2026, dauerhaft). Kein Facebook-Reel.
+5. Facebook-Reel (Nutzerwunsch vom 06.11.2026, dauerhaft): `platform: "facebook"`, `type: "reel"`, gleiche `video_url` wie das Instagram-Reel, `caption` = FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags). publish.py lädt es über video_reels hoch. Id-Suffix `-fb-reel`.
+6. Kein Instagram-Feed (Nutzerwunsch vom 04.11.2026, dauerhaft).
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
@@ -84,7 +85,7 @@ Das Cover des Instagram-Reels wird im Design erzeugt, 1080 x 1920 (Story-Layout)
 
 ## Formate je Plattform (verbindlich)
 - Facebook-Feed: Hochformat 4:5 (1080 x 1350, Empfehlung), quadratisch 1:1 (1080 x 1080) oder 1,91:1 (1200 x 630). Bilder JPG/PNG, Videos MP4/MOV, empfohlen 15 bis 30 s.
-- Facebook-Story und Reel: 9:16, 1080 x 1920 (bis 1440 x 2560). Story max. 60 s, Reel 15 bis 90 s. Wichtige Texte und Logos nicht ganz am oberen und unteren Rand.
+- Facebook-Story und Facebook-Reel: 9:16 (Pflicht), 1080 x 1920 (bis 1440 x 2560), MP4 (H.264 + AAC), 24 bis 60 fps. Story max. 60 s, Facebook-Reel 15 bis 90 s: ist D unter 15 s, die Videolänge für das Reel auf 15 s anheben (Hinweis: Reel-Datei dann mit D = 15 bauen). Beschreibung höchstens 3 Hashtags. Bei Reels ist ein Link in der Beschreibung unzulässig. Wichtige Texte und Logos nicht ganz am oberen und unteren Rand.
 - Instagram-Story: 9:16, 1080 x 1920, bis 60 s insgesamt, Abschnitte je max. 15 s.
 - Instagram-Reel: 9:16, 1080 x 1920, 15 bis 90 s. Cover 9:16.
 - Format und Länge jedes Mediums mit ffprobe prüfen, bevor es in die Queue geht.
