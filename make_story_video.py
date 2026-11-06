@@ -42,7 +42,7 @@ parts.append(f"[0:v]scale=2160:2400:force_original_aspect_ratio=increase,crop=21
 parts.append("[bg][fg]overlay=x='(W-w)/2-1100*max(0,1-t/0.9)*max(0,1-t/0.9)':y=180:eval=frame[v1]")
 # Logo: wächst in 0,5 s von 0 auf 106 px (oben links), danach fest
 parts.append("[2:v]format=rgba,scale=w='max(2,106*min(1,t/0.5))':h=-2:eval=frame[lg]")
-parts.append("[v1][lg]overlay=x=40:y=60:eval=frame,vignette=angle=PI/5[v2]")
+parts.append("[v1][lg]overlay=x=40:y=130:eval=frame,vignette=angle=PI/5[v2]")
 parts.append("[v2][3:v]overlay=0:0[v3]")
 prev = "v3"
 for k in range(1, n + 1):

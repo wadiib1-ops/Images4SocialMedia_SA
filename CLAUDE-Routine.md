@@ -129,3 +129,6 @@ Instagram-Reel und Facebook-Reel brauchen immer ein einladendes Vorschaubild, ni
 
 ## Platz für Facebook-Buttons im Video (verbindlich, Nutzerwunsch vom 06.11.2026, dauerhaft für alle Läufe)
 Im Textband von Reel und Stories sind Text, Footer `@saudifootballfutsal`, Fortschrittssegmente und die goldene Leiste unten um 57 px nach links gerückt (rechter Innenabstand 113 statt 56 px; auf Nutzerwunsch halbiert), damit die Facebook-Buttons (Like, Kommentar, Teilen) rechts frei sichtbar bleiben. Umgesetzt in `story_text.py`. Nicht zurücksetzen.
+
+## Obere Elemente tiefer (verbindlich, Nutzerwunsch vom 06.11.2026, dauerhaft für alle Läufe)
+Im Reel-/Story-Video steht das Logo oben links bei y=130 statt 60, im Reel-Cover (Story-Layout) das Logo oben rechts bei top:130px statt 60px, damit Suchsymbol und Button der App oben sichtbar bleiben. Umgesetzt in `make_story_video.py` und `make_feed_image.py`. Nicht zurücksetzen.
