@@ -5654,5 +5654,46 @@
     "publish_at": "2026-11-07T12:30:00+01:00",
     "titel": "الرياض يعلن انضمام تريزيجيه إلى معسكر منتخب مصر",
     "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/الرياض-يعلن-استدعاء-تريزيجيه-لقائمة-منتخب-مصر-774975"
+  },
+  {
+    "id": "20261107-1230-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-1230-1.png",
+    "caption": "يسعى النصر إلى تفعيل بند التمديد الأحادي في عقد البرتغالي جواو فيليكس حتى صيف 2029، وبدأت الإجراءات القانونية لذلك بحسب تقارير صحفية.\n\nويهدف القرار إلى قطع الطريق على انتقال اللاعب إلى برشلونة. وسيلزم التفعيل النادي بدفع 20 مليون يورو لتشيلسي، ليصل إجمالي الصفقة إلى 50 مليون يورو، كما سيرتفع راتب اللاعب السنوي من 10 إلى 12.5 مليون يورو.\n\nهل ترى أن تمسك النصر بفيليكس قرار صائب؟\n\n#النصر #جواو_فيليكس #الدوري_السعودي",
+    "titel": "النصر يتحرك لتفعيل تمديد عقد جواو فيليكس حتى 2029",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/خاص-لكووورة-النصر-يقطع-الطريق-على-برشلونة-بشأن-جواو-فيليكس/blt73b326c5e8f99e16",
+    "status": "now"
+  },
+  {
+    "id": "20261107-1230-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1230-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1230-1.jpg",
+    "caption": "النصر يغلق الباب أمام برشلونة 🔒\n\nتقارير تفيد بأن إدارة النصر بدأت إجراءات تفعيل بند التمديد الأحادي لعقد جواو فيليكس حتى 2029 ⚽\n\nالخطوة تعني دفع 20 مليون يورو لتشيلسي وراتبًا سنويًا يرتفع إلى 12.5 مليون يورو 💶\n\nفهل ينجح العالمي في إبقاء نجمه؟ 👀\n\n#النصر #جواو_فيليكس #برشلونة #دوري_روشن #الدوري_السعودي",
+    "titel": "النصر يتحرك لتفعيل تمديد عقد جواو فيليكس حتى 2029",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/خاص-لكووورة-النصر-يقطع-الطريق-على-برشلونة-بشأن-جواو-فيليكس/blt73b326c5e8f99e16",
+    "status": "now"
+  },
+  {
+    "id": "20261107-1230-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1230-1-story-text.mp4",
+    "caption": "",
+    "titel": "النصر يتحرك لتفعيل تمديد عقد جواو فيليكس حتى 2029",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/خاص-لكووورة-النصر-يقطع-الطريق-على-برشلونة-بشأن-جواو-فيليكس/blt73b326c5e8f99e16",
+    "status": "now"
+  },
+  {
+    "id": "20261107-1230-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1230-1-story-text.mp4",
+    "caption": "",
+    "titel": "النصر يتحرك لتفعيل تمديد عقد جواو فيليكس حتى 2029",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/خاص-لكووورة-النصر-يقطع-الطريق-على-برشلونة-بشأن-جواو-فيليكس/blt73b326c5e8f99e16",
+    "status": "now"
   }
 ]
