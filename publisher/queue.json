@@ -5903,5 +5903,58 @@
     "status": "published",
     "meta_id": "18103258871531521",
     "published_at": "2026-11-07T15:12:29.222830+00:00"
+  },
+  {
+    "id": "20261107-1620-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-1620-1.png",
+    "caption": "انطلقت اليوم السبت أول نسخة من دوري البراعم تحت 9 أعوام، الذي ينظمه الاتحاد السعودي لكرة القدم ضمن مسابقات البراعم والواعدين، بأكثر من 600 مباراة.\n\nيشارك في النسخة الأولى 370 فريقًا من فرق الهواة والأكاديميات والأندية الخاصة والأندية العامة.\n\nتقام المباريات بنظام 7 ضد 7 على ملاعب مصغّرة، ومدة المباراة 15 دقيقة، ويخوض كل فريق أربع مباريات في اليوم الواحد.\n\nويقود المباريات 998 حكمًا بإشراف 370 مراقبًا.\n\nهل يسهم هذا الدوري في اكتشاف المواهب الصغيرة مبكرًا؟\n\n#الكرة_السعودية #دوري_البراعم #الاتحاد_السعودي",
+    "status": "now",
+    "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
+  },
+  {
+    "id": "20261107-1620-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1620-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1620-1.jpg",
+    "caption": "نجوم المستقبل يبدأون رحلتهم ⚽\n\nانطلق اليوم أول دوري للبراعم تحت 9 أعوام في المملكة 🌟\n\n370 فريقًا يتنافسون في أكثر من 600 مباراة، بنظام 7 ضد 7 وبمباريات مدتها 15 دقيقة 🏟️\n\nوتديرها كوادر تحكيمية شابة تخوض أولى تجاربها الميدانية 💚\n\nمن تتوقع أن يخرج من هذا الجيل؟\n\n#الكرة_السعودية #دوري_البراعم #الاتحاد_السعودي #كرة_القدم #المواهب_السعودية",
+    "status": "now",
+    "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
+  },
+  {
+    "id": "20261107-1620-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1620-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
+  },
+  {
+    "id": "20261107-1620-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1620-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
+  },
+  {
+    "id": "20261107-1620-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1620-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1620-1.jpg",
+    "caption": "انطلقت اليوم السبت أول نسخة من دوري البراعم تحت 9 أعوام بمشاركة 370 فريقًا وأكثر من 600 مباراة، بنظام 7 ضد 7 ومدة المباراة 15 دقيقة.\n\nهل يسهم هذا الدوري في اكتشاف المواهب الصغيرة مبكرًا؟\n\n#الكرة_السعودية #دوري_البراعم #الاتحاد_السعودي",
+    "status": "scheduled",
+    "publish_at": "2026-11-07T17:25:00+01:00",
+    "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
   }
 ]
