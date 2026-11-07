@@ -5826,5 +5826,58 @@
     "titel": "فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من روشن",
     "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004",
     "publish_at": "2026-11-07T15:55:00+01:00"
+  },
+  {
+    "id": "20261107-1520-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-1520-1.png",
+    "caption": "يسابق نهيتان نانديز، لاعب القادسية، الزمن للتعافي.\n\nجاء ذلك بعد غيابه عن قائمة منتخب الأوروغواي، ويكثف اللاعب جهوده للعودة إلى الملعب.\n\nويترقب القادسية عودته في مواجهة النصر.\n\nهل ترى أن عودته مهمة للقادسية أمام النصر؟\n\n#القادسية #نانديز #دوري_روشن",
+    "status": "now",
+    "titel": "نانديز يسابق الزمن للتعافي قبل مواجهة النصر",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/نانديز-يسابق-الزمن-للتعافي-والقادسية-يترقب-عودته-أمام-النصر-775023"
+  },
+  {
+    "id": "20261107-1520-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1520-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1520-1.jpg",
+    "caption": "سباق مع الزمن ⏱️\n\nنهيتان نانديز يكثف جهوده للتعافي بعد غيابه عن قائمة الأوروغواي ⚽\n\nوالقادسية يترقب عودته أمام النصر 🔥\n\nهل يلحق النجم بالمواجهة المنتظرة؟ 💛\n\n#القادسية #نانديز #دوري_روشن #الدوري_السعودي #كرة_القدم",
+    "status": "now",
+    "titel": "نانديز يسابق الزمن للتعافي قبل مواجهة النصر",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/نانديز-يسابق-الزمن-للتعافي-والقادسية-يترقب-عودته-أمام-النصر-775023"
+  },
+  {
+    "id": "20261107-1520-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1520-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نانديز يسابق الزمن للتعافي قبل مواجهة النصر",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/نانديز-يسابق-الزمن-للتعافي-والقادسية-يترقب-عودته-أمام-النصر-775023"
+  },
+  {
+    "id": "20261107-1520-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1520-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نانديز يسابق الزمن للتعافي قبل مواجهة النصر",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/نانديز-يسابق-الزمن-للتعافي-والقادسية-يترقب-عودته-أمام-النصر-775023"
+  },
+  {
+    "id": "20261107-1520-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1520-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1520-1.jpg",
+    "caption": "يسابق نهيتان نانديز، لاعب القادسية، الزمن للتعافي.\n\nجاء ذلك بعد غيابه عن قائمة منتخب الأوروغواي، ويكثف اللاعب جهوده للعودة إلى الملعب.\n\nويترقب القادسية عودته في مواجهة النصر.\n\nهل ترى أن عودته مهمة للقادسية أمام النصر؟\n\n#القادسية #نانديز #دوري_روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-07T16:20:00+01:00",
+    "titel": "نانديز يسابق الزمن للتعافي قبل مواجهة النصر",
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/نانديز-يسابق-الزمن-للتعافي-والقادسية-يترقب-عودته-أمام-النصر-775023"
   }
 ]
