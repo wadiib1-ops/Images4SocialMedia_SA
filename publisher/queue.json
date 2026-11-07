@@ -5773,9 +5773,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-1500-1.png",
     "caption": "تُوّج جواو فيليكس، نجم النصر، بجائزة أفضل تمريرة في الجولة 12 من دوري روشن.\n\nويحمل اللاعب في رصيده 18 مشاركة تهديفية في 14 مباراة مع النصر.\n\nوتعكس الجائزة دوره الواضح في صناعة اللعب لفريقه هذا الموسم.\n\nهل تراه أبرز صانع لعب في الدوري حاليًا؟\n\n#النصر #فيليكس #دوري_روشن",
-    "status": "now",
+    "status": "published",
     "titel": "فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من روشن",
-    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004"
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004",
+    "meta_id": "122100013281541897",
+    "published_at": "2026-11-07T13:56:01.073473+00:00"
   },
   {
     "id": "20261107-1500-1-ig-reel",
@@ -5784,9 +5786,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1500-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1500-1.jpg",
     "caption": "تمريرة تصنع الفارق ✨\n\nجواو فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من دوري روشن ⚽\n\n18 مشاركة تهديفية في 14 مباراة مع النصر، رقم يعكس تأثيره الكبير 🔥\n\nجائزة جديدة تضاف إلى موسمه مع العالمي 💛\n\n#النصر #فيليكس #دوري_روشن #الدوري_السعودي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من روشن",
-    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004"
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004",
+    "meta_id": "17882362005546329",
+    "published_at": "2026-11-07T13:56:01.073473+00:00"
   },
   {
     "id": "20261107-1500-1-fb-story",
@@ -5794,9 +5798,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1500-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من روشن",
-    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004"
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004",
+    "meta_id": "2622593251534115",
+    "published_at": "2026-11-07T13:56:01.073473+00:00"
   },
   {
     "id": "20261107-1500-1-ig-story",
@@ -5804,9 +5810,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1500-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "فيليكس يتوج بجائزة أفضل تمريرة في الجولة 12 من روشن",
-    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004"
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/فيليكس-يتوج-بجائزة-أفضل-تمريرة-في-الجولة-12-من-روشن-775004",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207085)"
   },
   {
     "id": "20261107-1500-1-fb-reel",
