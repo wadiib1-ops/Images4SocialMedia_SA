@@ -5962,10 +5962,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1620-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1620-1.jpg",
     "caption": "انطلقت اليوم السبت أول نسخة من دوري البراعم تحت 9 أعوام بمشاركة 370 فريقًا وأكثر من 600 مباراة، بنظام 7 ضد 7 ومدة المباراة 15 دقيقة.\n\nهل يسهم هذا الدوري في اكتشاف المواهب الصغيرة مبكرًا؟\n\n#الكرة_السعودية #دوري_البراعم #الاتحاد_السعودي",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-07T17:25:00+01:00",
     "titel": "انطلاق دوري البراعم تحت 9 أعوام لأول مرة",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4454"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4454",
+    "meta_id": "1687450852875281",
+    "published_at": "2026-11-07T17:16:52.337701+00:00"
   },
   {
     "id": "20261107-1730-1-fb-feed",
@@ -6034,9 +6036,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-1830-1.png",
     "caption": "أثار مقترح تغيير اسم نادي القادسية جدلًا واسعًا على مواقع التواصل الاجتماعي.\n\nطرح الفكرة سعد العفالق في برنامج «المنصة» على قناة ثمانية، وعارضها تركي العجمة معتبرًا أن الجماهير سترفضها.\n\nوأوضح العفالق لاحقًا أنه قصد ربط النادي بمنطقته أو بأرامكو بعد الاستحواذ، وليس محو هويته، بينما انتقد خبير قانوني الفكرة ووصفها بمحاولة لمحو تاريخ النادي وارتباط جماهيره به.\n\nويحتل القادسية المركز الثاني في دوري روشن برصيد 28 نقطة، بفارق نقطتين عن المتصدر الهلال.\n\nهل تؤيد تغيير اسم القادسية أم الإبقاء عليه؟\n\n#القادسية #دوري_روشن #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "مقترح تغيير اسم القادسية يثير جدلًا واسعًا",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378",
+    "meta_id": "122100140007541897",
+    "published_at": "2026-11-07T17:16:52.337701+00:00"
   },
   {
     "id": "20261107-1830-1-ig-reel",
@@ -6045,9 +6049,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1830-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-1830-1.jpg",
     "caption": "🔥 اسم القادسية على طاولة النقاش!\n\nمقترح تغيير اسم النادي فجّر جدلًا كبيرًا بين الجماهير 💬\nالعفالق يقول إنه قصد ربط النادي بمنطقته أو بأرامكو، والعجمة يرى أن الجماهير سترفض الفكرة.\nوفي الملعب يواصل الفريق مطاردة الصدارة في المركز الثاني بـ 28 نقطة ⚽\n\nما رأيك؟ شاركنا في التعليقات 👇\n\n#القادسية #دوري_روشن #الكرة_السعودية #السعودية #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "مقترح تغيير اسم القادسية يثير جدلًا واسعًا",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378",
+    "meta_id": "18083691248345960",
+    "published_at": "2026-11-07T17:16:52.337701+00:00"
   },
   {
     "id": "20261107-1830-1-fb-story",
@@ -6055,9 +6061,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مقترح تغيير اسم القادسية يثير جدلًا واسعًا",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378",
+    "meta_id": "2400411747442920",
+    "published_at": "2026-11-07T17:16:52.337701+00:00"
   },
   {
     "id": "20261107-1830-1-ig-story",
@@ -6065,9 +6073,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-1830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مقترح تغيير اسم القادسية يثير جدلًا واسعًا",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/مقترح-تغيير-اسم-القادسية-موّاصرة-دوري-روشن-السعودي-العفالق/blt59d631fcaf54d378",
+    "meta_id": "18093708326231203",
+    "published_at": "2026-11-07T17:16:52.337701+00:00"
   },
   {
     "id": "20261107-1830-1-fb-reel",
