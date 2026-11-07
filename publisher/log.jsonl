@@ -690,3 +690,8 @@
 {"zeit": "07.11.2026 14:57:07", "aktion": "fehlgeschlagen", "beitrag": "20261107-1500-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207085)"}
 {"zeit": "07.11.2026 14:57:07", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "475 Einträge geprüft"}
 {"zeit": "07.11.2026 14:57:23", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "475 Einträge geprüft"}
+{"zeit": "07.11.2026 15:18:47", "aktion": "veröffentlicht", "beitrag": "20261107-1520-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122100029835541897"}
+{"zeit": "07.11.2026 15:19:44", "aktion": "veröffentlicht", "beitrag": "20261107-1520-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18143330308617597"}
+{"zeit": "07.11.2026 15:19:57", "aktion": "veröffentlicht", "beitrag": "20261107-1520-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 2267030484144649"}
+{"zeit": "07.11.2026 15:20:36", "aktion": "veröffentlicht", "beitrag": "20261107-1520-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18107916704566910"}
+{"zeit": "07.11.2026 15:20:36", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "480 Einträge geprüft"}
