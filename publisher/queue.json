@@ -6405,5 +6405,58 @@
     "publish_at": "2026-11-08T00:20:00+01:00",
     "titel": "جمهور الاتحاد يقدم أضعف بداية حضورية منذ خمسة مواسم",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/ليس-الفريق-فقط--جمهور-الاتحاد-يقدم-أسوأ-بداية-في-دوري-روشن/blt5b3d91216ea1a127"
+  },
+  {
+    "id": "20261108-0020-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261108-0020-1.png",
+    "caption": "حقق المنتخب السعودي الأول لكرة قدم الصالات فوزًا وديًا على نظيره الكويتي بأربعة أهداف مقابل ثلاثة.\n\nأقيمت المباراة ضمن المعسكر الإعدادي للمنتخب في المجر، وسجل للأخضر معاذ العسيري وأحمد الدوغاني وعبدالله العقيلي وعبدالله الدوسري.\n\nيقود الفريق المدرب الإسباني أندريو بلازا، ويواجه المنتخب نظيره المجري وديًا يوم الاثنين المقبل، ويستمر المعسكر حتى الثاني عشر من نوفمبر.\n\nكيف تقيّم أداء أخضر الصالات في هذه المباراة؟\n\n#أخضر_الصالات #كرة_الصالات #السعودية",
+    "status": "now",
+    "titel": "أخضر الصالات يتغلب على الكويت وديًا",
+    "quelle_url": "https://ajel.sa/sports/hpoiaxre5"
+  },
+  {
+    "id": "20261108-0020-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0020-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-0020-1.jpg",
+    "caption": "🔥⚽ أخضر الصالات يخرج فائزًا من اختبار الكويت!\n\nأربعة أهداف مقابل ثلاثة في مباراة ودية قوية ضمن معسكر المجر ⚽\nالعسيري والدوغاني والعقيلي والدوسري سجلوا أهداف الأخضر 💚\nوالمحطة التالية: مواجهة المجر وديًا يوم الاثنين.\n\n#أخضر_الصالات #كرة_الصالات #المنتخب_السعودي #السعودية #الصالات",
+    "status": "now",
+    "titel": "أخضر الصالات يتغلب على الكويت وديًا",
+    "quelle_url": "https://ajel.sa/sports/hpoiaxre5"
+  },
+  {
+    "id": "20261108-0020-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0020-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الصالات يتغلب على الكويت وديًا",
+    "quelle_url": "https://ajel.sa/sports/hpoiaxre5"
+  },
+  {
+    "id": "20261108-0020-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0020-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أخضر الصالات يتغلب على الكويت وديًا",
+    "quelle_url": "https://ajel.sa/sports/hpoiaxre5"
+  },
+  {
+    "id": "20261108-0020-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0020-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-0020-1.jpg",
+    "caption": "حقق المنتخب السعودي الأول لكرة قدم الصالات فوزًا وديًا على نظيره الكويتي بأربعة أهداف مقابل ثلاثة.\n\nأقيمت المباراة ضمن المعسكر الإعدادي للمنتخب في المجر، وسجل للأخضر معاذ العسيري وأحمد الدوغاني وعبدالله العقيلي وعبدالله الدوسري.\n\nيقود الفريق المدرب الإسباني أندريو بلازا، ويواجه المنتخب نظيره المجري وديًا يوم الاثنين المقبل، ويستمر المعسكر حتى الثاني عشر من نوفمبر.\n\nكيف تقيّم أداء أخضر الصالات في هذه المباراة؟\n\n#أخضر_الصالات #كرة_الصالات #السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-08T01:20:00+01:00",
+    "titel": "أخضر الصالات يتغلب على الكويت وديًا",
+    "quelle_url": "https://ajel.sa/sports/hpoiaxre5"
   }
 ]
