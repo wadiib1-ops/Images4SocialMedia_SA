@@ -5461,10 +5461,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-0720-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-0720-1.jpg",
     "caption": "فاز الاتحاد على الأهلي بثلاثة أهداف دون رد في ديربي دوري السيدات الممتاز.\n\nوسجلت بوساحة هدفين في المباراة، وأسهمت الثنائية في وصول فريقها إلى وصافة الترتيب العام.\n\nهل ترى أن الاتحاد قادر على المنافسة على لقب الدوري؟\n\n#دوري_السيدات #الاتحاد #الأهلي",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-07T08:16:28+01:00",
     "titel": "الاتحاد يتفوق على الأهلي بثلاثية في ديربي دوري السيدات",
-    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/دوري-السيدات-الأهلي-يخسر-الديربي-أمام-الاتحاد-بثلاثية-774969"
+    "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/دوري-السيدات-الأهلي-يخسر-الديربي-أمام-الاتحاد-بثلاثية-774969",
+    "meta_id": "1139968475113112",
+    "published_at": "2026-11-07T07:23:18.540989+00:00"
   },
   {
     "id": "20261107-0830-1-fb-feed",
@@ -5472,9 +5474,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261107-0830-1.png",
     "caption": "تعادل الزلفي مع ضيفه جدة بهدف لمثله في الجولة الحادية عشرة من دوري الدرجة الأولى.\n\nتقدم جدة في الدقيقة الرابعة بعد التسعين برأسية فهد الصحفي.\n\nوأدرك الزلفي التعادل في الدقيقة الثانية عشرة من الوقت بدل الضائع من ركلة جزاء نفذها المالي ديمبا ديالو.\n\nوبهذه النتيجة جاء الزلفي خامسا برصيد ثماني عشرة نقطة مؤقتا، وجدة في المركز الحادي عشر برصيد عشر نقاط.\n\nهل ترى أن التعادل كان نتيجة عادلة للفريقين؟\n\n#دوري_الدرجة_الأولى #الزلفي #جدة",
-    "status": "now",
+    "status": "published",
     "titel": "جزائية في الوقت بدل الضائع تنقذ الزلفي أمام جدة",
-    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة"
+    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة",
+    "meta_id": "122099721735541897",
+    "published_at": "2026-11-07T07:23:18.540989+00:00"
   },
   {
     "id": "20261107-0830-1-ig-reel",
@@ -5483,9 +5487,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-0830-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261107-0830-1.jpg",
     "caption": "دقائق قاتلة قلبت المباراة رأسا على عقب ⚽🔥\n\nكان جدة يقترب من الفوز بعد رأسية فهد الصحفي في الدقيقة الرابعة بعد التسعين، لكن الزلفي رد في الدقيقة الثانية عشرة من الوقت بدل الضائع بركلة جزاء نفذها ديمبا ديالو 🎯\n\nانتهت المواجهة بهدف لمثله في الجولة الحادية عشرة، ليحتل الزلفي المركز الخامس مؤقتا برصيد ثماني عشرة نقطة 💚\n\n#دوري_الدرجة_الأولى #الزلفي #جدة #الكرة_السعودية #دوري_يلو",
-    "status": "now",
+    "status": "published",
     "titel": "جزائية في الوقت بدل الضائع تنقذ الزلفي أمام جدة",
-    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة"
+    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة",
+    "meta_id": "18118118539998183",
+    "published_at": "2026-11-07T07:23:18.540989+00:00"
   },
   {
     "id": "20261107-0830-1-fb-story",
@@ -5493,9 +5499,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-0830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "جزائية في الوقت بدل الضائع تنقذ الزلفي أمام جدة",
-    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة"
+    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة",
+    "meta_id": "1139518315156334",
+    "published_at": "2026-11-07T07:23:18.540989+00:00"
   },
   {
     "id": "20261107-0830-1-ig-story",
@@ -5503,9 +5511,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261107-0830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "جزائية في الوقت بدل الضائع تنقذ الزلفي أمام جدة",
-    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة"
+    "quelle_url": "https://arriyadiyah.com/904240/جزائية-قاتلة-تنقذ-الزلفي-أمام-جدة",
+    "meta_id": "18493581517107183",
+    "published_at": "2026-11-07T07:23:18.540989+00:00"
   },
   {
     "id": "20261107-0830-1-fb-reel",
