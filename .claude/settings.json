@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add publisher/queue.json*)",
+      "Bash(git add images/*)",
+      "Bash(git commit *)",
+      "Bash(git push origin HEAD:main)",
+      "Bash(git push origin video-out)",
+      "Bash(git pull --rebase origin main)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git push -u origin claude/*)",
+      "Bash(git worktree *)",
+      "Bash(git add *)",
+      "Bash(python3 publisher/add_entries.py *)"
+    ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "In der Saudi-Fußball-Routine (Repo Images4SocialMedia_SA) ist das Anlegen von Einträgen in publisher/queue.json samt git add, git commit und git push origin HEAD:main ausdrücklich erlaubt, auch wenn der Push die automatische Veröffentlichung auf Facebook und Instagram auslöst. Das ist der Zweck der Routine und vom Besitzer dauerhaft freigegeben."
+    ]
+  }
+}

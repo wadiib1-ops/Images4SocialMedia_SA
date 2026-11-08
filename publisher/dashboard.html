@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veröffentlichung: Warteschlange und Protokoll</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 16px; background: #f5f5f5; color: #222; }
+  h1 { font-size: 20px; margin: 0 0 8px; }
+  h2 { font-size: 16px; margin: 24px 0 8px; }
+  .note { font-size: 13px; color: #555; margin-bottom: 12px; }
+  table { width: 100%; border-collapse: collapse; background: #fff; font-size: 13px; }
+  th, td { padding: 6px 8px; border-bottom: 1px solid #e5e5e5; text-align: left; vertical-align: top; }
+  th { background: #eee; }
+  .status-scheduled { color: #0a6; font-weight: 600; }
+  .status-paused { color: #b60; font-weight: 600; }
+  .status-published { color: #06c; font-weight: 600; }
+  .status-failed { color: #c00; font-weight: 600; }
+  .status-now { color: #808; font-weight: 600; }
+  .ok { color: #0a6; }
+  .err { color: #c00; }
+  .filter { margin: 8px 0; font-size: 13px; }
+  .filter select, .filter input { font-size: 13px; padding: 4px; margin-right: 8px; }
+  video { max-width: 160px; max-height: 280px; }
+</style>
+</head>
+<body>
+<h1>Veröffentlichung</h1>
+<div class="note">
+  Stand: <span id="stand">lade …</span>. Quelle ist das öffentliche Repo.
+  Zum Anhalten, Freigeben oder Ändern schreib mir im Chat, welcher Beitrag gemeint ist.
+</div>
+
+<h2>Warteschlange</h2>
+<table>
+  <thead>
+    <tr><th>Beitrag</th><th>Plattform</th><th>Typ</th><th>Zeitpunkt</th><th>Status</th><th>Text / Hashtags</th></tr>
+  </thead>
+  <tbody id="queue"></tbody>
+</table>
+
+<h2>Protokoll</h2>
+<div class="filter">
+  <select id="fAktion"><option value="">alle Aktionen</option></select>
+  <select id="fErgebnis"><option value="">alle Ergebnisse</option></select>
+  <input id="fSuche" placeholder="Beitrag suchen">
+</div>
+<table>
+  <thead>
+    <tr><th>Zeit (Berlin)</th><th>Aktion</th><th>Beitrag</th><th>Plattform</th><th>Ergebnis</th><th>Details</th></tr>
+  </thead>
+  <tbody id="log"></tbody>
+</table>
+
+<script>
+const BASE = "https://raw.githubusercontent.com/wadiib1-ops/images4socialmedia/main/publisher/";
+let logRows = [];
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+function hashtags(text) {
+  return (text || "").split(/\s+/).filter(w => w.startsWith("#")).length;
+}
+
+async function loadQueue() {
+  const res = await fetch(BASE + "queue.json?ts=" + Date.now(), {cache: "no-store"});
+  const q = await res.json();
+  const body = document.getElementById("queue");
+  body.innerHTML = q.map(e => {
+    const zeit = e.publish_at ? new Date(e.publish_at).toLocaleString("de-DE", {timeZone: "Europe/Berlin"}) : "sofort";
+    const tags = hashtags(e.caption);
+    return `<tr>
+      <td>${esc(e.id)}</td>
+      <td>${esc(e.platform)}</td>
+      <td>${esc(e.type)}</td>
+      <td>${esc(zeit)}</td>
+      <td class="status-${esc(e.status)}">${esc(e.status)}${e.error ? "<br><span class='err'>" + esc(e.error) + "</span>" : ""}</td>
+      <td>${esc(e.caption || "–")}<br><small>${tags} Hashtag(s)</small></td>
+    </tr>`;
+  }).join("") || `<tr><td colspan="6">Keine Einträge.</td></tr>`;
+}
+
+async function loadLog() {
+  const res = await fetch(BASE + "log.jsonl?ts=" + Date.now(), {cache: "no-store"});
+  const text = await res.text();
+  logRows = text.split("\n").filter(l => l.trim()).map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean).reverse();
+  const aktionen = [...new Set(logRows.map(r => r.aktion))];
+  const ergebnisse = [...new Set(logRows.map(r => r.ergebnis).filter(Boolean))];
+  document.getElementById("fAktion").innerHTML = `<option value="">alle Aktionen</option>` + aktionen.map(a => `<option>${esc(a)}</option>`).join("");
+  document.getElementById("fErgebnis").innerHTML = `<option value="">alle Ergebnisse</option>` + ergebnisse.map(a => `<option>${esc(a)}</option>`).join("");
+  renderLog();
+}
+
+function renderLog() {
+  const a = document.getElementById("fAktion").value;
+  const e = document.getElementById("fErgebnis").value;
+  const s = document.getElementById("fSuche").value.toLowerCase();
+  const rows = logRows.filter(r =>
+    (!a || r.aktion === a) &&
+    (!e || r.ergebnis === e) &&
+    (!s || String(r.beitrag).toLowerCase().includes(s)));
+  document.getElementById("log").innerHTML = rows.map(r => `<tr>
+    <td>${esc(r.zeit)}</td>
+    <td>${esc(r.aktion)}</td>
+    <td>${esc(r.beitrag)}</td>
+    <td>${esc(r.plattform)}</td>
+    <td class="${r.ergebnis === "fehler" ? "err" : (r.ergebnis === "erfolg" ? "ok" : "")}">${esc(r.ergebnis)}</td>
+    <td>${esc(r.details)}</td>
+  </tr>`).join("") || `<tr><td colspan="6">Keine Einträge.</td></tr>`;
+}
+
+["fAktion", "fErgebnis", "fSuche"].forEach(id =>
+  document.getElementById(id).addEventListener("input", renderLog));
+
+document.getElementById("stand").textContent = new Date().toLocaleString("de-DE", {timeZone: "Europe/Berlin"});
+loadQueue().catch(err => document.getElementById("queue").innerHTML = `<tr><td colspan="6" class="err">Fehler: ${esc(err)}</td></tr>`);
+loadLog().catch(err => document.getElementById("log").innerHTML = `<tr><td colspan="6" class="err">Fehler: ${esc(err)}</td></tr>`);
+</script>
+</body>
+</html>
