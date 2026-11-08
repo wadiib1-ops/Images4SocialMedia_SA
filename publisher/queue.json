@@ -6529,10 +6529,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0620-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-0620-1.jpg",
     "caption": "بدأ المنتخب السعودي الأول معسكره التدريبي في العاصمة القطرية الدوحة، ويستمر حتى السابع عشر من نوفمبر خلال فترة التوقف الدولي.\n\nويقود الفريق المدرب اليوناني جورجيوس دونيس، وتضم القائمة ثلاثين لاعبًا.\n\nوتقام مباراتان وديتان على ملعب خليفة بن حمد، الأولى أمام كوريا الجنوبية في الثالث عشر من نوفمبر والثانية أمام أوزبكستان في السابع عشر منه.\n\nمن تتوقع أن يبرز في مباراتي كوريا الجنوبية وأوزبكستان؟\n\n#المنتخب_السعودي #الأخضر #كرة_القدم",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-08T07:25:00+01:00",
     "titel": "المنتخب السعودي يبدأ معسكر الدوحة استعدادًا لوديتين دوليتين",
-    "quelle_url": "https://ajel.sa/sports/hn5w0jwi5"
+    "quelle_url": "https://ajel.sa/sports/hn5w0jwi5",
+    "meta_id": "1673807047700959",
+    "published_at": "2026-11-08T07:19:16.745025+00:00"
   },
   {
     "id": "20261108-0815-1-fb-feed",
@@ -6540,9 +6542,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261108-0815-1.png",
     "caption": "يقترب جناح الهلال البرازيلي غابرييل مارتينيلي من الجاهزية الكاملة بعد إصابته العضلية.\n\nأصيب اللاعب في مباراة القادسية ضمن الجولة الحادية عشرة من دوري روشن، وغاب عن ثلاث مباريات: مباراتين في دوري أبطال آسيا للنخبة ومباراة الفتح في الدوري.\n\nومنح المدرب سيموني إنزاجي اللاعبين راحة عشرة أيام خلال التوقف الدولي، ومن المقرر أن يستأنف الفريق تدريباته في الرابع عشر من نوفمبر.\n\nهل ترى أن عودة مارتينيلي ستعزز هجوم الهلال في المرحلة المقبلة؟\n\n#الهلال #دوري_روشن #مارتينيلي",
-    "status": "now",
+    "status": "published",
     "titel": "مارتينيلي يقترب من العودة إلى تدريبات الهلال",
-    "quelle_url": "https://www.sportksa.net/main/archives/507986"
+    "quelle_url": "https://www.sportksa.net/main/archives/507986",
+    "meta_id": "122100549849541897",
+    "published_at": "2026-11-08T07:19:16.745025+00:00"
   },
   {
     "id": "20261108-0815-1-ig-reel",
@@ -6551,9 +6555,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0815-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-0815-1.jpg",
     "caption": "🔵 الجناح البرازيلي يقترب من العودة!\n\nمارتينيلي يسير بخطى ثابتة نحو التعافي من الإصابة العضلية ⚽\n\nغاب نجم الهلال عن ثلاث مباريات بعد لقاء القادسية، ومنحت فترة التوقف الدولي الفريق راحة لعشرة أيام بقرار من إنزاجي 💪\n\nوينتظر الزعيم عودة تدريباته في الرابع عشر من نوفمبر لمعرفة جاهزية لاعبه 🔥\n\n#الهلال #مارتينيلي #دوري_روشن #الكرة_السعودية #إنزاجي",
-    "status": "now",
+    "status": "published",
     "titel": "مارتينيلي يقترب من العودة إلى تدريبات الهلال",
-    "quelle_url": "https://www.sportksa.net/main/archives/507986"
+    "quelle_url": "https://www.sportksa.net/main/archives/507986",
+    "meta_id": "17991431325090439",
+    "published_at": "2026-11-08T07:19:16.745025+00:00"
   },
   {
     "id": "20261108-0815-1-fb-story",
@@ -6561,9 +6567,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0815-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مارتينيلي يقترب من العودة إلى تدريبات الهلال",
-    "quelle_url": "https://www.sportksa.net/main/archives/507986"
+    "quelle_url": "https://www.sportksa.net/main/archives/507986",
+    "meta_id": "1195205369791775",
+    "published_at": "2026-11-08T07:19:16.745025+00:00"
   },
   {
     "id": "20261108-0815-1-ig-story",
@@ -6571,9 +6579,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-0815-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مارتينيلي يقترب من العودة إلى تدريبات الهلال",
-    "quelle_url": "https://www.sportksa.net/main/archives/507986"
+    "quelle_url": "https://www.sportksa.net/main/archives/507986",
+    "meta_id": "18055131944610350",
+    "published_at": "2026-11-08T07:19:16.745025+00:00"
   },
   {
     "id": "20261108-0815-1-fb-reel",
