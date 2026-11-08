@@ -6781,10 +6781,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-1215-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-1215-1.jpg",
     "caption": "رئيس الشباب يتحدث عن تجديد عقد كاراسكو\n\nعقد البلجيكي ينتهي بنهاية الموسم الحالي، والنادي لم يبدأ مناقشة التجديد بعد.\n\nالقرار مرهون بحسم ميزانية الموسم المقبل، فالمجلس الحالي مؤقت ولا يملك صورة نهائية.\n\nويفضل عدم التسرع في قرارات التشكيلة.\n\nسجل كاراسكو تسعة وثلاثين هدفًا منذ انضمامه، وله هذا الموسم ستة أهداف في عشر مباريات.\n\nهل ينبغي للشباب تجديد عقده مبكرًا؟\n\n#الشباب #كاراسكو #دوري_روشن",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-08T13:17:50+01:00",
     "titel": "رئيس الشباب يتحدث عن تجديد عقد كاراسكو",
-    "quelle_url": "https://www.sportksa.net/main/archives/507999"
+    "quelle_url": "https://www.sportksa.net/main/archives/507999",
+    "meta_id": "2364639364376886",
+    "published_at": "2026-11-08T13:20:19.929724+00:00"
   },
   {
     "id": "20261108-1430-1-fb-feed",
@@ -6792,9 +6794,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261108-1430-1.png",
     "caption": "تحدث رئيس الشباب عبدالعزيز الملك عن مفاوضات النادي مع النصر بشأن انتقال الحارس نواف العقيدي.\n\nوطُرحت فكرة انتقال همام الحمامي إلى النصر ضمن الصفقة، لكن المفاوضات لم تصل إلى اتفاق نهائي.\n\nوركّز الشباب بعدها على الاحتفاظ بالحمامي وفتح باب تجديد عقده، ووصفه الملك بأحد الأعمدة الأساسية للمشروع الرياضي.\n\nوأوضح أن النادي يحدد صفقات اللاعبين المحليين من ميزانيته، وقد تصل قيمتها إلى مئة مليون ريال.\n\nهل كان تمسك الشباب بالحمامي قرارًا صائبًا؟\n\n#الشباب #النصر #دوري_روشن",
-    "status": "now",
+    "status": "published",
     "titel": "رئيس الشباب يكشف تفاصيل مفاوضات النصر بشأن العقيدي والحمامي",
-    "quelle_url": "https://www.sportksa.net/main/archives/508008"
+    "quelle_url": "https://www.sportksa.net/main/archives/508008",
+    "meta_id": "122100749001541897",
+    "published_at": "2026-11-08T13:20:19.929724+00:00"
   },
   {
     "id": "20261108-1430-1-ig-reel",
@@ -6803,9 +6807,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-1430-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261108-1430-1.jpg",
     "caption": "الحمامي بقي في الشباب بعد صفقة لم تكتمل 🔥\n\nرئيس الشباب عبدالعزيز الملك كشف كواليس المحادثات مع النصر حول الحارس نواف العقيدي ⚽\n\nفكرة انتقال همام الحمامي إلى النصر ضمن الصفقة طُرحت، لكن لم يتم التوصل إلى اتفاق نهائي.\n\nبعدها اتجه الشباب إلى تجديد عقد الحمامي، ووصفه الملك بأحد الأعمدة الأساسية للمشروع 💚\n\nوأشار إلى أن صفقات المحليين تُحدد من ميزانية النادي وقد تبلغ مئة مليون ريال 💰\n\n#الشباب #النصر #دوري_روشن #الحمامي #العقيدي",
-    "status": "now",
+    "status": "published",
     "titel": "رئيس الشباب يكشف تفاصيل مفاوضات النصر بشأن العقيدي والحمامي",
-    "quelle_url": "https://www.sportksa.net/main/archives/508008"
+    "quelle_url": "https://www.sportksa.net/main/archives/508008",
+    "meta_id": "18036154655902342",
+    "published_at": "2026-11-08T13:20:19.929724+00:00"
   },
   {
     "id": "20261108-1430-1-fb-story",
@@ -6813,9 +6819,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-1430-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "رئيس الشباب يكشف تفاصيل مفاوضات النصر بشأن العقيدي والحمامي",
-    "quelle_url": "https://www.sportksa.net/main/archives/508008"
+    "quelle_url": "https://www.sportksa.net/main/archives/508008",
+    "meta_id": "1487863786544820",
+    "published_at": "2026-11-08T13:20:19.929724+00:00"
   },
   {
     "id": "20261108-1430-1-ig-story",
@@ -6823,9 +6831,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261108-1430-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "رئيس الشباب يكشف تفاصيل مفاوضات النصر بشأن العقيدي والحمامي",
-    "quelle_url": "https://www.sportksa.net/main/archives/508008"
+    "quelle_url": "https://www.sportksa.net/main/archives/508008",
+    "meta_id": "18106612601009918",
+    "published_at": "2026-11-08T13:20:19.929724+00:00"
   },
   {
     "id": "20261108-1430-1-fb-reel",
