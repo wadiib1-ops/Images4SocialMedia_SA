@@ -7408,13 +7408,15 @@
     "id": "20261109-1430-1-fb-reel",
     "platform": "facebook",
     "type": "reel",
-    "status": "scheduled",
+    "status": "published",
     "titel": "تعديلات مرتقبة على جدول الدوري السعودي تراعي معظم مطالب الأندية",
     "quelle_url": "http://www.sportksa.net/main/archives/508020",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1430-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261109-1430-1.jpg",
     "caption": "تعمل رابطة الدوري السعودي على تعديلات في جدول دوري روشن للجولات من الثالثة عشرة إلى الحادية والعشرين.\n\nوبحسب مدير إدارة المسابقات، تراعي النسخة المعدلة نحو تسعين في المئة من مطالب الأندية، مع أولوية لمباريات الأندية في المسابقات الآسيوية.\n\nوتأتي التعديلات بعد تأجيل كأس آسيا، وتراعي الرابطة أوقات الصلاة والمسافات والأجواء المناخية.\n\nويُنتظر الإعلان الرسمي عن الجدول الجديد خلال يومين تقريبًا.\n\nهل يحقق الجدول الجديد العدالة بين الأندية؟\n\n#دوري_روشن #الكرة_السعودية #رابطة_الدوري",
-    "publish_at": "2026-11-09T15:30:00+01:00"
+    "publish_at": "2026-11-09T15:30:00+01:00",
+    "meta_id": "2419033698632030",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1520-1-fb-feed",
@@ -7469,13 +7471,15 @@
     "id": "20261109-1520-1-fb-reel",
     "platform": "facebook",
     "type": "reel",
-    "status": "scheduled",
+    "status": "published",
     "titel": "البريكان بين حفل أفضل لاعب في آسيا ومباراة الأهلي أمام النصر",
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/شرط-آسيوي-مثير-يضع-البريكان-أمام-مفترق-طرق-قبل-الجائزة-المنتظرة/blt6201394a28411bf4",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1520-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261109-1520-1.jpg",
     "caption": "فراس البريكان بين حفل أفضل لاعب في آسيا ومباراة الأهلي أمام النصر\n\nيقام الحفل قبل نحو 24 ساعة من مواجهة الفريقين في الدوري يوم 20 نوفمبر.\n\nالخبير الآسيوي بدر بلبيد يرى أن الحضور من العوامل التي ينظر إليها الاتحاد الآسيوي، وأن الغياب قد يؤثر على فرصه رغم وجوده بين المرشحين.\n\nالسفر والعودة والراحة قبل المباراة يجعلان الوقت ضيقا.\n\nهل يحضر البريكان الحفل أم يبقى مع الأهلي؟\n\n#البريكان #الأهلي #دوري_روشن",
-    "publish_at": "2026-11-09T16:15:00+01:00"
+    "publish_at": "2026-11-09T16:15:00+01:00",
+    "meta_id": "1476652684412623",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1525-1-fb-feed",
@@ -7533,10 +7537,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1525-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261109-1525-1.jpg",
     "caption": "يلتحق سعود عبدالحميد، مدافع لانس الفرنسي، بمعسكر المنتخب السعودي في الدوحة متأخرا.\n\nمنح الجهاز الفني اللاعب إذن البقاء مع ناديه لخوض مباراة مارسيليا في الجولة العاشرة من الدوري الفرنسي.\n\nومن المتوقع أن ينضم إلى زملائه يوم الاثنين بعد انتهاء التزامه مع النادي.\n\nهل ترى أن غياب سعود عن أول أيام المعسكر مؤثر؟\n\n#المنتخب_السعودي #سعود_عبدالحميد #لانس",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-09T16:25:00+01:00",
     "titel": "سعود عبدالحميد يلتحق بمعسكر المنتخب السعودي متأخرا",
-    "quelle_url": "https://www.sportksa.net/main/archives/508023"
+    "quelle_url": "https://www.sportksa.net/main/archives/508023",
+    "meta_id": "1160625712976929",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1620-1-fb-feed",
@@ -7544,9 +7550,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261109-1620-1.png",
     "caption": "دخلت مفاوضات الاستحواذ على نادي الاتحاد مرحلتها النهائية.\n\nيملك صندوق الاستثمارات العامة النادي حاليا ويرغب في نقل الملكية، وتتنافس ثلاث مجموعات استثمارية على الصفقة.\n\nالأولى تضم سدرة كابيتال وبلو فايف كابيتال، والثانية تضم عائلة غليزر ورجل الأعمال صهيب جمجوم، والثالثة بقيادة الأمير سعد بن عبدالله ورجل الأعمال جوش هاريس.\n\nتتقارب التقييمات المالية للعروض ولم يحدد موعد الإعلان بعد.\n\nمن برأيك المجموعة الأنسب لقيادة الاتحاد في المرحلة المقبلة؟\n\n#الاتحاد #دوري_روشن #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "سباق ثلاثي على ملكية الاتحاد وصندوق الاستثمارات العامة يدرس العروض",
-    "quelle_url": "https://www.sportksa.net/main/archives/508026"
+    "quelle_url": "https://www.sportksa.net/main/archives/508026",
+    "meta_id": "122101836183541897",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1620-1-ig-reel",
@@ -7555,9 +7563,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1620-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261109-1620-1.jpg",
     "caption": "مصير الاتحاد على طاولة صندوق الاستثمارات العامة 👀\n\nثلاث مجموعات استثمارية تتنافس على الاستحواذ على النادي، والمفاوضات وصلت إلى مرحلتها النهائية 💼\n\nالعروض متقاربة مالياً والإعلان لم يُحدد موعده بعد ⏳\n\nمن تريده مالكاً للعميد؟ اكتب رأيك في التعليقات 💬\n\n#الاتحاد #دوري_روشن #الكرة_السعودية #صندوق_الاستثمارات #سعودي_فوتبول",
-    "status": "now",
+    "status": "published",
     "titel": "سباق ثلاثي على ملكية الاتحاد وصندوق الاستثمارات العامة يدرس العروض",
-    "quelle_url": "https://www.sportksa.net/main/archives/508026"
+    "quelle_url": "https://www.sportksa.net/main/archives/508026",
+    "meta_id": "18289115182291991",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1620-1-fb-story",
@@ -7565,9 +7575,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1620-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "سباق ثلاثي على ملكية الاتحاد وصندوق الاستثمارات العامة يدرس العروض",
-    "quelle_url": "https://www.sportksa.net/main/archives/508026"
+    "quelle_url": "https://www.sportksa.net/main/archives/508026",
+    "meta_id": "878058088730693",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1620-1-ig-story",
@@ -7575,9 +7587,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261109-1620-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "سباق ثلاثي على ملكية الاتحاد وصندوق الاستثمارات العامة يدرس العروض",
-    "quelle_url": "https://www.sportksa.net/main/archives/508026"
+    "quelle_url": "https://www.sportksa.net/main/archives/508026",
+    "meta_id": "17953247982052283",
+    "published_at": "2026-11-09T15:26:04.032050+00:00"
   },
   {
     "id": "20261109-1620-1-fb-reel",
