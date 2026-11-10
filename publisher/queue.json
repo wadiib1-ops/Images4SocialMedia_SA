@@ -8482,10 +8482,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0720-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261110-0720-1.jpg",
     "caption": "أعلنت رابطة الدوري السعودي للمحترفين الجدول المحدث لدوري روشن للجولات من الثالثة عشرة إلى الحادية والعشرين.\n\nجاء التعديل بعد تغيير موعد كأس آسيا الذي فتح نوافذ إضافية للدوري، وتقام مباراة الأهلي والنصر المؤجلة في العشرين من نوفمبر.\n\nهل ترى أن الجدول الجديد يخدم الأندية المشاركة في البطولات القارية؟\n\n#دوري_روشن #الرابطة #الكرة_السعودية",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-10T08:22:00+01:00",
     "titel": "الرابطة تعلن الجدول المحدث لدوري روشن للجولات 13 إلى 21",
-    "quelle_url": "https://ajel.sa/sports/0tctxb0ta"
+    "quelle_url": "https://ajel.sa/sports/0tctxb0ta",
+    "meta_id": "2335810220604540",
+    "published_at": "2026-11-10T07:27:13.104052+00:00"
   },
   {
     "id": "20261110-0830-1-fb-feed",
@@ -8493,9 +8495,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261110-0830-1.png",
     "caption": "واصل منتخب السعودية تحت 23 عاما تدريباته في معسكر المنطقة الشرقية بقيادة المدرب الإيطالي لويجي دي بياجيو.\n\nبدأت الحصة بتمارين بدنية ثم حصة تكتيكية، وانتهت بمناورة على كامل مساحة الملعب.\n\nوانضم إلى المعسكر خمسة لاعبين بعد مشاركتهم مع أنديتهم: سعود سالم وجواد المنصور وعدنان البشري وسعد المطيري ومشعل الداود.\n\nكيف تقيم استعدادات المنتخب الأولمبي للاستحقاقات المقبلة؟\n\n#المنتخب_السعودي #الأخضر_الأولمبي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب تحت 23 عاما يواصل تدريباته في الشرقية",
-    "quelle_url": "https://ajel.sa/sports/rhduei1hf"
+    "quelle_url": "https://ajel.sa/sports/rhduei1hf",
+    "meta_id": "122102413479541897",
+    "published_at": "2026-11-10T07:27:13.104052+00:00"
   },
   {
     "id": "20261110-0830-1-ig-reel",
@@ -8504,9 +8508,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0830-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261110-0830-1.jpg",
     "caption": "الأخضر الأولمبي يواصل العمل في الشرقية! ⚽\n\nحصة بدنية، ثم تكتيك، ثم مناورة على كامل الملعب بإشراف دي بياجيو 🔥\n\nوخمسة أسماء جديدة التحقت بالمعسكر: سعود سالم، جواد المنصور، عدنان البشري، سعد المطيري ومشعل الداود 💚\n\n#الأخضر #المنتخب_السعودي #الأخضر_الأولمبي #كرة_القدم_السعودية #تحت_23",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب تحت 23 عاما يواصل تدريباته في الشرقية",
-    "quelle_url": "https://ajel.sa/sports/rhduei1hf"
+    "quelle_url": "https://ajel.sa/sports/rhduei1hf",
+    "meta_id": "18118758106824208",
+    "published_at": "2026-11-10T07:27:13.104052+00:00"
   },
   {
     "id": "20261110-0830-1-fb-story",
@@ -8514,9 +8520,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب تحت 23 عاما يواصل تدريباته في الشرقية",
-    "quelle_url": "https://ajel.sa/sports/rhduei1hf"
+    "quelle_url": "https://ajel.sa/sports/rhduei1hf",
+    "meta_id": "1792056012092517",
+    "published_at": "2026-11-10T07:27:13.104052+00:00"
   },
   {
     "id": "20261110-0830-1-ig-story",
@@ -8524,9 +8532,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0830-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب تحت 23 عاما يواصل تدريباته في الشرقية",
-    "quelle_url": "https://ajel.sa/sports/rhduei1hf"
+    "quelle_url": "https://ajel.sa/sports/rhduei1hf",
+    "meta_id": "18111830771346010",
+    "published_at": "2026-11-10T07:27:13.104052+00:00"
   },
   {
     "id": "20261110-0830-1-fb-reel",
