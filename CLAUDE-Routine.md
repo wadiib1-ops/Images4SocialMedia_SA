@@ -132,3 +132,6 @@ Im Textband von Reel und Stories sind Text, Footer `@saudifootballfutsal`, Forts
 
 ## Obere Elemente tiefer (verbindlich, Nutzerwunsch vom 06.11.2026, dauerhaft für alle Läufe)
 Im Reel-/Story-Video steht das Logo oben links bei y=130 statt 60, im Reel-Cover (Story-Layout) das Logo oben rechts bei top:130px statt 60px, damit Suchsymbol und Button der App oben sichtbar bleiben. Umgesetzt in `make_story_video.py` und `make_feed_image.py`. Nicht zurücksetzen.
+
+## Freigaben (verbindlich, Nutzerwunsch vom 10.11.2026, dauerhaft für alle Läufe)
+Wartet ein Lauf der Routine auf eine Freigabe des Nutzers (z. B. für git commit, git push origin HEAD:main, Workflow-Start, Branch-Push, Schreiben von Dateien im Rahmen dieser Routine), ist diese Freigabe immer erteilt. Der Lauf fragt nicht nach, sondern führt den Schritt aus und läuft bis zum Bericht weiter. Die Freigabe gilt nur für die in dieser Datei und in PROMPT.md beschriebenen Schritte.
