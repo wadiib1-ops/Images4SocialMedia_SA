@@ -8556,9 +8556,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261110-0917-1.png",
     "caption": "بدأ المنتخب السعودي تحت 20 عاما معسكره الإعدادي في الأحساء، ويستمر حتى السابع عشر من نوفمبر الجاري.\n\nويأتي المعسكر ضمن الاستعداد لكأس آسيا تحت 20 عاما 2027.\n\nواستدعى المدرب الإسباني سيرجيو بيرناس ثمانية وعشرين لاعبا للالتحاق بالمعسكر.\n\nمن برأيك أكثر الأسماء جاهزية لقيادة الأخضر في كأس آسيا؟\n\n#المنتخب_السعودي #الأخضر #كأس_آسيا",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 20 عاما يبدأ معسكر الأحساء استعدادا لكأس آسيا",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4459"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4459",
+    "meta_id": "122102519925541897",
+    "published_at": "2026-11-10T08:20:21.204505+00:00"
   },
   {
     "id": "20261110-0917-1-ig-reel",
@@ -8567,9 +8569,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0917-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261110-0917-1.jpg",
     "caption": "🌟 الأخضر الشاب يبدأ رحلة الاستعداد لكأس آسيا!\n\nانتظم لاعبو المنتخب السعودي تحت 20 عاما في معسكر الأحساء الممتد حتى السابع عشر من نوفمبر 🏟️\n\nالمدرب الإسباني سيرجيو بيرناس جمع ثمانية وعشرين لاعبا لبناء الفريق الذي سيخوض كأس آسيا تحت 20 عاما 2027 💚\n\nمن تتوقع أن يلمع في هذا الجيل؟ ⚽\n\n#الأخضر #المنتخب_السعودي #كأس_آسيا #الأحساء #كرة_القدم_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 20 عاما يبدأ معسكر الأحساء استعدادا لكأس آسيا",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4459"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4459",
+    "meta_id": "18096704786674933",
+    "published_at": "2026-11-10T08:20:21.204505+00:00"
   },
   {
     "id": "20261110-0917-1-fb-story",
@@ -8577,9 +8581,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0917-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 20 عاما يبدأ معسكر الأحساء استعدادا لكأس آسيا",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4459"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4459",
+    "meta_id": "1842887953711181",
+    "published_at": "2026-11-10T08:20:21.204505+00:00"
   },
   {
     "id": "20261110-0917-1-ig-story",
@@ -8587,9 +8593,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261110-0917-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 20 عاما يبدأ معسكر الأحساء استعدادا لكأس آسيا",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4459"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4459",
+    "meta_id": "18131327287882709",
+    "published_at": "2026-11-10T08:20:21.204505+00:00"
   },
   {
     "id": "20261110-0917-1-fb-reel",
