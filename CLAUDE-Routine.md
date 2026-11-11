@@ -10,7 +10,7 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Fünf Einträge je Meldung (Nutzerwunsch vom 04.11.2026, ergänzt am 06.11.2026 um das Facebook-Reel; gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche Zeit, gleiche quelle_url und titel
+## Fünf Einträge je Meldung (Nutzerwunsch vom 04.11.2026, ergänzt am 06.11.2026 um das Facebook-Reel; gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche quelle_url und titel; Feed und Stories sofort, beide Reels 3 Stunden später (siehe "Sofort veröffentlichen")
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
 3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
@@ -31,14 +31,14 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
   "quelle_url": "<Quelle>"
 }
 ```
-- `status`: immer `now` (siehe "Sofort veröffentlichen"). Nie `published` oder `failed` selbst setzen.
+- `status`: `now`, bei beiden Reels `scheduled` mit `publish_at` (siehe "Sofort veröffentlichen"). Nie `published` oder `failed` selbst setzen.
 - `id` eindeutig, `caption` leer lassen bei Stories.
 - `titel` und `quelle_url` immer setzen (Doppelschutz 24 h).
 - Medien-URLs: Bilder aus `main/images/`, Videos aus Branch `video-out` (Raw-URLs), vor dem Eintrag per curl prüfen (HTTP 200).
 - Videos auf `video-out` aufräumt der Workflow `delete-videos.yml` nach über 2 Tagen. Bilder in `images/` nach über 3 Tagen.
 
 ## Sofort veröffentlichen (verbindlich, dauerhaft)
-Ausnahme Facebook-Reel (Nutzerwunsch vom 06.11.2026, dauerhaft): Der Eintrag `-fb-reel` bekommt `status: "scheduled"` und `publish_at` = Anlegezeit plus 1 Stunde (ISO mit Offset, Europe/Berlin, z. B. `2026-11-06T14:30:00+01:00`), also eine Stunde nach dem Facebook-Feed. Der Start von publish.yml nach dem Push veröffentlicht ihn noch nicht; der 15-Minuten-Takt holt ihn danach. Alle anderen Einträge bekommen `status: "now"` ohne `publish_at`, keine Slots. Direkt nach dem Push von `queue.json` den Workflow `publish.yml` per workflow_dispatch starten (GitHub-Tool `actions_run_trigger`, ref main), weil der 15-Minuten-Takt unzuverlässig ist. Danach `publisher/log.jsonl` prüfen; Fehler per PushNotification melden. Fälliger Rückstand in der Queue löst denselben Start aus.
+Ausnahme beide Reels (Nutzerwunsch vom 11.11.2026, dauerhaft, ersetzt die 1-Stunden-Regel vom 06.11.2026): Die Einträge `-ig-reel` und `-fb-reel` bekommen `status: "scheduled"` und `publish_at` = Anlegezeit plus 3 Stunden (ISO mit Offset, Europe/Berlin, z. B. `2026-11-11T17:30:00+01:00`), also drei Stunden nach Facebook-Feed und Stories. Der Start von publish.yml nach dem Push veröffentlicht sie noch nicht; der 15-Minuten-Takt holt sie danach. Alle anderen Einträge bekommen `status: "now"` ohne `publish_at`, keine Slots. Direkt nach dem Push von `queue.json` den Workflow `publish.yml` per workflow_dispatch starten (GitHub-Tool `actions_run_trigger`, ref main), weil der 15-Minuten-Takt unzuverlässig ist. Danach `publisher/log.jsonl` prüfen; Fehler per PushNotification melden. Fälliger Rückstand in der Queue löst denselben Start aus.
 
 ## Ablauf am Ende des Laufs
 1. Medien wie in PROMPT.md erzeugen und pushen (Bilder auf main, Videos auf video-out).
