@@ -10903,9 +10903,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261112-0620-1.png",
     "caption": "الأخضر تحت 17 يصل الدوحة قبل كأس العالم للناشئين\n\nوصل المنتخب السعودي تحت 17 عامًا إلى الدوحة ضمن أول تسعة منتخبات تبلغ قطر استعدادًا لكأس العالم للناشئين 2026.\n\nويلعب الأخضر في المجموعة الرابعة إلى جانب فرنسا والأوروغواي وهايتي، بقائمة تضم واحدًا وعشرين لاعبًا.\n\nوتنطلق البطولة في التاسع عشر من نوفمبر وتستمر حتى الثالث عشر من ديسمبر، بمشاركة ثمانية وأربعين منتخبًا تخوض مئة وأربع مباريات في منطقة أسباير.\n\nكيف تقيّم حظوظ الأخضر في مجموعة تضم فرنسا والأوروغواي وهايتي؟\n\n#المنتخب_السعودي #الأخضر_تحت_17 #كأس_العالم_للناشئين",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 17 يصل الدوحة قبل كأس العالم للناشئين",
-    "quelle_url": "https://ajel.sa/sports/9m93pvjju"
+    "quelle_url": "https://ajel.sa/sports/9m93pvjju",
+    "meta_id": "122104423671541897",
+    "published_at": "2026-11-12T05:18:40.989308+00:00"
   },
   {
     "id": "20261112-0620-1-ig-reel",
@@ -10925,9 +10927,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-0620-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "الأخضر تحت 17 يصل الدوحة قبل كأس العالم للناشئين",
-    "quelle_url": "https://ajel.sa/sports/9m93pvjju"
+    "quelle_url": "https://ajel.sa/sports/9m93pvjju",
+    "error": "Meta-Upload HTTP 422: {\"debug_info\":{\"retriable\":false,\"type\":\"FileUrlProcessingError\",\"message\":\"Unable to fetch media from URL, got status code: 503 Failed to connect to server: connection timed out\"}}"
   },
   {
     "id": "20261112-0620-1-ig-story",
@@ -10935,9 +10938,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-0620-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 17 يصل الدوحة قبل كأس العالم للناشئين",
-    "quelle_url": "https://ajel.sa/sports/9m93pvjju"
+    "quelle_url": "https://ajel.sa/sports/9m93pvjju",
+    "meta_id": "17904853755377579",
+    "published_at": "2026-11-12T05:18:40.989308+00:00"
   },
   {
     "id": "20261112-0620-1-fb-reel",

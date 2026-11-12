@@ -1269,3 +1269,7 @@
 {"zeit": "12.11.2026 04:55:41", "aktion": "veröffentlicht", "beitrag": "20261112-0118-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18061598477801267"}
 {"zeit": "12.11.2026 04:56:13", "aktion": "veröffentlicht", "beitrag": "20261112-0118-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1115458667950328"}
 {"zeit": "12.11.2026 04:56:13", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "876 Einträge geprüft"}
+{"zeit": "12.11.2026 06:18:45", "aktion": "veröffentlicht", "beitrag": "20261112-0620-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122104423671541897"}
+{"zeit": "12.11.2026 06:18:55", "aktion": "fehlgeschlagen", "beitrag": "20261112-0620-1-fb-story", "plattform": "facebook", "ergebnis": "fehler", "details": "Meta-Upload HTTP 422: {\"debug_info\":{\"retriable\":false,\"type\":\"FileUrlProcessingError\",\"message\":\"Unable to fetch media from URL, got status code: 503 Failed to connect to server: connection timed out\"}}"}
+{"zeit": "12.11.2026 06:19:42", "aktion": "veröffentlicht", "beitrag": "20261112-0620-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17904853755377579"}
+{"zeit": "12.11.2026 06:19:42", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "881 Einträge geprüft"}
