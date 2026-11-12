@@ -11523,5 +11523,59 @@
     "publish_at": "2026-11-12T18:25:00+01:00",
     "titel": "أحد عشر لاعبًا من دوري روشن في دوري الأمم الأوروبية",
     "quelle_url": "https://arriyadiyah.com/904605/"
+  },
+  {
+    "id": "20261112-1720-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261112-1720-1.png",
+    "caption": "طوارئ في الأهلي قبل قمة النصر\n\nيواجه الأهلي ست حالات إصابة قبل مواجهة النصر في دوري روشن.\n\nوتشمل القائمة ميريح ديميرال وزكريا هوساوي وصالح أبو الشامات ونايف مسعود وإدغار سبيرتسيان وفالنتين أتانجانا.\n\nويبقى سبيرتسيان الأقرب إلى العودة بعد إصابة في العضلة الضامة، ومن المنتظر أن ينضم إلى التدريبات الجماعية بعد التوقف الدولي. وسيبحث المدرب بوسيتش عن بدائل قبل مباراة العشرين من نوفمبر.\n\nمن اللاعب القادر على سد الفراغ في تشكيلة الأهلي أمام النصر؟\n\n#الأهلي #النصر #دوري_روشن",
+    "status": "now",
+    "titel": "طوارئ في الأهلي قبل قمة النصر.. 6 إصابات تربك حسابات بوسيتش",
+    "quelle_url": "https://www.sportksa.net/main/archives/508087"
+  },
+  {
+    "id": "20261112-1720-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1720-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "طوارئ في الأهلي قبل قمة النصر.. 6 إصابات تربك حسابات بوسيتش",
+    "quelle_url": "https://www.sportksa.net/main/archives/508087"
+  },
+  {
+    "id": "20261112-1720-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1720-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "طوارئ في الأهلي قبل قمة النصر.. 6 إصابات تربك حسابات بوسيتش",
+    "quelle_url": "https://www.sportksa.net/main/archives/508087"
+  },
+  {
+    "id": "20261112-1720-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1720-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261112-1720-1.jpg",
+    "caption": "🚨 ستة غيابات تضرب الأهلي قبل القمة!\n\nيدخل الأهلي مواجهة النصر وسط قائمة مصابين طويلة 🏥\n\nديميرال وهوساوي وأبو الشامات ومسعود وسبيرتسيان وأتانجانا خارج الحسابات حالياً ⚽\n\nوسبيرتسيان الأقرب للعودة بعد التوقف الدولي، والمدرب بوسيتش يبحث عن الحلول 🔥\n\nمن سيعوّض الغائبين في الكلاسيكو؟ 💬\n\n#الأهلي #النصر #دوري_روشن #كلاسيكو #الكرة_السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T20:20:00+01:00",
+    "titel": "طوارئ في الأهلي قبل قمة النصر.. 6 إصابات تربك حسابات بوسيتش",
+    "quelle_url": "https://www.sportksa.net/main/archives/508087"
+  },
+  {
+    "id": "20261112-1720-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1720-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261112-1720-1.jpg",
+    "caption": "طوارئ في الأهلي قبل قمة النصر\n\nيواجه الأهلي ست حالات إصابة قبل مواجهة النصر في دوري روشن، ويبقى سبيرتسيان الأقرب إلى العودة.\n\nمن اللاعب القادر على سد الفراغ في تشكيلة الأهلي أمام النصر؟\n\n#الأهلي #النصر #دوري_روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T20:20:00+01:00",
+    "titel": "طوارئ في الأهلي قبل قمة النصر.. 6 إصابات تربك حسابات بوسيتش",
+    "quelle_url": "https://www.sportksa.net/main/archives/508087"
   }
 ]
