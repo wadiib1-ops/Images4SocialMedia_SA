@@ -11210,9 +11210,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261112-1115-1.png",
     "caption": "طرح تذاكر كلاسيكو الأهلي والنصر على ملعب الإنماء\n\nطرحت تذاكر مواجهة الأهلي والنصر المؤجلة من الجولة التاسعة في دوري روشن السعودي للمحترفين عبر منصة ويبوك.\n\nوتقام المباراة يوم الجمعة العشرين من نوفمبر على ملعب الإنماء بمدينة الملك عبدالله الرياضية في جدة، عند الثامنة والنصف مساءً بتوقيت مكة المكرمة.\n\nوتبدأ الأسعار من خمسة وعشرين ريالًا للفئة الخامسة، وتصل إلى ستين ريالًا للفئة الأولى، ومئة وخمسين ريالًا لفئة البريميوم، وألف ريال للفئة الذهبية.\n\nهل تفضل متابعة الكلاسيكو من المدرج أم عبر الشاشة؟\n\n#الأهلي #النصر #دوري_روشن",
-    "status": "now",
+    "status": "published",
     "titel": "طرح تذاكر كلاسيكو الأهلي والنصر على ملعب الإنماء",
-    "quelle_url": "https://www.sportksa.net/main/archives/508064"
+    "quelle_url": "https://www.sportksa.net/main/archives/508064",
+    "meta_id": "122104687557541897",
+    "published_at": "2026-11-12T10:19:28.529633+00:00"
   },
   {
     "id": "20261112-1115-1-ig-reel",
@@ -11232,9 +11234,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1115-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "طرح تذاكر كلاسيكو الأهلي والنصر على ملعب الإنماء",
-    "quelle_url": "https://www.sportksa.net/main/archives/508064"
+    "quelle_url": "https://www.sportksa.net/main/archives/508064",
+    "meta_id": "1511718600793618",
+    "published_at": "2026-11-12T10:19:28.529633+00:00"
   },
   {
     "id": "20261112-1115-1-ig-story",
@@ -11242,9 +11246,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-1115-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "طرح تذاكر كلاسيكو الأهلي والنصر على ملعب الإنماء",
-    "quelle_url": "https://www.sportksa.net/main/archives/508064"
+    "quelle_url": "https://www.sportksa.net/main/archives/508064",
+    "meta_id": "17977526157149935",
+    "published_at": "2026-11-12T10:19:28.529633+00:00"
   },
   {
     "id": "20261112-1115-1-fb-reel",
