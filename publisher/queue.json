@@ -11022,9 +11022,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261112-0817-1.png",
     "caption": "التعاون يقترب من استعادة خمسة لاعبين مصابين\n\nاقترب التعاون من استعادة خمسة من لاعبيه بعد مشاركتهم في جزء من التدريبات ضمن المرحلة الأخيرة من التأهيل.\n\nوالخماسي هم متعب المفرج وراكان الطليحي وعبدالرحمن هندي وبسام الحريجي والليبيري أوسكار دورلي.\n\nفي المقابل، يواصل سيف رجب علاجه في الدوحة، بينما يخضع الإيفواري بارفيه جوياجون لبرنامج علاجي بعد تمزق في العضلة الضامة.\n\nويستقبل التعاون النهضة العماني في الخامس والعشرين من نوفمبر بدوري أبطال آسيا 2، ثم يحل ضيفًا على الأهلي في الجولة الثالثة عشرة من دوري روشن.\n\nهل تكفي عودة الخماسي لتحسين نتائج التعاون في دوري روشن؟\n\n#التعاون #دوري_روشن #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "التعاون يقترب من استعادة خمسة لاعبين مصابين",
-    "quelle_url": "https://arriyadiyah.com/904570/"
+    "quelle_url": "https://arriyadiyah.com/904570/",
+    "meta_id": "122104508535541897",
+    "published_at": "2026-11-12T07:22:26.658840+00:00"
   },
   {
     "id": "20261112-0817-1-ig-reel",
@@ -11044,9 +11046,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-0817-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "التعاون يقترب من استعادة خمسة لاعبين مصابين",
-    "quelle_url": "https://arriyadiyah.com/904570/"
+    "quelle_url": "https://arriyadiyah.com/904570/",
+    "meta_id": "1118710624291777",
+    "published_at": "2026-11-12T07:22:26.658840+00:00"
   },
   {
     "id": "20261112-0817-1-ig-story",
@@ -11054,9 +11058,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261112-0817-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "التعاون يقترب من استعادة خمسة لاعبين مصابين",
-    "quelle_url": "https://arriyadiyah.com/904570/"
+    "quelle_url": "https://arriyadiyah.com/904570/",
+    "meta_id": "18110578340525219",
+    "published_at": "2026-11-12T07:22:26.658840+00:00"
   },
   {
     "id": "20261112-0817-1-fb-reel",
