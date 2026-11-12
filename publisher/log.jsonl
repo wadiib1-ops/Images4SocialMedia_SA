@@ -1273,3 +1273,4 @@
 {"zeit": "12.11.2026 06:18:55", "aktion": "fehlgeschlagen", "beitrag": "20261112-0620-1-fb-story", "plattform": "facebook", "ergebnis": "fehler", "details": "Meta-Upload HTTP 422: {\"debug_info\":{\"retriable\":false,\"type\":\"FileUrlProcessingError\",\"message\":\"Unable to fetch media from URL, got status code: 503 Failed to connect to server: connection timed out\"}}"}
 {"zeit": "12.11.2026 06:19:42", "aktion": "veröffentlicht", "beitrag": "20261112-0620-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17904853755377579"}
 {"zeit": "12.11.2026 06:19:42", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "881 Einträge geprüft"}
+{"zeit": "12.11.2026 06:19:57", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "881 Einträge geprüft"}
