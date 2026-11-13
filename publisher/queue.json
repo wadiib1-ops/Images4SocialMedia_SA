@@ -2354,5 +2354,93 @@
     "publish_at": "2026-11-13T23:52:00+01:00",
     "titel": "رونالدو يستبعد أي وجهة جديدة غير النصر",
     "quelle_url": "https://www.sportksa.net/main/archives/508105"
+  },
+  {
+    "id": "20261113-2245-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261113-2245-1.png",
+    "caption": "النصيري يعود إلى قائمة المنتخب المغربي\n\nاستدعى المدرب وهبي مهاجم الاتحاد للمرة الأولى منذ يناير. وسجل اللاعب سبعة أهداف في إحدى عشرة مباراة بدوري روشن.\n\nوسيشارك في تصفيات كأس أمم أفريقيا أمام النيجر. وتقام المباراة الأولى يوم الجمعة في الدار البيضاء.\n\nهل يواصل النصيري تألقه مع الاتحاد والمنتخب المغربي؟\n\n#الاتحاد #دوري_روشن #النصيري",
+    "status": "now",
+    "titel": "النصيري يعود إلى المنتخب المغربي بفضل أداء الاتحاد",
+    "quelle_url": "https://www.spl.com.sa/en/news/he-deserves-this-opportunity-how-en-nesyri-s-al-ittihad-form-earned-morocco-recall"
+  },
+  {
+    "id": "20261113-2245-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261113-2245-1.jpg",
+    "caption": "🔥 مهاجم الاتحاد يعود إلى أسود الأطلس!\n\nسبعة أهداف في إحدى عشرة مباراة بدوري روشن كانت كافية لإقناع المدرب وهبي بإعادة يوسف النصيري إلى القائمة ⚽\n\nأول استدعاء له منذ يناير، والموعد مع النيجر في تصفيات كأس أمم أفريقيا 🦁\n\nهل يستعيد النصيري مكانه الأساسي؟ 👇\n\n#النصيري #الاتحاد #دوري_روشن #المنتخب_المغربي #كرة_القدم",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T01:52:00+01:00",
+    "titel": "النصيري يعود إلى المنتخب المغربي بفضل أداء الاتحاد",
+    "quelle_url": "https://www.spl.com.sa/en/news/he-deserves-this-opportunity-how-en-nesyri-s-al-ittihad-form-earned-morocco-recall"
+  },
+  {
+    "id": "20261113-2245-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "النصيري يعود إلى المنتخب المغربي بفضل أداء الاتحاد",
+    "quelle_url": "https://www.spl.com.sa/en/news/he-deserves-this-opportunity-how-en-nesyri-s-al-ittihad-form-earned-morocco-recall"
+  },
+  {
+    "id": "20261113-2245-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261113-2245-1.jpg",
+    "caption": "النصيري يعود إلى قائمة المنتخب المغربي\n\nاستدعى المدرب وهبي مهاجم الاتحاد للمرة الأولى منذ يناير. وسجل اللاعب سبعة أهداف في إحدى عشرة مباراة بدوري روشن.\n\nوسيشارك في تصفيات كأس أمم أفريقيا أمام النيجر. وتقام المباراة الأولى يوم الجمعة في الدار البيضاء.\n\nهل يواصل النصيري تألقه مع الاتحاد والمنتخب المغربي؟\n\n#الاتحاد #دوري_روشن #النصيري",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T01:52:00+01:00",
+    "titel": "النصيري يعود إلى المنتخب المغربي بفضل أداء الاتحاد",
+    "quelle_url": "https://www.spl.com.sa/en/news/he-deserves-this-opportunity-how-en-nesyri-s-al-ittihad-form-earned-morocco-recall"
+  },
+  {
+    "id": "20261113-2245-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261113-2245-2.png",
+    "caption": "العمري يسجل بالرأس في شباك كوريا الجنوبية\n\nفاز الأخضر على كوريا الجنوبية بثلاثة أهداف مقابل هدفين. جرت المباراة الودية في الدوحة مساء الجمعة.\n\nوسجل عبدالإله العمري الهدف الثالث في الدقيقة التاسعة والخمسين. جاء الهدف برأسية بعد ركنية نفذها ناصر الدوسري.\n\nكيف تقيّمون أداء العمري في المباراة؟\n\n#الأخضر #المنتخب_السعودي #العمري",
+    "status": "now",
+    "titel": "العمري يسجل بالرأس في شباك كوريا الجنوبية",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مدافع-براس-هداف--كوريا-الجنوبية-تُكمل-عشرية-عبدالإله-العمري-الثانية/blt1fb654d7c41c7d56"
+  },
+  {
+    "id": "20261113-2245-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261113-2245-2.jpg",
+    "caption": "🔥 رأسية العمري تحسم الهدف الثالث للأخضر!\n\nركنية من ناصر الدوسري، وقفزة من عبدالإله العمري، وكرة في الشباك الكورية في الدقيقة التاسعة والخمسين ⚽\n\nانتهت المباراة الودية في الدوحة بفوز الأخضر بثلاثة أهداف مقابل هدفين 💚\n\nما رأيكم في أداء العمري؟ 👇\n\n#العمري #الأخضر #المنتخب_السعودي #كوريا_الجنوبية #كرة_القدم",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T01:52:00+01:00",
+    "titel": "العمري يسجل بالرأس في شباك كوريا الجنوبية",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مدافع-براس-هداف--كوريا-الجنوبية-تُكمل-عشرية-عبدالإله-العمري-الثانية/blt1fb654d7c41c7d56"
+  },
+  {
+    "id": "20261113-2245-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "العمري يسجل بالرأس في شباك كوريا الجنوبية",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مدافع-براس-هداف--كوريا-الجنوبية-تُكمل-عشرية-عبدالإله-العمري-الثانية/blt1fb654d7c41c7d56"
+  },
+  {
+    "id": "20261113-2245-2-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-2245-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261113-2245-2.jpg",
+    "caption": "العمري يسجل بالرأس في شباك كوريا الجنوبية\n\nفاز الأخضر على كوريا الجنوبية بثلاثة أهداف مقابل هدفين. جرت المباراة الودية في الدوحة مساء الجمعة.\n\nوسجل عبدالإله العمري الهدف الثالث في الدقيقة التاسعة والخمسين. جاء الهدف برأسية بعد ركنية نفذها ناصر الدوسري.\n\nكيف تقيّمون أداء العمري في المباراة؟\n\n#الأخضر #المنتخب_السعودي #العمري",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T01:52:00+01:00",
+    "titel": "العمري يسجل بالرأس في شباك كوريا الجنوبية",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مدافع-براس-هداف--كوريا-الجنوبية-تُكمل-عشرية-عبدالإله-العمري-الثانية/blt1fb654d7c41c7d56"
   }
 ]
