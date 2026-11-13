@@ -159,7 +159,8 @@ def publish_facebook(entry, token):
             set_facebook_thumbnail(vid, entry["cover_url"], page_token(token))
         return vid
     if entry["type"] == "story":
-        return publish_facebook_video_upload(entry, token, "video_stories")
+        # Nutzerwunsch vom 13.11.2026 (dauerhaft): keine Facebook-Stories mehr.
+        raise RuntimeError("Facebook-Story entfällt dauerhaft (Nutzerwunsch vom 13.11.2026)")
     if entry["type"] == "video":
         res = call("POST", f"{PAGE_ID}/videos", token,
                    file_url=entry["video_url"], description=entry.get("caption", ""))

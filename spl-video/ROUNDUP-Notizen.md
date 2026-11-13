@@ -7,7 +7,7 @@ Stand der Notizen: 02.11.2026 (Berliner Zeit). Gilt zusätzlich zu `CLAUDE-Routi
 - Die Sammelmeldung ist eine eigene Routine neben dem Einzelspiel-Job (`JOB.md`): alle Ergebnisse der Runde auf einmal plus die Tabelle nach der Runde.
 - Einzelposts zu einzelnen Spielen derselben Runde zählen nicht als Dublette. Dieselbe Runde wird als Sammelmeldung nur einmal veröffentlicht (Feld `runde` in `publisher/publish.py`).
 - Auslöser: nach dem letzten Spiel am Samstag (ab Samstagabend oder Sonntag). Das Fenster ist der ganze Spieltag, nicht 32 Stunden.
-- Pro Meldung vier Einträge (kein Instagram-Feed, Nutzerwunsch vom 04.11.2026): Facebook-Feed (höchstens 3 Hashtags), Instagram-Reel (höchstens 5), Facebook-Story und Instagram-Story (Text im Video, Begleittext leer). Kein Facebook-Reel.
+- Pro Meldung drei Einträge (kein Instagram-Feed seit 04.11.2026, keine Facebook-Story seit 13.11.2026, Nutzerwunsch, dauerhaft): Facebook-Feed (höchstens 3 Hashtags), Instagram-Reel (höchstens 5), Instagram-Story (Text im Video, Begleittext leer). Keine Facebook-Story, kein Facebook-Reel.
 - Nur arabische Texte, keine Quelle im Bild, Zeiten in Berliner Zeit.
 
 ## 2. Datenquellen

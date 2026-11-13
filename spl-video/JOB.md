@@ -7,12 +7,11 @@ Bis zu 1 neues Endergebnis pro Lauf aus der Saudi Pro League (Roshn Saudi League
 
 Quellen (WebFetch): spl.com.sa/en/news, kooora.com, arriyadiyah.com, sportksa.net, goal.com/ar-sa, saff.com.sa. Ergebnis, Torschützen und Minuten müssen in mindestens einer verlässlichen Quelle stehen. Keine erfundenen Daten. Höchstens 10 Abrufe pro Lauf.
 
-## 2. Pro Meldung vier Einträge (kein Instagram-Feed, Nutzerwunsch vom 04.11.2026) (gleiche Zeit, gleiche `quelle_url`, gleicher `titel`)
+## 2. Pro Meldung drei Einträge (kein Instagram-Feed seit 04.11.2026, keine Facebook-Story seit 13.11.2026, beides Nutzerwunsch, dauerhaft) (gleiche Zeit, gleiche `quelle_url`, gleicher `titel`)
 1. Facebook-Feed (`photo`): `--kind feed` (1080 x 1350 PNG), FACEBOOK-TEXT, höchstens 3 Hashtags.
 2. Instagram-Reel (`reel`): `--kind reel`, `cover_url` = `--kind cover`, INSTAGRAM-TEXT, höchstens 5 Hashtags.
-3. Facebook-Story (`story`): `--kind story`, `caption` leer.
-4. Instagram-Story (`story`): dieselbe Datei wie 3, `caption` leer.
-5. Entfällt: kein Instagram-Feed (Nutzerwunsch vom 04.11.2026, dauerhaft). Kein Facebook-Reel.
+3. Instagram-Story (`story`): `--kind story`, `caption` leer.
+4. Entfällt dauerhaft: keine Facebook-Story (kein Eintrag `platform: facebook`, `type: story`; der Veröffentlicher lehnt ihn ab), kein Instagram-Feed, kein Facebook-Reel.
 
 ## 3. Eingabedatei `match.json` (im Arbeitsordner, nicht committen)
 ```json
@@ -39,7 +38,7 @@ Werkzeuge einmalig: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q p
 ```
 - Das Skript wählt den Musik-Track aus `Video/*.mp3` zufällig und gibt Track und Startpunkt aus (im Bericht nennen). Tracks nie verändern.
 - Videolänge: Abschnitte x 3,0 s + 0,5 s, mindestens 12 s. Die Story hängt den Call to Action (4,5 s) an. Rendern dauert ca. 2 s je Videosekunde.
-- Danach mit ffprobe prüfen: 1080x1920, Dauer wie ausgegeben, Audio vorhanden. Feed 1080x1350, Cover 1080x1920. Fehler: einmal wiederholen, danach Reel und Stories weglassen und melden. Die Bilddateien vorher ansehen (Read), z. B. auf abgeschnittene Namen.
+- Danach mit ffprobe prüfen: 1080x1920, Dauer wie ausgegeben, Audio vorhanden. Feed 1080x1350, Cover 1080x1920. Fehler: einmal wiederholen, danach Reel und Instagram-Story weglassen und melden. Die Bilddateien vorher ansehen (Read), z. B. auf abgeschnittene Namen.
 - Hosting, Queue, Workflow-Start, Prüfung: wie in `CLAUDE-Routine.md` und `PROMPT.md` Abschnitt 8 Schritt 8 (Bilder auf main in `images/`, Videos auf Branch `video-out`, Raw-URLs per curl auf HTTP 200 prüfen).
 
 ## 5. Design (verbindlich, bewusst anders als "Saudi Kora News" und Botola)
@@ -50,4 +49,4 @@ Werkzeuge einmalig: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q p
 - Logo und Handle stehen je einmal, nie doppelt. Im Bild keine Quelle, keine URL, keine Hashtags.
 
 ## 6. Abschlussbericht (deutsch, knapp)
-Spiel und Ergebnis in einer Zeile, Quelle (nur im Bericht), Suchbegriffe der Dublettenprüfung, Track und Startpunkt, ffprobe-Werte, Status der vier Einträge aus `publisher/log.jsonl`, Fehler, "Texte arabisch fertig".
+Spiel und Ergebnis in einer Zeile, Quelle (nur im Bericht), Suchbegriffe der Dublettenprüfung, Track und Startpunkt, ffprobe-Werte, Status der drei Einträge aus `publisher/log.jsonl`, Fehler, "Texte arabisch fertig".
