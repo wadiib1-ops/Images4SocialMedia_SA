@@ -6,13 +6,12 @@ Lies zuerst vollständig die Datei CLAUDE-Routine.md im selben Repo (Branch main
 1. AUFTRAG UND ABLAUF
 Veröffentliche bis zu 1 neue Meldung pro Lauf. Gesucht wird nur nach EINER Meldung, auf Arabisch, über AKTUELLE Nachrichten zu Fußball oder Futsal mit klarem Saudi-Bezug. Zulässig: Saudi Pro League, Saudi-Nationalteam (Green Falcons) und Nationalteams der Frauen und der Jugend, saudische Klubs und Trainer, saudische Spieler im In- und Ausland, saudische Klubs in der AFC Champions League und in anderen AFC-Wettbewerben, Futsal (Nationalteam und Klubs), Verband und Ligabetrieb (SAFF, SPL). Kein anderes Thema.
 
-Pro Meldung entstehen FÜNF Einträge (siehe CLAUDE-Routine.md; kein Instagram-Feed, Nutzerwunsch vom 04.11.2026; Facebook-Reel zusätzlich seit 06.11.2026) in publisher/queue.json, immer in dieser Reihenfolge; Facebook-Feed und beide Stories sofort, Instagram-Reel und Facebook-Reel 3 Stunden später (Nutzerwunsch vom 11.11.2026, Details in CLAUDE-Routine.md):
+Pro Meldung entstehen VIER Einträge (siehe CLAUDE-Routine.md; kein Instagram-Feed, Nutzerwunsch vom 04.11.2026; Facebook-Reel zusätzlich seit 06.11.2026; keine Facebook-Story mehr, Nutzerwunsch vom 13.11.2026) in publisher/queue.json, immer in dieser Reihenfolge; Facebook-Feed und Instagram-Story sofort, Instagram-Reel und Facebook-Reel 3 Stunden später (Nutzerwunsch vom 11.11.2026, Details in CLAUDE-Routine.md):
  1. Facebook-Feed: Foto mit Seitenlogo und FACEBOOK-TEXT.
  2. Instagram-Reel: dasselbe Musik-Video mit INSTAGRAM-TEXT.
- 3. Facebook-Story: Story-Video mit eingeblendetem Text, ohne Begleittext.
- 4. Instagram-Story: dasselbe Story-Video, ohne Begleittext.
- 5. Facebook-Reel: dasselbe Reel-Video (9:16, 1080x1920, 15 bis 90 s) mit FACEBOOK-TEXT (höchstens 3 Hashtags) und cover_url (einladendes Thumbnail, siehe CLAUDE-Routine.md).
-(Kein Instagram-Feed.)
+ 3. Instagram-Story: Story-Video mit eingeblendetem Text, ohne Begleittext.
+ 4. Facebook-Reel: dasselbe Reel-Video (9:16, 1080x1920, 15 bis 90 s) mit FACEBOOK-TEXT (höchstens 3 Hashtags) und cover_url (einladendes Thumbnail, siehe CLAUDE-Routine.md).
+(Kein Instagram-Feed, keine Facebook-Story.)
 
 Ablauf eines Laufs:
  1. Dublettenprüfung (Abschnitt 7).
@@ -122,4 +121,4 @@ Ziel: Reel und Story einer Meldung sind kurze Videos mit Hintergrundmusik aus de
 Alle Beitragstexte sind ausschließlich auf Arabisch. Keine französische oder englische Fassung.
 
 10. HASHTAG-LIMIT
-Facebook (Feed, Reel, Story) höchstens 3 Hashtags, Instagram (Feed, Reel, Story) höchstens 5 Hashtags, pro Beitrag insgesamt, auch im Video eingeblendete. Das Limit gilt vor allen anderen Hashtag-Angaben. Der Veröffentlicher lehnt Einträge mit zu vielen Hashtags in der caption ab.
+Facebook (Feed, Reel) höchstens 3 Hashtags, Instagram (Reel, Story) höchstens 5 Hashtags, pro Beitrag insgesamt, auch im Video eingeblendete. Das Limit gilt vor allen anderen Hashtag-Angaben. Der Veröffentlicher lehnt Einträge mit zu vielen Hashtags in der caption ab.

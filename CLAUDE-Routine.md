@@ -10,11 +10,11 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto "@saudifootballfutsal": 17841451577328406
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den Repo-Einstellungen dieses SA-Repos und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Fünf Einträge je Meldung (Nutzerwunsch vom 04.11.2026, ergänzt am 06.11.2026 um das Facebook-Reel; gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche quelle_url und titel; Feed und Stories sofort, beide Reels 3 Stunden später (siehe "Sofort veröffentlichen")
+## Vier Einträge je Meldung (Nutzerwunsch vom 04.11.2026, ergänzt am 06.11.2026 um das Facebook-Reel; Facebook-Story entfällt dauerhaft seit 13.11.2026; gilt für alle künftigen Läufe dieser Routine; Instagram-Feed entfällt dauerhaft), gleiche quelle_url und titel; Feed und Instagram-Story sofort, beide Reels 3 Stunden später (siehe "Sofort veröffentlichen")
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"`, `image_url` = gerendertes Feed-PNG aus PROMPT.md Abschnitt 5 (images/feed-…png auf main). Text FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags).
 2. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, `video_url` = Reel-Video, `cover_url` = Reel-Cover (siehe unten). Text INSTAGRAM-TEXT (genau 5 Hashtags).
-3. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
-4. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url` wie Facebook-Story, `caption` leer.
+3. Instagram-Story: `platform: "instagram"`, `type: "story"`, `video_url` = Story-Video mit Text, `caption` leer.
+4. Keine Facebook-Story (Nutzerwunsch vom 13.11.2026, dauerhaft): kein Eintrag `-fb-story` anlegen.
 5. Facebook-Reel (Nutzerwunsch vom 06.11.2026, dauerhaft): `platform: "facebook"`, `type: "reel"`, gleiche `video_url` wie das Instagram-Reel, `caption` = FACEBOOK-TEXT (Arabisch, höchstens 3 Hashtags). publish.py lädt es über video_reels hoch. Id-Suffix `-fb-reel`.
 6. Kein Instagram-Feed (Nutzerwunsch vom 04.11.2026, dauerhaft).
 
@@ -70,7 +70,7 @@ FACEBOOK-TEXT und INSTAGRAM-TEXT nur auf Arabisch. Die Frage am Ende des Faceboo
 Facebook-Feed-Fotos werden im Design "Saudi Kora News" mit make_feed_image.py erzeugt (PROMPT.md Abschnitt 5). Das Logo steht dort oben links. Videos tragen das Logo als eingeblendetes Bild oben links, 106 px breit.
 
 ## Video-Effekt (verbindlich)
-Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5. Das Foto gleitet ein und zoomt danach sanft rein und raus, das Logo wächst oben links, goldener Fortschrittsbalken unten.
+Instagram-Reel, Facebook-Reel und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5. Das Foto gleitet ein und zoomt danach sanft rein und raus, das Logo wächst oben links, goldener Fortschrittsbalken unten.
 
 ## Text im Video (verbindlich)
 - Reel und Stories zeigen im Video den arabischen Teil des FACEBOOK-TEXTS, ohne Hashtags, wortgetreu.
@@ -78,14 +78,14 @@ Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nac
 - Videolänge D = Anzahl Abschnitte x 3,0 s, mindestens 12 s, keine Obergrenze.
 - In den ffmpeg-Aufrufen überall D statt fester Werte verwenden (`-t D`, Farbbalken `d=D`, Fortschrittsbalken `t/D`, `atrim=0:D`, Ausblendung `st=D-2`). Startpunkt im Track: höchstens Tracklänge minus D minus 8 Sekunden.
 - Die Stories bekommen am Ende einen Call to Action von 4,5 s, falls D es erlaubt; er wird jedes Mal neu formuliert.
-- Reel, Facebook-Story und Instagram-Story nutzen pro Meldung dieselbe Musik und denselben Textablauf.
+- Reel (Instagram und Facebook) und Instagram-Story nutzen pro Meldung dieselbe Musik und denselben Textablauf.
 
 ## Reel-Cover (verbindlich, Design "Saudi Kora News")
 Das Cover des Instagram-Reels wird im Design erzeugt, 1080 x 1920 (Story-Layout): python3 make_feed_image.py --kind story --photo <foto.jpg> --title "<Schlagzeile>" --category "<Kategorie>" --out images/cover-<JJJJMMTT-HHMM>-<n>.png. Danach als JPG speichern (Pillow, Qualität 92) und die JPG-Datei als images/cover-<JJJJMMTT-HHMM>-<n>.jpg auf main pushen; per curl auf HTTP 200 prüfen. Der Eintrag bekommt cover_url mit dieser Adresse. publish.py reicht es an die Meta-API weiter.
 
 ## Formate je Plattform (verbindlich)
 - Facebook-Feed: Hochformat 4:5 (1080 x 1350, Empfehlung), quadratisch 1:1 (1080 x 1080) oder 1,91:1 (1200 x 630). Bilder JPG/PNG, Videos MP4/MOV, empfohlen 15 bis 30 s.
-- Facebook-Story und Facebook-Reel: 9:16 (Pflicht), 1080 x 1920 (bis 1440 x 2560), MP4 (H.264 + AAC), 24 bis 60 fps. Story max. 60 s, Facebook-Reel 15 bis 90 s: ist D unter 15 s, die Videolänge für das Reel auf 15 s anheben (Hinweis: Reel-Datei dann mit D = 15 bauen). Beschreibung höchstens 3 Hashtags. Bei Reels ist ein Link in der Beschreibung unzulässig. Wichtige Texte und Logos nicht ganz am oberen und unteren Rand.
+- Facebook-Reel: 9:16 (Pflicht), 1080 x 1920 (bis 1440 x 2560), MP4 (H.264 + AAC), 24 bis 60 fps. Facebook-Reel 15 bis 90 s: ist D unter 15 s, die Videolänge für das Reel auf 15 s anheben (Hinweis: Reel-Datei dann mit D = 15 bauen). Beschreibung höchstens 3 Hashtags. Bei Reels ist ein Link in der Beschreibung unzulässig. Wichtige Texte und Logos nicht ganz am oberen und unteren Rand.
 - Instagram-Story: 9:16, 1080 x 1920, bis 60 s insgesamt, Abschnitte je max. 15 s.
 - Instagram-Reel: 9:16, 1080 x 1920, 15 bis 90 s. Cover 9:16.
 - Format und Länge jedes Mediums mit ffprobe prüfen, bevor es in die Queue geht.
