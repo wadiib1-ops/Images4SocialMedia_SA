@@ -2058,9 +2058,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261113-1705-1.png",
     "caption": "الصحفي يسجل هدفه الدولي الأول أمام كوريا الجنوبية\n\nافتتح مروان الصحفي التسجيل للأخضر في ودية الدوحة. جاء الهدف في الدقيقة الأولى من الوقت بدل الضائع للشوط الأول، بعد تمريرة من عبدالله الحمدان، وتجاوز الحارس الكوري.\n\nوهو أول هدف دولي له في مشاركته السابعة عشرة مع المنتخب، وكان قد انضم إلى الأخضر أول مرة في يونيو 2024 مع مانشيني.\n\nويلتقي الأخضر أوزبكستان في الدوحة يوم الثلاثاء المقبل.\n\nكيف تقيّمون أداء الصحفي في هذه المباراة؟\n\n#المنتخب_السعودي #الأخضر #مروان_الصحفي",
-    "status": "now",
+    "status": "published",
     "titel": "الصحفي يسجل هدفه الدولي الأول أمام كوريا الجنوبية",
-    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/بعد-عامين-ونصف-هدية-مانشيني-تبدأ-العمل-في-المنتخب-السعودي/blt1b6c4b438790712c"
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/بعد-عامين-ونصف-هدية-مانشيني-تبدأ-العمل-في-المنتخب-السعودي/blt1b6c4b438790712c",
+    "meta_id": "122105910135541897",
+    "published_at": "2026-11-13T16:14:02.138813+00:00"
   },
   {
     "id": "20261113-1705-1-ig-reel",
@@ -2080,9 +2082,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-1705-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "الصحفي يسجل هدفه الدولي الأول أمام كوريا الجنوبية",
-    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/بعد-عامين-ونصف-هدية-مانشيني-تبدأ-العمل-في-المنتخب-السعودي/blt1b6c4b438790712c"
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/بعد-عامين-ونصف-هدية-مانشيني-تبدأ-العمل-في-المنتخب-السعودي/blt1b6c4b438790712c",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"
   },
   {
     "id": "20261113-1705-1-fb-reel",
@@ -2102,9 +2105,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261113-1705-2.png",
     "caption": "العويس يتصدر التسلسل القيادي للأخضر في غياب الدوسري\n\nيرتدي حارس المرمى محمد العويس شارة القيادة قبل ودية كوريا الجنوبية، وذلك لخبرته الدولية الكبيرة ومسيرته الطويلة مع المنتخب.\n\nويأتي بعده لاعب الوسط محمد كنو إذا لم يشارك العويس، ثم الظهير الأيمن سعود عبدالحميد، وبعدهم قلب الدفاع عبدالإله العمري.\n\nوجاء هذا الترتيب لتعويض غياب القائد الأول سالم الدوسري.\n\nهل ترون العويس الخيار الأنسب لحمل الشارة؟\n\n#المنتخب_السعودي #الأخضر #محمد_العويس",
-    "status": "now",
+    "status": "published",
     "titel": "العويس يتصدر التسلسل القيادي للأخضر في غياب الدوسري",
-    "quelle_url": "https://www.sportksa.net/main/archives/508102"
+    "quelle_url": "https://www.sportksa.net/main/archives/508102",
+    "meta_id": "122105910375541897",
+    "published_at": "2026-11-13T16:14:02.138813+00:00"
   },
   {
     "id": "20261113-1705-2-ig-reel",
@@ -2124,9 +2129,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261113-1705-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "العويس يتصدر التسلسل القيادي للأخضر في غياب الدوسري",
-    "quelle_url": "https://www.sportksa.net/main/archives/508102"
+    "quelle_url": "https://www.sportksa.net/main/archives/508102",
+    "meta_id": "18075699464726689",
+    "published_at": "2026-11-13T16:14:02.138813+00:00"
   },
   {
     "id": "20261113-1705-2-fb-reel",
