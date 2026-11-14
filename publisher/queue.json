@@ -2570,5 +2570,49 @@
     "publish_at": "2026-11-14T09:52:00+01:00",
     "titel": "مكتشف ياسر القحطاني يروي قصة اختياره الهلال",
     "quelle_url": "https://www.goal.com/ar-sa/blt4ee964ef94f26d41"
+  },
+  {
+    "id": "20261114-0845-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261114-0845-1.png",
+    "caption": "بونو حارس الهلال يخوض مباراته الدولية المئة مع المغرب\n\nجاء ذلك في فوز المغرب على النيجر بخمسة أهداف مقابل هدف في الدار البيضاء، ضمن تصفيات كأس الأمم الأفريقية.\n\nوقال بونو إنه لم يتخيل أن يصل إلى هذا الرقم، ووصف أشرف حكيمي بأنه الأفضل في تاريخ المنتخب المغربي. وانضم بونو بذلك إلى نايبت وحكيمي في قائمة أصحاب المئة مباراة فأكثر.\n\nهل يستحق بونو لقب أفضل حارس في تاريخ المغرب؟\n\n#الهلال #بونو #دوري_روشن",
+    "status": "now",
+    "titel": "بونو يخوض مباراته الدولية المئة مع المغرب",
+    "quelle_url": "https://ajel.sa/sports/kqj1nrx0s"
+  },
+  {
+    "id": "20261114-0845-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261114-0845-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261114-0845-1.jpg",
+    "caption": "مئة مباراة وما زال الحارس واقفاً بثبات 🧤\n\nبونو نجم الهلال يصل إلى الرقم مئة مع منتخب المغرب في ليلة فوز كبير على النيجر. ليلة خاصة في مسيرة حارس صنع تاريخاً مع الأطلس ⭐\n\nوفي حديثه أشاد بحكيمي واعتبره الأفضل في تاريخ بلاده 👏\n\n#الهلال #بونو #المغرب #دوري_روشن #كرة_القدم",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T11:49:00+01:00",
+    "titel": "بونو يخوض مباراته الدولية المئة مع المغرب",
+    "quelle_url": "https://ajel.sa/sports/kqj1nrx0s"
+  },
+  {
+    "id": "20261114-0845-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261114-0845-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بونو يخوض مباراته الدولية المئة مع المغرب",
+    "quelle_url": "https://ajel.sa/sports/kqj1nrx0s"
+  },
+  {
+    "id": "20261114-0845-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261114-0845-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261114-0845-1.jpg",
+    "caption": "بونو حارس الهلال يخوض مباراته الدولية المئة مع المغرب\n\nجاء ذلك في فوز المغرب على النيجر بخمسة أهداف مقابل هدف في الدار البيضاء، ضمن تصفيات كأس الأمم الأفريقية.\n\nهل يستحق بونو لقب أفضل حارس في تاريخ المغرب؟\n\n#الهلال #بونو #دوري_روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-14T11:49:00+01:00",
+    "titel": "بونو يخوض مباراته الدولية المئة مع المغرب",
+    "quelle_url": "https://ajel.sa/sports/kqj1nrx0s"
   }
 ]
