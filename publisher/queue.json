@@ -2481,9 +2481,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261114-0650-1.png",
     "caption": "لايبزيج: لم يصلنا عرض من الاتحاد لضم كوني\n\nأكد متحدث لايبزيج أن النادي لم يتلق أي عرض رسمي من الاتحاد.\n\nارتبط اسم المدافع عبدول كوني، 21 عامًا، بالاتحاد في الميركاتو الشتوي. جاء ذلك بعد طلب المدرب ينز فيسينج مدافعًا جديدًا.\n\nوأوضح المتحدث أن النادي سيدرس أي عرض يصل. وقد يوافق على رحيل اللاعب إذا توفر البديل المناسب.\n\nهل يحتاج الاتحاد إلى مدافع جديد في الميركاتو الشتوي؟\n\n#الاتحاد #دوري_روشن #الميركاتو",
-    "status": "now",
+    "status": "published",
     "titel": "لايبزيج: لم يصلنا عرض من الاتحاد لضم كوني",
-    "quelle_url": "https://www.goal.com/ar-sa/blt5ea718368b93771b"
+    "quelle_url": "https://www.goal.com/ar-sa/blt5ea718368b93771b",
+    "meta_id": "122106426297541897",
+    "published_at": "2026-11-14T05:53:07.536233+00:00"
   },
   {
     "id": "20261114-0650-1-ig-reel",
@@ -2503,9 +2505,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261114-0650-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "لايبزيج: لم يصلنا عرض من الاتحاد لضم كوني",
-    "quelle_url": "https://www.goal.com/ar-sa/blt5ea718368b93771b"
+    "quelle_url": "https://www.goal.com/ar-sa/blt5ea718368b93771b",
+    "meta_id": "18134779108758517",
+    "published_at": "2026-11-14T05:53:07.536233+00:00"
   },
   {
     "id": "20261114-0650-1-fb-reel",
@@ -2525,9 +2529,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261114-0650-2.png",
     "caption": "مكتشف ياسر القحطاني يروي قصة اختياره الهلال\n\nتحدث المدرب حمد الدوسري عن اكتشاف ياسر القحطاني في القادسية.\n\nدربه الدوسري نحو عام حين كان اللاعب يقترب من السابعة عشرة. وعرض عليه الاتفاق خمسين ألف ريال عندما كان ناشئًا.\n\nونصحه الدوسري بالهلال لأن أسلوبه القائم على الاستحواذ يناسبه. وقال إن ذلك سيساعده على الوصول إلى المنتخب.\n\nهل كان الهلال الاختيار الأنسب لمسيرة القحطاني؟\n\n#الهلال #القحطاني #الدوري_السعودي",
-    "status": "now",
+    "status": "published",
     "titel": "مكتشف ياسر القحطاني يروي قصة اختياره الهلال",
-    "quelle_url": "https://www.goal.com/ar-sa/blt4ee964ef94f26d41"
+    "quelle_url": "https://www.goal.com/ar-sa/blt4ee964ef94f26d41",
+    "meta_id": "122106426669541897",
+    "published_at": "2026-11-14T05:53:07.536233+00:00"
   },
   {
     "id": "20261114-0650-2-ig-reel",
@@ -2547,9 +2553,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261114-0650-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مكتشف ياسر القحطاني يروي قصة اختياره الهلال",
-    "quelle_url": "https://www.goal.com/ar-sa/blt4ee964ef94f26d41"
+    "quelle_url": "https://www.goal.com/ar-sa/blt4ee964ef94f26d41",
+    "meta_id": "18214334059366776",
+    "published_at": "2026-11-14T05:53:07.536233+00:00"
   },
   {
     "id": "20261114-0650-2-fb-reel",
