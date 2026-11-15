@@ -3358,5 +3358,49 @@
     "quelle_url": "https://www.sportksa.net/main/archives/508123",
     "meta_id": "1231122829474513",
     "published_at": "2026-11-15T00:57:13.401183+00:00"
+  },
+  {
+    "id": "20261115-0900-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261115-0900-1.png",
+    "caption": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان\n\nيستأنف المنتخب السعودي تدريباته مساء اليوم على ملعب الإرسال في الدوحة، وتأتي الحصة مغلقة أمام الإعلام.\n\nوكان المدرب دونيس قد منح اللاعبين راحة وجولة حرة في المدينة بعد الفوز على كوريا الجنوبية.\n\nوينتظر الأخضر مواجهة أوزبكستان الثلاثاء على ملعب خليفة بن حمد، وهي آخر مباريات المعسكر.\n\nكيف ترون جاهزية الأخضر للمباراة الأخيرة في المعسكر؟\n\n#الأخضر #المنتخب_السعودي #السعودية",
+    "status": "now",
+    "titel": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان",
+    "quelle_url": "https://ajel.sa/sports/95c9wqs9s"
+  },
+  {
+    "id": "20261115-0900-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-0900-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261115-0900-1.jpg",
+    "caption": "الأخضر يعود إلى الملعب في الدوحة 🏟️\n\nبعد راحة وجولة حرة منحها المدرب دونيس للاعبين عقب الفوز على كوريا الجنوبية، يستأنف المنتخب السعودي تدريباته على ملعب الإرسال ⚽\n\nوتبقى مواجهة أوزبكستان يوم الثلاثاء على ملعب خليفة بن حمد، آخر محطات المعسكر\n\nمن تتوقعون أن يكون الأبرز في المباراة؟ 💬\n\n#الأخضر #المنتخب_السعودي #دونيس #أوزبكستان #كرة_القدم",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T11:50:00+01:00",
+    "titel": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان",
+    "quelle_url": "https://ajel.sa/sports/95c9wqs9s"
+  },
+  {
+    "id": "20261115-0900-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-0900-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان",
+    "quelle_url": "https://ajel.sa/sports/95c9wqs9s"
+  },
+  {
+    "id": "20261115-0900-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-0900-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261115-0900-1.jpg",
+    "caption": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان\n\nيستأنف المنتخب السعودي تدريباته مساء اليوم على ملعب الإرسال في الدوحة، وتأتي الحصة مغلقة أمام الإعلام.\n\nوكان المدرب دونيس قد منح اللاعبين راحة وجولة حرة في المدينة بعد الفوز على كوريا الجنوبية.\n\nوينتظر الأخضر مواجهة أوزبكستان الثلاثاء على ملعب خليفة بن حمد، وهي آخر مباريات المعسكر.\n\nكيف ترون جاهزية الأخضر للمباراة الأخيرة في المعسكر؟\n\n#الأخضر #المنتخب_السعودي #السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T11:50:00+01:00",
+    "titel": "الأخضر يستأنف تدريباته في الدوحة قبل ودية أوزبكستان",
+    "quelle_url": "https://ajel.sa/sports/95c9wqs9s"
   }
 ]
