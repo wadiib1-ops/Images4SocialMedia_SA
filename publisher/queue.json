@@ -3617,9 +3617,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261115-1645-1.png",
     "caption": "كشف المدرب الفرنسي رودي غارسيا عن انضباط رونالدو في النصر.\n\nوقال لموقع ذا أتلتيك إن العمل مع رونالدو كان سهلًا رغم شهرته.\n\nووصفه بأنه أول الحاضرين إلى التدريب وآخر المغادرين.\n\nوأضاف أنه كان يحتفل بالمسابقات الصغيرة في التدريبات بحماس كبير.\n\nما الصفة الأبرز التي تميز رونالدو في نظرك؟\n\n#النصر #رونالدو #دوري_روشن",
-    "status": "now",
+    "status": "published",
     "titel": "غارسيا: رونالدو أول الحاضرين وآخر المغادرين",
-    "quelle_url": "https://ajel.sa/sports/ibwypx26w"
+    "quelle_url": "https://ajel.sa/sports/ibwypx26w",
+    "meta_id": "122107967553541897",
+    "published_at": "2026-11-15T15:51:12.868644+00:00"
   },
   {
     "id": "20261115-1645-1-ig-reel",
@@ -3639,9 +3641,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-1645-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "غارسيا: رونالدو أول الحاضرين وآخر المغادرين",
-    "quelle_url": "https://ajel.sa/sports/ibwypx26w"
+    "quelle_url": "https://ajel.sa/sports/ibwypx26w",
+    "meta_id": "17911419411597302",
+    "published_at": "2026-11-15T15:51:12.868644+00:00"
   },
   {
     "id": "20261115-1645-1-fb-reel",
@@ -3661,9 +3665,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261115-1645-2.png",
     "caption": "تغلب الفتح على الجيل وديًا بهدف دون رد.\n\nسجل الهدف الوحيد لاعب الوسط فيصل العبدالواحد.\n\nومنح المدرب المغربي جمال السلامي الفرصة لعدد كبير من اللاعبين لاختبار جاهزيتهم.\n\nويلاقي الفتح الخليج وديًا الخميس ثم الرياض في روشن.\n\nهل يدخل الفتح مواجهة الرياض بجاهزية كافية؟\n\n#الفتح #دوري_روشن #الكرة_السعودية",
-    "status": "now",
+    "status": "published",
     "titel": "الفتح يتغلب على الجيل وديًا قبل استئناف روشن",
-    "quelle_url": "https://arriyadiyah.com/904855/الفتح-يكسب-تجربة-الجيل"
+    "quelle_url": "https://arriyadiyah.com/904855/الفتح-يكسب-تجربة-الجيل",
+    "meta_id": "122107978521541897",
+    "published_at": "2026-11-15T15:51:12.868644+00:00"
   },
   {
     "id": "20261115-1645-2-ig-reel",
@@ -3683,9 +3689,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-1645-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفتح يتغلب على الجيل وديًا قبل استئناف روشن",
-    "quelle_url": "https://arriyadiyah.com/904855/الفتح-يكسب-تجربة-الجيل"
+    "quelle_url": "https://arriyadiyah.com/904855/الفتح-يكسب-تجربة-الجيل",
+    "meta_id": "17893838493454441",
+    "published_at": "2026-11-15T15:51:12.868644+00:00"
   },
   {
     "id": "20261115-1645-2-fb-reel",
