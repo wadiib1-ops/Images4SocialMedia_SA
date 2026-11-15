@@ -3914,5 +3914,49 @@
     "publish_at": "2026-11-15T23:55:00+01:00",
     "titel": "الاتحاد الآسيوي يحتفي بمهارة غونسالفيس",
     "quelle_url": "https://www.akhbaar24.com/سبورت-24/الكرة-السعودية/الاتحاد-الآسيوي-يحتفي-بمهارة-غونسالفيس-775843"
+  },
+  {
+    "id": "20261115-2300-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261115-2300-1.png",
+    "caption": "واصل الفريق الأول لنادي الخليج استعداداته في القطيف قبل المباراة الودية أمام الفتح المقررة في التاسع عشر من نوفمبر.\n\nأدى اللاعبون حصة تدريبية على الملعب الفرعي لمدينة الأمير نايف بن عبدالعزيز الرياضية بحضور رئيس النادي أحمد أخريدة.\n\nبدأت الحصة بتمارين اللياقة في صالة الأثقال بأربع مجموعات، ثم قاد المدرب جوزيه غوميز تدريبات تكتيكية على أرض الملعب شملت عدة جمل في الكرات الثابتة، واختتمت بمناورة على جزء من الملعب.\n\nهل يظهر الخليج بصورة أفضل في الودية أمام الفتح؟\n\n#الخليج #دوري_روشن #الفتح",
+    "status": "now",
+    "titel": "الخليج يواصل استعداداته في القطيف قبل ودية الفتح",
+    "quelle_url": "https://www.sportksa.net/main/archives/508152"
+  },
+  {
+    "id": "20261115-2300-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-2300-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261115-2300-1.jpg",
+    "caption": "الخليج يدخل أجواء الودية مبكرًا ⚽\n\nفي القطيف أنهى الفريق حصة جمعت بين اللياقة في صالة الأثقال والتكتيك على أرض الملعب 💪 بقيادة المدرب جوزيه غوميز وبحضور رئيس النادي أحمد أخريدة 🔥\n\nوتركزت الجمل التدريبية على الكرات الثابتة، قبل لقاء الفتح الودي في التاسع عشر من نوفمبر 🏟️\n\nما رأيكم في جاهزية الخليج؟\n\n#الخليج #دوري_روشن #الفتح #القطيف #كرة_القدم_السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-16T01:48:00+01:00",
+    "titel": "الخليج يواصل استعداداته في القطيف قبل ودية الفتح",
+    "quelle_url": "https://www.sportksa.net/main/archives/508152"
+  },
+  {
+    "id": "20261115-2300-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-2300-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الخليج يواصل استعداداته في القطيف قبل ودية الفتح",
+    "quelle_url": "https://www.sportksa.net/main/archives/508152"
+  },
+  {
+    "id": "20261115-2300-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261115-2300-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261115-2300-1.jpg",
+    "caption": "واصل الفريق الأول لنادي الخليج استعداداته في القطيف قبل المباراة الودية أمام الفتح المقررة في التاسع عشر من نوفمبر.\n\nأدى اللاعبون حصة تدريبية على الملعب الفرعي لمدينة الأمير نايف بن عبدالعزيز الرياضية بحضور رئيس النادي أحمد أخريدة.\n\nهل يظهر الخليج بصورة أفضل في الودية أمام الفتح؟\n\n#الخليج #دوري_روشن #الفتح",
+    "status": "scheduled",
+    "publish_at": "2026-11-16T01:48:00+01:00",
+    "titel": "الخليج يواصل استعداداته في القطيف قبل ودية الفتح",
+    "quelle_url": "https://www.sportksa.net/main/archives/508152"
   }
 ]
