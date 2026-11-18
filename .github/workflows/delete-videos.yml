@@ -1,4 +1,4 @@
-name: MP4 Videos automatisch loeschen (aelter als 24 Stunden)
+name: Videos und Bilder automatisch loeschen (aelter als 24 Stunden)
 
 on:
   schedule:
