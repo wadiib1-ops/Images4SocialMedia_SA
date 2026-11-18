@@ -1,0 +1,144 @@
+name: MP4 Videos automatisch loeschen (aelter als 24 Stunden)
+
+on:
+  schedule:
+    # Nutzerwunsch 10.11.2026: nur 2x täglich, um 02:30 und 05:25 Berliner Zeit.
+    # GitHub-Cron rechnet in UTC: Winter (MEZ, UTC+1) 01:30 und 04:25 UTC, Sommer (MESZ, UTC+2) 00:30 und 03:25 UTC.
+    # Der Schritt "Uhrzeit pruefen" laesst nur die zur aktuellen Jahreszeit passenden Eintraege arbeiten.
+    - cron: '30 1 * * *'
+    - cron: '25 4 * * *'
+    - cron: '30 0 * * *'
+    - cron: '25 3 * * *'
+  workflow_dispatch: # Erlaubt es, den Job jederzeit manuell zu starten
+
+concurrency:
+  group: video-out
+  cancel-in-progress: false
+
+# WICHTIG: Videos: nur *.mp4 auf dem Branch video-out. Bilder (Nutzerwunsch 18.11.2026): nur images/*.jpg und images/*.png
+# auf main, aelter als 24 Stunden. Geschuetzt: images/logo-neu.png, alle Dateien OHNE 8-stelliges Datum im Namen
+# (z. B. Laenderbilder, Turnierlogo) und Bilder, auf die ein noch offener Queue-Eintrag (scheduled/now) zeigt.
+# Die Musik-Tracks (Video/*.mp3 auf main) und alles andere auf main werden nie angefasst.
+
+jobs:
+  cleanup-videos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Uhrzeit pruefen (nur 02:30 und 05:25 Berliner Zeit)
+      id: zeit
+      env:
+        CRON: ${{ github.event.schedule }}
+      run: |
+        if [ -z "$CRON" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; echo "Manueller Start"; exit 0; fi
+        if [ "$(TZ=Europe/Berlin date +%z)" = "+0200" ]; then OK="30 0 * * *|25 3 * * *"; else OK="30 1 * * *|25 4 * * *"; fi
+        if [ "$CRON" = "${OK%%|*}" ] || [ "$CRON" = "${OK##*|}" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; echo "Zeitplan '$CRON' gilt nicht in dieser Jahreszeit, uebersprungen"; fi
+
+    - name: Branch video-out auschecken
+      if: steps.zeit.outputs.run == 'true'
+      uses: actions/checkout@v4
+      with:
+        ref: video-out
+        fetch-depth: 0
+
+    - name: Noch geplante Videos aus der Warteschlange lesen (werden nicht geloescht)
+      if: steps.zeit.outputs.run == 'true'
+      run: |
+        git fetch -q origin main
+        git show origin/main:publisher/queue.json | python3 -c "import json,sys; [print(e['video_url'].rsplit('/',1)[-1]) for e in json.load(sys.stdin) if e.get('status') in ('scheduled','now') and 'video-out/' in (e.get('video_url') or '')]" | sort -u > /tmp/keep.txt
+        echo "Geschuetzt (noch nicht veroeffentlicht):"; cat /tmp/keep.txt
+
+    - name: MP4 Dateien aelter als 24 Stunden loeschen und protokollieren
+      if: steps.zeit.outputs.run == 'true'
+      run: |
+        export TZ="Europe/Berlin"
+        LOG_FILE="cleanup_history.log"
+        LIMIT=$(( $(date +%s) - 24*3600 ))
+        : > deleted_files.txt
+
+        # Alter nach dem Zeitpunkt des letzten Commits der Datei (die Datei-Zeit nach dem Checkout ist immer "jetzt")
+        git ls-files '*.mp4' | while IFS= read -r file; do
+          ts=$(git log -1 --format=%ct -- "$file")
+          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ] && ! grep -qxF "$file" /tmp/keep.txt; then
+            echo "$file" >> deleted_files.txt
+          fi
+        done
+
+        if [ -s deleted_files.txt ]; then
+          echo "[$(date '+%d.%m.%Y %H:%M:%S')] Folgende Dateien wurden gelöscht:" >> "$LOG_FILE"
+          while IFS= read -r file; do
+            echo "  - $file" >> "$LOG_FILE"
+            git rm -q -- "$file"
+          done < deleted_files.txt
+          echo "--------------------------------------------------" >> "$LOG_FILE"
+        else
+          echo "Keine veralteten Dateien zum Löschen gefunden."
+        fi
+        rm -f deleted_files.txt
+
+    - name: Aenderungen hochladen
+      if: steps.zeit.outputs.run == 'true'
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "System: MP4-Dateien älter als 24 Stunden entfernt"
+          # Bei Ablehnung (gleichzeitiger Push der Routine) neu holen, rebasen und bis zu 3x wiederholen
+          for i in 1 2 3; do
+            git push origin HEAD:video-out && exit 0
+            sleep $((i*10)); git pull --rebase origin video-out || true
+          done
+          echo "::error::Push nach video-out nach 3 Versuchen abgelehnt"; exit 1
+        else
+          echo "Keine Änderungen."
+        fi
+
+    - name: Branch main auschecken (Bilder)
+      if: steps.zeit.outputs.run == 'true'
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        path: main-wt
+        fetch-depth: 0
+
+    - name: Bilder in images/ aelter als 24 Stunden loeschen
+      if: steps.zeit.outputs.run == 'true'
+      working-directory: main-wt
+      run: |
+        LIMIT=$(( $(date +%s) - 24*3600 ))
+        # Noch nicht veroeffentlichte Eintraege schuetzen (image_url und cover_url)
+        python3 -c "import json; [print((e.get(k) or '').rsplit('/',1)[-1]) for e in json.load(open('publisher/queue.json')) if e.get('status') in ('scheduled','now') for k in ('image_url','cover_url')]" | sort -u > /tmp/keep-img.txt
+        echo "Geschuetzte Bilder:"; cat /tmp/keep-img.txt
+        : > /tmp/del-img.txt
+        git ls-files 'images/*.jpg' 'images/*.png' | while IFS= read -r file; do
+          name=$(basename "$file")
+          [ "$name" = "logo-neu.png" ] && continue
+          echo "$name" | grep -Eq '[0-9]{8}' || continue
+          grep -qxF "$name" /tmp/keep-img.txt && continue
+          ts=$(git log -1 --format=%ct -- "$file")
+          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ]; then echo "$file" >> /tmp/del-img.txt; fi
+        done
+        echo "Zu loeschen: $(wc -l < /tmp/del-img.txt) Bilder"
+        if [ -s /tmp/del-img.txt ]; then
+          xargs -d '\n' git rm -q -- < /tmp/del-img.txt
+        fi
+
+    - name: Bild-Aenderungen nach main hochladen
+      if: steps.zeit.outputs.run == 'true'
+      working-directory: main-wt
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        if ! git diff --staged --quiet; then
+          git commit -m "System: Bilder in images/ älter als 24 Stunden entfernt"
+          for i in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            sleep $((i*10)); git pull --rebase origin main || true
+          done
+          echo "::error::Push nach main nach 3 Versuchen abgelehnt"; exit 1
+        else
+          echo "Keine Bilder zu loeschen."
+        fi
