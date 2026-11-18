@@ -5549,9 +5549,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261118-0650-1.png",
     "caption": "توتر في الأهلي قبل قمة النصر\n\nتشير تقارير إلى مواجهة كلامية بين بوسيتش وعدد من اللاعبين.\n\nوغادر المدرب التدريب بعد نقاش حول خياراته الفنية.\n\nوبحسب التقارير، شعر بعض اللاعبين بالتهميش، واعتقدوا أن بوندارينكو يحظى باهتمام خاص من المدرب.\n\nوتفيد التقارير بأن لدى الإدارة بديلًا جاهزًا للمدرب، وقد يكون التغيير في نهاية ديسمبر أو مطلع يناير.\n\nهل ينجح الأهلي في تجاوز الأزمة قبل مواجهة النصر؟\n\n#الأهلي #دوري_روشن #بوسيتش",
-    "status": "now",
+    "status": "published",
     "titel": "توتر في الأهلي قبل قمة النصر",
-    "quelle_url": "https://www.sportksa.net/main/archives/508183"
+    "quelle_url": "https://www.sportksa.net/main/archives/508183",
+    "meta_id": "122109799791541897",
+    "published_at": "2026-11-18T05:53:34.946607+00:00"
   },
   {
     "id": "20261118-0650-1-ig-reel",
@@ -5571,9 +5573,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261118-0650-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "توتر في الأهلي قبل قمة النصر",
-    "quelle_url": "https://www.sportksa.net/main/archives/508183"
+    "quelle_url": "https://www.sportksa.net/main/archives/508183",
+    "meta_id": "18355253038267261",
+    "published_at": "2026-11-18T05:53:34.946607+00:00"
   },
   {
     "id": "20261118-0650-1-fb-reel",
@@ -5593,9 +5597,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261118-0650-2.png",
     "caption": "أخضر الشاطئية يستعد لمواجهة الإمارات\n\nيواصل المنتخب السعودي للكرة الشاطئية تحضيراته في تايلاند.\n\nويستعد لمباراة الافتتاح أمام الإمارات يوم الخميس، وذلك ضمن كأس آسيا للكرة الشاطئية 2026.\n\nوضمت الحصة تمارين بدنية ثم عملًا فنيًا وتكتيكيًا.\n\nوتضم مجموعته الإمارات وعُمان وأوزبكستان.\n\nهل يبدأ الأخضر مشواره بفوز على الإمارات؟\n\n#الأخضر #الكرة_الشاطئية #كأس_آسيا",
-    "status": "now",
+    "status": "published",
     "titel": "أخضر الشاطئية يستعد لمواجهة الإمارات",
-    "quelle_url": "https://ajel.sa/sports/ncj5dabir"
+    "quelle_url": "https://ajel.sa/sports/ncj5dabir",
+    "meta_id": "122109800133541897",
+    "published_at": "2026-11-18T05:53:34.946607+00:00"
   },
   {
     "id": "20261118-0650-2-ig-reel",
@@ -5615,9 +5621,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261118-0650-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أخضر الشاطئية يستعد لمواجهة الإمارات",
-    "quelle_url": "https://ajel.sa/sports/ncj5dabir"
+    "quelle_url": "https://ajel.sa/sports/ncj5dabir",
+    "meta_id": "17919497409467849",
+    "published_at": "2026-11-18T05:53:34.946607+00:00"
   },
   {
     "id": "20261118-0650-2-fb-reel",
