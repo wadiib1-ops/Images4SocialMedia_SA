@@ -6381,9 +6381,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261119-0650-1.png",
     "caption": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم\n\nيبدأ المنتخب السعودي تحت 17 عامًا مشواره في كأس العالم للناشئين اليوم.\n\nيلاقي الأوروغواي عند الخامسة مساءً بتوقيت السعودية.\n\nتقام المباراة على ملعب 5 في أكاديمية أسباير بالدوحة.\n\nوهي الجولة الأولى من المجموعة الرابعة مع فرنسا وهايتي.\n\nأشرف المدرب أحمد الحنفوش على المران الأخير للفريق.\n\nوشمل تمارين بدنية وتكتيكية وتدريبات على الكرات الثابتة.\n\nهل ينجح الأخضر في تحقيق بداية إيجابية أمام الأوروغواي؟\n\n#الأخضر #كأس_العالم_للناشئين",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم",
-    "quelle_url": "https://ajel.sa/sports/gv7klwqrs"
+    "quelle_url": "https://ajel.sa/sports/gv7klwqrs",
+    "meta_id": "122110324125541897",
+    "published_at": "2026-11-19T05:50:27.905986+00:00"
   },
   {
     "id": "20261119-0650-1-ig-reel",
@@ -6403,9 +6405,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261119-0650-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم",
-    "quelle_url": "https://ajel.sa/sports/gv7klwqrs"
+    "quelle_url": "https://ajel.sa/sports/gv7klwqrs",
+    "meta_id": "18201741841383428",
+    "published_at": "2026-11-19T05:50:27.905986+00:00"
   },
   {
     "id": "20261119-0650-1-fb-reel",
