@@ -6394,10 +6394,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261119-0650-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261119-0650-1.jpg",
     "caption": "صقور المستقبل تدخل المونديال اليوم 🌟\n\nالأخضر تحت 17 عامًا يفتتح مشواره في كأس العالم بمواجهة الأوروغواي، والصافرة عند الخامسة مساءً بتوقيت السعودية ⏰\n\nالمباراة على ملعب 5 في أكاديمية أسباير بالدوحة، ضمن مجموعة تضم فرنسا وهايتي ⚽\n\nالمدرب أحمد الحنفوش أنهى التحضيرات بمران ركز على الجانب البدني والتكتيك والكرات الثابتة 💪\n\nكيف تتوقعون بداية الأخضر؟\n\n#الأخضر #كأس_العالم_للناشئين #المنتخب_السعودي #السعودية #كرة_القدم",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T09:49:00+01:00",
     "titel": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم",
-    "quelle_url": "https://ajel.sa/sports/gv7klwqrs"
+    "quelle_url": "https://ajel.sa/sports/gv7klwqrs",
+    "meta_id": "17888903895623282",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-0650-1-ig-story",
@@ -6418,10 +6420,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261119-0650-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261119-0650-1.jpg",
     "caption": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم\n\nيبدأ المنتخب السعودي تحت 17 عامًا مشواره في كأس العالم للناشئين اليوم.\n\nيلاقي الأوروغواي عند الخامسة مساءً بتوقيت السعودية.\n\nتقام المباراة على ملعب 5 في أكاديمية أسباير بالدوحة.\n\nوهي الجولة الأولى من المجموعة الرابعة مع فرنسا وهايتي.\n\nأشرف المدرب أحمد الحنفوش على المران الأخير للفريق.\n\nوشمل تمارين بدنية وتكتيكية وتدريبات على الكرات الثابتة.\n\nهل ينجح الأخضر في تحقيق بداية إيجابية أمام الأوروغواي؟\n\n#الأخضر #كأس_العالم_للناشئين",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T09:49:00+01:00",
     "titel": "الأخضر تحت 17 عامًا يواجه الأوروغواي في مستهل كأس العالم",
-    "quelle_url": "https://ajel.sa/sports/gv7klwqrs"
+    "quelle_url": "https://ajel.sa/sports/gv7klwqrs",
+    "meta_id": "1633995264307046",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-0900-1-fb-feed",
@@ -6477,9 +6481,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261119-1045-1.png",
     "caption": "اختتام الجزء الثالث من دورة المدربين المحترفين\n\nأنهى الاتحاد السعودي لكرة القدم الجزء الثالث من دورة المدربين PRO للرخصة الآسيوية بمشاركة أربعة وعشرين مدربًا وطنيًا في الرياض.\n\nقدّم المحاضر الفرنسي فرانك ثيفلر برامج تدريبية متخصصة عبر محاضرات واختبارات نظرية وتطبيقية، ويرى أن المستوى الفني للدارسين في تصاعد.\n\nكيف ترون أثر هذه الدورات في تطوير المدرب السعودي؟\n\n#الاتحاد_السعودي #كرة_القدم #المدربين",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الثالث من دورة المدربين المحترفين PRO",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4494"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4494",
+    "meta_id": "122110422093541897",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-1045-1-ig-reel",
@@ -6499,9 +6505,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261119-1045-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اختتام الجزء الثالث من دورة المدربين المحترفين PRO",
-    "quelle_url": "https://www.saff.com.sa/news.php?id=4494"
+    "quelle_url": "https://www.saff.com.sa/news.php?id=4494",
+    "meta_id": "17942330499400983",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-1045-1-fb-reel",
@@ -6521,9 +6529,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261119-1045-2.png",
     "caption": "القناة الناقلة لقمة الأهلي والنصر\n\nيلتقي الأهلي والنصر في دوري روشن يوم الجمعة، وتنطلق المباراة في الثامنة والنصف مساءً بتوقيت السعودية على ملعب الإنماء.\n\nتنقل المباراة عبر قنوات ثمانية، ويعلّق عليها سعد يحيى ومشاري القرني، كما يمكن متابعتها عبر تطبيق ثمانية على الهاتف.\n\nمن تتوقعون أن يحسم القمة لمصلحته؟\n\n#دوري_روشن #الأهلي #النصر",
-    "status": "now",
+    "status": "published",
     "titel": "القناة الناقلة لقمة الأهلي والنصر",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/ما-القنوات-الناقلة-لمباراة-الأهلي-والنصر-في-دوري-روشن-السعودي-2026-2027-وكيف-تشاهدها-عبر-الإنترنت/blt17f843138a00b4a9"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/ما-القنوات-الناقلة-لمباراة-الأهلي-والنصر-في-دوري-روشن-السعودي-2026-2027-وكيف-تشاهدها-عبر-الإنترنت/blt17f843138a00b4a9",
+    "meta_id": "122110422537541897",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-1045-2-ig-reel",
@@ -6543,9 +6553,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261119-1045-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "القناة الناقلة لقمة الأهلي والنصر",
-    "quelle_url": "https://www.goal.com/ar-sa/أخبار/ما-القنوات-الناقلة-لمباراة-الأهلي-والنصر-في-دوري-روشن-السعودي-2026-2027-وكيف-تشاهدها-عبر-الإنترنت/blt17f843138a00b4a9"
+    "quelle_url": "https://www.goal.com/ar-sa/أخبار/ما-القنوات-الناقلة-لمباراة-الأهلي-والنصر-في-دوري-روشن-السعودي-2026-2027-وكيف-تشاهدها-عبر-الإنترنت/blt17f843138a00b4a9",
+    "meta_id": "18418713172090480",
+    "published_at": "2026-11-19T09:51:26.087590+00:00"
   },
   {
     "id": "20261119-1045-2-fb-reel",
