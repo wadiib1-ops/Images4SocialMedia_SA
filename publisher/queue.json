@@ -7658,5 +7658,93 @@
     "publish_at": "2026-11-20T19:50:54+01:00",
     "titel": "تشكيلة الأهلي المتوقعة أمام النصر",
     "quelle_url": "https://www.sportksa.net/main/archives/508218"
+  },
+  {
+    "id": "20261120-1850-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261120-1850-1.png",
+    "caption": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال\n\nكشف الأمير محمد بن فيصل، الرئيس السابق للهلال، تفاصيل جديدة عن قضية عقد محمد نور في حديثه ببودكاست على بياض.\n\nوقال إن الاتحاد أضاف سنوات إلى عقد اللاعب. فغضب نور وفتح باب التفاوض مع الهلال.\n\nوأضاف أن المحادثات مع الهلال بدأت عام ألفين وستة، وأنه نصح بتقديم شكوى لإلغاء العقد، فتشكلت لجنة للنظر فيها.\n\nوبحسب حديثه، كان تسرب القضية إلى الإعلام السبب الرئيسي في فشل انتقال نور إلى الهلال.\n\nكيف تقيّمون هذه الرواية عن قضية عقد نور؟\n\n#الاتحاد #الهلال #محمد_نور",
+    "status": "now",
+    "titel": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%B9%D9%82%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/bltfdc8706e3262f4be"
+  },
+  {
+    "id": "20261120-1850-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-1850-1.jpg",
+    "caption": "ماذا حدث خلف الكواليس بين محمد نور والاتحاد والهلال؟ 👀\n\nالأمير محمد بن فيصل يروي كيف تحول تعديل عقد نور إلى أزمة بين اللاعب وناديه 📝\n\nبدأت المحادثات مع الهلال، ثم جاء التسريب الإعلامي الذي أغلق الباب ⚽\n\nما رأيكم في هذه القصة؟ شاركونا في التعليقات 💬\n\n#محمد_نور #الاتحاد #الهلال #الكرة_السعودية #دوري_روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T21:55:00+01:00",
+    "titel": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%B9%D9%82%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/bltfdc8706e3262f4be"
+  },
+  {
+    "id": "20261120-1850-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%B9%D9%82%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/bltfdc8706e3262f4be"
+  },
+  {
+    "id": "20261120-1850-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-1850-1.jpg",
+    "caption": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال\n\nكشف الأمير محمد بن فيصل، الرئيس السابق للهلال، تفاصيل جديدة عن قضية عقد محمد نور في حديثه ببودكاست على بياض.\n\nكيف تقيّمون هذه الرواية عن قضية عقد نور؟\n\n#الاتحاد #الهلال #محمد_نور",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T21:55:00+01:00",
+    "titel": "كواليس عقد محمد نور مع الاتحاد وانتقاله المتعثر إلى الهلال",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%B9%D9%82%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/bltfdc8706e3262f4be"
+  },
+  {
+    "id": "20261120-1850-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261120-1850-2.png",
+    "caption": "بوسيتش يرد على مطالبات إقالته\n\nتحدث مدرب الأهلي مارينو بوسيتش لقناة ثمانية ردًا على مطالبات جماهيرية بإقالته.\n\nوقال إن الفريق يسير في الطريق الصحيح والروح الجماعية جيدة.\n\nواعترف بأن الأهلي لم يقدم مستواه المعتاد أمام الشباب. ورغم لعبه نحو ثمانين دقيقة بعشرة لاعبين، لم يبحث عن أعذار.\n\nواستشهد برحلة الدوحة الصعبة والتعادل مع السد دون أهداف.\n\nووعد بأقصى جهد والتزام من اللاعبين، وطلب دعم الجماهير في الأوقات الصعبة.\n\nكيف تقرؤون المرحلة الحالية للأهلي؟\n\n#الأهلي #دوري_روشن #بوسيتش",
+    "status": "now",
+    "titel": "بوسيتش يرد على مطالبات إقالته",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%88-%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D8%B4-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A-%D8%B1%D9%88%D8%B4%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/blt4eac2ec78b949693"
+  },
+  {
+    "id": "20261120-1850-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-1850-2.jpg",
+    "caption": "مدرب الأهلي يتحدث بعد الضغط الجماهيري 🎙️\n\nبوسيتش يؤكد أن الفريق يسير في الطريق الصحيح، ويعترف بأن الأداء أمام الشباب لم يكن بالمستوى المعتاد 📉\n\nوعد بأقصى جهد من اللاعبين وطلب الدعم في الأوقات الصعبة 💪\n\nهل تثقون بقدرة الأهلي على تجاوز هذه المرحلة؟ 💬\n\n#الأهلي #بوسيتش #دوري_روشن #الكرة_السعودية #روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T21:55:00+01:00",
+    "titel": "بوسيتش يرد على مطالبات إقالته",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%88-%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D8%B4-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A-%D8%B1%D9%88%D8%B4%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/blt4eac2ec78b949693"
+  },
+  {
+    "id": "20261120-1850-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بوسيتش يرد على مطالبات إقالته",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%88-%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D8%B4-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A-%D8%B1%D9%88%D8%B4%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/blt4eac2ec78b949693"
+  },
+  {
+    "id": "20261120-1850-2-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-1850-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-1850-2.jpg",
+    "caption": "بوسيتش يرد على مطالبات إقالته\n\nتحدث مدرب الأهلي مارينو بوسيتش لقناة ثمانية ردًا على مطالبات جماهيرية بإقالته.\n\nكيف تقرؤون المرحلة الحالية للأهلي؟\n\n#الأهلي #دوري_روشن #بوسيتش",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T21:55:00+01:00",
+    "titel": "بوسيتش يرد على مطالبات إقالته",
+    "quelle_url": "https://www.goal.com/ar-sa/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%88-%D8%A8%D9%88%D8%B3%D9%8A%D8%AA%D8%B4-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A-%D8%B1%D9%88%D8%B4%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/blt4eac2ec78b949693"
   }
 ]
