@@ -7102,5 +7102,49 @@
     "quelle_url": "https://www.sportksa.net/main/archives/508195",
     "meta_id": "1113121364867730",
     "published_at": "2026-11-20T03:23:44.717735+00:00"
+  },
+  {
+    "id": "20261120-0645-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261120-0645-1.png",
+    "caption": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر\n\nأكد مارينو بوسيتش مدرب الأهلي جاهزية فريقه لمواجهة النصر اليوم. وتقام المباراة على ملعب مدينة الملك عبدالله الرياضية في جدة، وهي من الجولة التاسعة المؤجلة من دوري روشن للمحترفين.\n\nوقال إن الفريقين تضررا من التوقف الدولي بسبب لاعبيهما الدوليين. وأوضح أنه يركز على المجموعة كاملة ولا يتحدث عن لاعب بعينه.\n\nالأهلي سادس برصيد إحدى وعشرين نقطة، والنصر ثالث برصيد ثماني وعشرين.\n\nكيف تتوقعون نتيجة قمة الأهلي والنصر في جدة؟\n\n#الأهلي #النصر #دوري_روشن",
+    "status": "now",
+    "titel": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر",
+    "quelle_url": "https://ajel.sa/sports/sjeu75yfq"
+  },
+  {
+    "id": "20261120-0645-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-0645-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-0645-1.jpg",
+    "caption": "ساعات قليلة تفصلنا عن قمة جدة ⚽🔥\n\nمدرب الأهلي مارينو بوسيتش يؤكد أن فريقه جاهز تمامًا للقاء النصر على ملعب مدينة الملك عبدالله الرياضية. المباراة من الجولة التاسعة المؤجلة، والتوقف الدولي أثّر على الفريقين.\n\nبوسيتش يركز على المجموعة كاملة، والأهلي في المركز السادس والنصر في الثالث 💚\n\nمن تتوقعون أن يخرج فائزًا؟ 👇\n\n#الأهلي #النصر #بوسيتش #دوري_روشن #الكرة_السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T09:50:14+01:00",
+    "titel": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر",
+    "quelle_url": "https://ajel.sa/sports/sjeu75yfq"
+  },
+  {
+    "id": "20261120-0645-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-0645-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر",
+    "quelle_url": "https://ajel.sa/sports/sjeu75yfq"
+  },
+  {
+    "id": "20261120-0645-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261120-0645-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261120-0645-1.jpg",
+    "caption": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر\n\nأكد مارينو بوسيتش مدرب الأهلي جاهزية فريقه لمواجهة النصر اليوم. وتقام المباراة على ملعب مدينة الملك عبدالله الرياضية في جدة، وهي من الجولة التاسعة المؤجلة من دوري روشن للمحترفين.\n\nكيف تتوقعون نتيجة قمة الأهلي والنصر في جدة؟\n\n#الأهلي #النصر #دوري_روشن",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T09:50:14+01:00",
+    "titel": "بوسيتش يعلن جاهزية الأهلي لمواجهة النصر",
+    "quelle_url": "https://ajel.sa/sports/sjeu75yfq"
   }
 ]
