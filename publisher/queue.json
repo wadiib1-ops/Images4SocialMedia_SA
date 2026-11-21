@@ -8193,9 +8193,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261121-1045-1.png",
     "caption": "أغلق الهلال ملف تجديد عقد محمد كنو بعد التوصل إلى اتفاق نهائي على بقائه مع الفريق.\n\nوبلغت مفاوضات تجديد عقد ناصر الدوسري مراحلها الأخيرة، مع تقارب كبير في وجهات النظر حول بقية البنود.\n\nويسعى النادي إلى حسم الملفين قبل فتح باب التفاوض الحر مع الأندية الأخرى في يناير، حفاظًا على العناصر الأساسية وتوفيرًا للاستقرار الفني.\n\nهل ينجح الهلال في إنهاء ملف الدوسري قبل يناير؟\n\n#الهلال #كنو #الدوسري",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يحسم تجديد كنو ويقترب من الدوسري",
-    "quelle_url": "https://www.sportksa.net/main/archives/508227"
+    "quelle_url": "https://www.sportksa.net/main/archives/508227",
+    "meta_id": "122111544069541897",
+    "published_at": "2026-11-21T09:52:31.697297+00:00"
   },
   {
     "id": "20261121-1045-1-ig-reel",
@@ -8215,9 +8217,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261121-1045-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يحسم تجديد كنو ويقترب من الدوسري",
-    "quelle_url": "https://www.sportksa.net/main/archives/508227"
+    "quelle_url": "https://www.sportksa.net/main/archives/508227",
+    "meta_id": "18157638454522692",
+    "published_at": "2026-11-21T09:52:31.697297+00:00"
   },
   {
     "id": "20261121-1045-1-fb-reel",
@@ -8237,9 +8241,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261121-1045-2.png",
     "caption": "ضم تصنيف للمدربين الأعلى أجرًا في موسم 2026-2027 مدربَي الهلال والنصر.\n\nجاء الإيطالي سيموني إنزاجي مدرب الهلال ثانيًا بنحو 26 مليون يورو سنويًا، خلف مدرب أرسنال ميكيل أرتيتا الذي تصدر بنحو 29 مليون يورو.\n\nوحل الأسترالي أنجي بوستيكوجلو مدرب النصر ضمن القائمة بنحو 11.5 مليون يورو.\n\nوالأرقام تقديرات إعلامية سنوية وليست بيانات رسمية من الأندية.\n\nهل يستحق إنزاجي هذا الراتب مع الهلال؟\n\n#الهلال #النصر #دوري_روشن",
-    "status": "now",
+    "status": "published",
     "titel": "إنزاجي وبوستيكوجلو بين الأعلى أجراً عالمياً",
-    "quelle_url": "https://www.sportksa.net/main/archives/508234"
+    "quelle_url": "https://www.sportksa.net/main/archives/508234",
+    "meta_id": "122111544423541897",
+    "published_at": "2026-11-21T09:52:31.697297+00:00"
   },
   {
     "id": "20261121-1045-2-ig-reel",
@@ -8259,9 +8265,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261121-1045-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "إنزاجي وبوستيكوجلو بين الأعلى أجراً عالمياً",
-    "quelle_url": "https://www.sportksa.net/main/archives/508234"
+    "quelle_url": "https://www.sportksa.net/main/archives/508234",
+    "meta_id": "18142715596730241",
+    "published_at": "2026-11-21T09:52:31.697297+00:00"
   },
   {
     "id": "20261121-1045-2-fb-reel",
