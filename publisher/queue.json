@@ -8981,9 +8981,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261122-1445-1.png",
     "caption": "الخلود يتسلم مقره الجديد في الرياض\n\nتسلمت إدارة النادي المقر الجديد في حي المصيف بالعاصمة الرياض. ويمتد المشروع على مساحة خمسة عشر ألف متر مربع، وجرى تجهيزه وفق معايير فنية وهندسية عالية لاحتياجات الفريق الأول.\n\nوينتظر افتتاحه رسميًا خلال شهر ديسمبر المقبل بعد انتقال تدريبات الفريق وأعماله من الرس إلى الرياض.\n\nهل سينعكس المقر الجديد على استقرار الفريق؟\n\n#الخلود #دوري_روشن #الرياض",
-    "status": "now",
+    "status": "published",
     "titel": "الخلود يتسلم مقره الجديد في الرياض",
-    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344128"
+    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344128",
+    "meta_id": "122112024357541897",
+    "published_at": "2026-11-22T13:51:52.683777+00:00"
   },
   {
     "id": "20261122-1445-1-ig-reel",
@@ -9003,9 +9005,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261122-1445-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الخلود يتسلم مقره الجديد في الرياض",
-    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344128"
+    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344128",
+    "meta_id": "18181228864380911",
+    "published_at": "2026-11-22T13:51:52.683777+00:00"
   },
   {
     "id": "20261122-1445-1-fb-reel",
@@ -9025,9 +9029,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261122-1445-2.png",
     "caption": "محرز يواجه الأهلي في دوري أبطال آسيا للنخبة\n\nيستضيف الشمال القطري الأهلي مساء الاثنين في الجولة الخامسة. يحتل الأهلي المركز السادس بثماني نقاط، والشمال الثامن بخمس نقاط.\n\nويعود رياض محرز لمواجهة فريقه السابق بعد التسجيل في آخر أربع مباريات. وساهم الجزائري في تسعة أهداف خلال سبع مباريات هذا الموسم.\n\nفهل ينجح الأهلي في الخروج بنقاط المباراة؟\n\n#الأهلي #محرز #دوري_أبطال_آسيا_للنخبة",
-    "status": "now",
+    "status": "published",
     "titel": "محرز يواجه الأهلي في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344276"
+    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344276",
+    "meta_id": "122112024585541897",
+    "published_at": "2026-11-22T13:51:52.683777+00:00"
   },
   {
     "id": "20261122-1445-2-ig-reel",
@@ -9047,9 +9053,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261122-1445-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "محرز يواجه الأهلي في دوري أبطال آسيا للنخبة",
-    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344276"
+    "quelle_url": "https://aawsat.com/الرياضة/رياضة-سعودية/5344276",
+    "meta_id": "17999803380020627",
+    "published_at": "2026-11-22T13:51:52.683777+00:00"
   },
   {
     "id": "20261122-1445-2-fb-reel",
