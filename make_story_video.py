@@ -22,6 +22,9 @@ SECTIONS = [
  "من اللاعب القادر على سد الفراغ في تشكيلة الأهلي أمام النصر؟",
  "شاركونا توقعاتكم وتابعوا كل جديد عن دوري روشن",
 ]
+import json
+if os.path.exists(os.path.join(W, "sections.json")):
+    SECTIONS = json.load(open(os.path.join(W, "sections.json"), encoding="utf-8"))
 n = len(SECTIONS); D = 0.5 + 3.0 * n
 tracks = sorted(glob.glob(os.path.join(R, "Video", "*.mp3")))
 track = random.choice(tracks)
