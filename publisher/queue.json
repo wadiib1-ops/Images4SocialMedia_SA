@@ -12765,5 +12765,49 @@
     "publish_at": "2026-11-27T09:48:31+01:00",
     "titel": "الشباب يتغلب على أبها بهدف براونهيل",
     "quelle_url": "https://ajel.sa/sports/oyml4kawd"
+  },
+  {
+    "id": "20261127-0850-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261127-0850-1.png",
+    "caption": "الفيصلي يخطف التعادل من الدرعية في دوري روشن\n\nانتهت المباراة بالتعادل بهدفين لكل فريق في الجولة الثالثة عشرة.\n\nتقدم الدرعية بهدفين عبر ديندي في الدقيقة الثامنة ثم قبل نهاية الشوط الأول، وعاد الفيصلي بهدفي أليكساندر ميندي وثيو بونجوندا في آخر عشرين دقيقة.\n\nوكانت هذه أول مباراة للمدرب التونسي محمد الدهمان مع الفيصلي.\n\nما رأيكم في أداء الفيصلي بعد تغيير المدرب؟\n\n#دوري_روشن #الفيصلي #الدرعية",
+    "status": "now",
+    "titel": "الفيصلي يخطف التعادل من الدرعية في دوري روشن",
+    "quelle_url": "https://www.spl.com.sa/ar/news/الفيصلي-يخطف-تعادلا-صعبا-من-الدرعية"
+  },
+  {
+    "id": "20261127-0850-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0850-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261127-0850-1.jpg",
+    "caption": "⚽ ريمونتادا جزئية في اللحظات الأخيرة!\n\nكان الدرعية متقدمًا بهدفين حتى الدقيقة السبعين، لكن الفيصلي رفض الخسارة 🔥\n\nهدف من ميندي وآخر من بونجوندا أنقذا نقطة ثمينة في أول مباراة للمدرب محمد الدهمان 👏\n\nالنتيجة النهائية: تعادل بهدفين لكل فريق 🤝\n\n#دوري_روشن #الفيصلي #الدرعية #السعودية #كرة_القدم",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T11:48:56+01:00",
+    "titel": "الفيصلي يخطف التعادل من الدرعية في دوري روشن",
+    "quelle_url": "https://www.spl.com.sa/ar/news/الفيصلي-يخطف-تعادلا-صعبا-من-الدرعية"
+  },
+  {
+    "id": "20261127-0850-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0850-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الفيصلي يخطف التعادل من الدرعية في دوري روشن",
+    "quelle_url": "https://www.spl.com.sa/ar/news/الفيصلي-يخطف-تعادلا-صعبا-من-الدرعية"
+  },
+  {
+    "id": "20261127-0850-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0850-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261127-0850-1.jpg",
+    "caption": "الفيصلي يخطف التعادل من الدرعية في دوري روشن\n\nانتهت المباراة بالتعادل بهدفين لكل فريق في الجولة الثالثة عشرة.\n\nتقدم الدرعية بهدفين عبر ديندي في الدقيقة الثامنة ثم قبل نهاية الشوط الأول، وعاد الفيصلي بهدفي أليكساندر ميندي وثيو بونجوندا في آخر عشرين دقيقة.\n\nوكانت هذه أول مباراة للمدرب التونسي محمد الدهمان مع الفيصلي.\n\nما رأيكم في أداء الفيصلي بعد تغيير المدرب؟\n\n#دوري_روشن #الفيصلي #الدرعية",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T11:48:56+01:00",
+    "titel": "الفيصلي يخطف التعادل من الدرعية في دوري روشن",
+    "quelle_url": "https://www.spl.com.sa/ar/news/الفيصلي-يخطف-تعادلا-صعبا-من-الدرعية"
   }
 ]
