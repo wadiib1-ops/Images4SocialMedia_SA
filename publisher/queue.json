@@ -12709,5 +12709,49 @@
     "publish_at": "2026-11-27T01:50:00+01:00",
     "titel": "مارتينيز: رونالدو في مصاف ميسي ومارادونا",
     "quelle_url": "https://www.sportksa.net/main/archives/508400"
+  },
+  {
+    "id": "20261127-0650-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/feed-20261127-0650-1.png",
+    "caption": "الشباب يتغلب على أبها بهدف دون رد\n\nسجل جوش براونهيل هدف الفوز في الدقيقة التاسعة والثلاثين، ضمن الجولة الثالثة عشرة من دوري روشن السعودي.\n\nوفي الدقيقة الثانية والستين طُرد مامادو باري من صفوف الشباب.\n\nوصل الشباب إلى عشرين نقطة، وبقي أبها عند ثلاث نقاط.\n\nهل يواصل الشباب تحسن نتائجه في الجولات المقبلة؟\n\n#الشباب #دوري_روشن #أبها",
+    "status": "now",
+    "titel": "الشباب يتغلب على أبها بهدف براونهيل",
+    "quelle_url": "https://ajel.sa/sports/oyml4kawd"
+  },
+  {
+    "id": "20261127-0650-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0650-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261127-0650-1.jpg",
+    "caption": "⚽ هدف واحد كان كافيًا للشباب في أبها!\n\nبراونهيل يسجل في الدقيقة التاسعة والثلاثين، والشباب يكمل المباراة بعد طرد مامادو باري 🔥\n\nثلاث نقاط ترفع رصيد الفريق إلى عشرين نقطة في الجولة الثالثة عشرة 💪\n\nما رأيكم في أداء الشباب؟ 👇\n\n#الشباب #أبها #دوري_روشن #الدوري_السعودي #كرة_القدم_السعودية",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T09:48:31+01:00",
+    "titel": "الشباب يتغلب على أبها بهدف براونهيل",
+    "quelle_url": "https://ajel.sa/sports/oyml4kawd"
+  },
+  {
+    "id": "20261127-0650-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0650-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الشباب يتغلب على أبها بهدف براونهيل",
+    "quelle_url": "https://ajel.sa/sports/oyml4kawd"
+  },
+  {
+    "id": "20261127-0650-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/video-out/musik-20261127-0650-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia_SA/main/images/cover-20261127-0650-1.jpg",
+    "caption": "الشباب يتغلب على أبها بهدف دون رد\n\nسجل جوش براونهيل هدف الفوز في الدقيقة التاسعة والثلاثين، ضمن الجولة الثالثة عشرة من دوري روشن السعودي.\n\nوصل الشباب إلى عشرين نقطة، وبقي أبها عند ثلاث نقاط.\n\nهل يواصل الشباب تحسن نتائجه في الجولات المقبلة؟\n\n#الشباب #دوري_روشن #أبها",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T09:48:31+01:00",
+    "titel": "الشباب يتغلب على أبها بهدف براونهيل",
+    "quelle_url": "https://ajel.sa/sports/oyml4kawd"
   }
 ]
